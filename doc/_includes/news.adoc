@@ -26,4 +26,4 @@ June 3, 2020
 
 https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[two songs and one]
 
-image::news/cover-2-songs-1.jpg[link=images/news/cover-2-songs-1.jpg]
+image::news/cover-2-songs-1.jpg[width=50%,link=images/news/cover-2-songs-1.jpg]

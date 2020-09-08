@@ -5,6 +5,7 @@
 :toc: left
 :nofooter:
 :sectnums:
+:figure-caption!:
 
 [abstract]
 
@@ -13,3 +14,4 @@ Diese Website wird gerade umgebaut.
 
 
 include::{includedir}/news.adoc[]
+include::{includedir}/works.adoc[]
