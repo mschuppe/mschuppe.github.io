@@ -15,3 +15,5 @@ Diese Website wird gerade umgebaut.
 
 include::{includedir}/news.adoc[]
 include::{includedir}/works.adoc[]
+include::{includedir}/about.adoc[]
+include::{includedir}/reviews.adoc[]

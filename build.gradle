@@ -45,7 +45,12 @@ allprojects {
     }
    outputDir = file(".")
     attributes 'separateOutputDirs': false
-
+    copy {
+       from "doc/pdf"
+       into "./pdf"
+       include '**/*.pdf'
+       //println "copy ../public/${projectDir.getName()}"
+     }
 
 
   }
