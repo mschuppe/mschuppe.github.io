@@ -12,4 +12,4 @@
 Diese Website wird gerade umgebaut.
 
 
-// include::{includedir}/intro.adoc[]
+include::{includedir}/news.adoc[]
