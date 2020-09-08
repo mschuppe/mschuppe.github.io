@@ -1,0 +1,15 @@
+= Marianne Schuppe
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:nofooter:
+:sectnums:
+
+[abstract]
+
+
+Diese Website wird gerade umgebaut.
+
+
+// include::{includedir}/intro.adoc[]
