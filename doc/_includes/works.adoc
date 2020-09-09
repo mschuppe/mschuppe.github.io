@@ -1,14 +1,14 @@
 
 == works
 
-composer-performer
+=== composer-performer
 
 
 
-distant shapes / ferne Formen (2019)
-for voice and tape
+.distant shapes / ferne Formen (2019)
+for voice and tape, experiments with shapes and voices
 
-behind I + II (2018/2019)
+.behind I + II (2018/2019)
 for voice and two instruments
 
 nosongs (2017/18)
@@ -49,36 +49,34 @@ solo for voice (1988)
 '''
 
 
-collective and interdisciplinary works
+=== collective and interdisciplinary works
 
 to be completed
 
 '''
 
-composing for voices
+=== composing for voices
 
 
-die Summe (2018/19)
+.die Summe (2018/19)
 for choirs and more voices
 
 
-Salz, Lücke, Zelt (2018/2019)
+==== Salz, Lücke, Zelt (2018/2019)
 for 8 voices
 
 
-Aufbruch nach prrr (2018)
-for 10 voices and two saxophones
-a project with students of Gymnasium Oberwil
+Aufbruch nach prrr (2018):: for 10 voices and two saxophones +
+a project with students of Gymnasium Oberwil +
 
 
-der blumen (2017)
-for voices
+* der blumen (2017)
+* for voices
 performed by Sotto Voce Vocal Collective
 https://sottovocevocalcollective.wordpress.com/[listen and read],
 https://soundcloud.com/sottovocevocalcollective[listen on soundcloud]
 
-
-ortlos über die Küste hinaus (2016)
+* ortlos über die Küste hinaus (2016)
 for voices
 
 Laub (2014)
