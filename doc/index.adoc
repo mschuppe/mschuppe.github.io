@@ -6,11 +6,9 @@
 :nofooter:
 :sectnums:
 :figure-caption!:
+:sectnums!:
 
 [abstract]
-
-
-Diese Website wird gerade umgebaut.
 
 
 include::{includedir}/news.adoc[]
