@@ -3,6 +3,7 @@
 :imagesdir: ./images
 :icons: font
 :toc: left
+:toc-title:
 :nofooter:
 :sectnums:
 :figure-caption!:

@@ -1,6 +1,7 @@
 
 == about
 
+.english
 Marianne Schuppe is a German/Swiss performer and composer of music for voices, based in Basel, Switzerland.
 Previously she was known for her recordings of vocal music by Giacinto Scelsi and Morton Feldman and for her activities as an improviser.
 Since 2015 she is joining the wandelweiser composers ensemble.
@@ -18,24 +19,7 @@ She has been teaching for many years in Switzerland, Germany and Japan, is a gue
 As srtistic director of IGNM Basel committee she is curating a concert series of contemporary music in Basel.
 
 
-
-=== Selected Recordings
-
-
-
-nosongs, for voice, lute and uber-bows, edition wandelweiser 2018
-
-slowsongs, for voice, lute and e-bowsm edition wandelweiser, 2015
-
-Giacinto Scelsi, Pranam I and Khoom, Marianne Schuppe (voice) and Ensemble Phönix directed by Jürg Henneberger, telos records 2010
-
-Morton Feldman - Three Voices, Marianne Schuppe, Voice, Col Legno 2007
-
-Incantations, The Art of Song of Giacinto Selsi, Marianne Schuppe, Voice, New Albion 2006
-
-
-=== CV Deutsch
-
+.deutsch
 Sängerin und Komponistin, lebt in Basel und arbeitet an den Übergängen von Musik und Sprache.
 
 Bisher vor allem durch ihre Veröffentlichungen der Vokalmusik Giacinto Scelsis, Morton Feldmans und als Improvisatorin bekannt.
