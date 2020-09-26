@@ -35,13 +35,3 @@ icon:file[link=pdf/arbeitsweise.pdf]
 
 .Der Wohnwagen, Die Vorbereitung der Musik
 in : Aspekte der freien Improvisation in der Musik, Hrsg. Dieter Nanz, Wolke Verlag, 2011
-
-
-=== Gespräche
-
-.Die Indianer kommen näher
-Ein Gespräch in Emails mit Michael Kunkel,
-in : dissonanz # 106 Juni 2009 [FIXME link in listen]
-
-.Potentiale des Vergessens - ein Gespräch mit Aleida Assmann, André Blum, Wolfgang Knapp, Theresa Georgen, Marianne Schuppe und Veronika Sellier,
-in : du magazin, Januar/Februar 2011
