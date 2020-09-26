@@ -1,6 +1,10 @@
 
 == about
 
+.Portrait von Stefan Drees: Marianne Schuppes vokale Kunst der feinen Übergänge
+icon:file[link=pdf/sd.pdf,label="Neue Zeitschrift für Musik März 2017"]
+
+
 .english
 Marianne Schuppe is a German/Swiss performer and composer of music for voices, based in Basel, Switzerland.
 Previously she was known for her recordings of vocal music by Giacinto Scelsi and Morton Feldman and for her activities as an improviser.
@@ -43,9 +47,3 @@ image::about/3878.jpg[width=50%,link=images/about/3878.jpg]
 image::about/3818.jpg[width=50%,link=images/about/3818.jpg]
 
 photos: copyright Ute Schendel
-
-Portrait von Stefan Drees
-https://docs.google.com/a/marianneschuppe.com/viewer?a=v&pid=sites&srcid=bWFyaWFubmVzY2h1cHBlLmNvbXxkZXxneDo3MDI5ODE5ZjM2MjkyMmU5[Imaginäre Narrative]
-Marianne Schuppes vokale Kunst der feinen Übergänge
-
-in : Neue Zeitschrift für Musik 03/17
