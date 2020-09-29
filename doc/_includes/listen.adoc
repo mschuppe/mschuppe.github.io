@@ -1,45 +1,37 @@
 
 == listen
 
-edition wandelweiser +
-http://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1509.html[slow songs] +
-https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1802.html[nosongs] +
+https://soundcloud.com/marianne-schuppe[Marianne Schuppe on soundcloud]
+
+.edition wandelweiser
+[none]
+* http://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1509.html[slow songs]
+* https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1802.html[nosongs]
 
 
-col legno +
-https://www.col-legno.com/en/shop/20249-morton-feldman-three-voices[Morton Feldman-Three Voices]
+.col legno
+[none]
+* https://www.col-legno.com/en/shop/20249-morton-feldman-three-voices[Morton Feldman-Three Voices]
 
 
-soundcloud +
-https://soundcloud.com/marianne-schuppe[Marianne Schuppe on soundcloud] +
-https://soundcloud.com/cafeoto/ewr1509-marianne-schuppe-i-see-a-deer[cafe oto - slow songs] +
-https://soundcloud.com/cafeoto/ewr-1802-marianne-schuppe-april-from-nosongs[cafe oto - nosongs] +
-https://soundcloud.com/sottovocevocalcollective/der-blumen-by-marianne-schuppe-1[sotto voce vocal collective] +
-
-
-Youtube +
-Giacinto Scelsi +
-https://www.youtube.com/watch?v=3Kml5kW9nJE[Taiagarù I] +
-https://www.youtube.com/watch?v=wjguTpbOvdo[Taiagaru II] +
-https://www.youtube.com/watch?v=8C4zzonQ5IM[Sauh I-IV] +
+.soundcloud
+[none]
+* https://soundcloud.com/cafeoto/ewr1509-marianne-schuppe-i-see-a-deer[cafe oto - slow songs]
+* https://soundcloud.com/cafeoto/ewr-1802-marianne-schuppe-april-from-nosongs[cafe oto - nosongs]
+* https://soundcloud.com/cafeoto/tr024-marianne-schuppe-deux?in=cafeoto/sets/takuroku[cafe oto - deux]
 
 
 
-http://www.youtube.com/watch?v=33WK3zcUgkg[Luigi Nono Guai ai gelidi mostri] +
-
-http://www.youtube.com/watch?v=-5esds9MCls[Roland Dahinden - Das Blatt von Agnes]
-
-
-
-Radio +
-https://docs.google.com/open?id=0Bx0zcEKjLmHkaXRSZmxORzRUdzg[Reflexe DRS 2], Corinne Holtz im Gespräch mit Marianne Schuppe,
-3. April 2007
+.Youtube
+[none]
+* https://www.youtube.com/watch?v=3Kml5kW9nJE[Giacinto Scelsi / Taiagarù I]
+* https://www.youtube.com/watch?v=wjguTpbOvdo[Giacinto Scelsi / Taiagaru II]
+* https://www.youtube.com/watch?v=8C4zzonQ5IM[Giacinto Scelsi / Sauh I-IV]
+* http://www.youtube.com/watch?v=33WK3zcUgkg[Luigi Nono / Guai ai gelidi mostri]
+* http://www.youtube.com/watch?v=-5esds9MCls[Roland Dahinden / Das Blatt von Agnes]
 
 
-Genie oder Scharlatan, G. Scelsi zum 100. Geburtstag, Schweizer Radio DRS 2, Corinne Holtz im Gespräch mit Fred van der Kooij und Marianne Schuppe
-https://docs.google.com/open?id=0Bx0zcEKjLmHkakczQ29ZR3RqOU0[Teil 1] + https://docs.google.com/open?id=0Bx0zcEKjLmHkVTlQQ0ZFcGNOYzg[Teil 2]
 
-
-Portrait on Espais oberts/ +
-Catalunya Radio June 28, 2016 +
-http://www.ccma.cat/catradio/alacarta/espais-oberts/marianne-schuppe/audio/926842/
+.More
+[none]
+* http://www.ccma.cat/catradio/alacarta/espais-oberts/marianne-schuppe/audio/926842/[Portrait on Espais oberts Catalunya Radio June 28, 2016]

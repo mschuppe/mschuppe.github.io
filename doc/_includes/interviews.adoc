@@ -16,3 +16,11 @@ du magazin, Januar/Februar 2011
 .podcast by Krzysztof Dziuba
 icon:link[link="http://www.polskieradio.pl/8/740/Artykul/1700298,Postrockowy-Gorecki-i-inne-dzwieki-Huddersfield-2016"]
 Polish Radio about Huddersfield Contemporary Music Festival, including Slow Songs
+
+.Radio SRF: Corinne Holtz im Gespräch mit Marianne Schuppe
+icon:link[link=sounds/reflexe.mp3] Reflexe DRS 2 +
+{sp}3. April 2007
+
+.Radio SRF: Genie oder Scharlatan, G. Scelsi zum 100. Geburtstag
+icon:link[link=sounds/Scelsi-Genie oder Scharlatan 1.mp3] Teil 1, icon:link[link=sounds/Scelsi-Genie oder Scharlatan 2.mp3] Teil 2 +
+Schweizer Radio DRS 2, Corinne Holtz im Gespräch mit Fred van der Kooij und Marianne Schuppe

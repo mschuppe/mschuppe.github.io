@@ -20,7 +20,7 @@ Her works include text scores, poems, essays and ensemble pieces.
 Partners have been a.o. Alfred Zimmerlin, Andrea Wolfensberger, Antoine Beuger, Basel Sinfonietta, Caroline Wilkins, Dias&Riedweg, Dorothea Schürch, Ensemble Phönix, Hans-Jürg Meier, Katharina Klement, Klangforum Wien, Marc Kilchenmann, Michael Maierhof, Sotto Voce Ensemble, Stefan Thut, Sylwya Zytynska.
 
 She has been teaching for many years in Switzerland, Germany and Japan, is a guest lecturer for voice and improvisation at FHNW University of Music Basel and was a mentor in the Composers Meet Composers workshops at heim.art with Emmanuelle Waeckerlé, Joachim Eckl, Antoine Beuger and Jürg Frey.
-As srtistic director of IGNM Basel committee she is curating a concert series of contemporary music in Basel.
+As president of https://www.ignm-basel.ch/[IGNM Basel] committee she is curating a concert series of contemporary music in Basel.
 
 
 .deutsch
@@ -40,7 +40,7 @@ Partner*innen waren u.a. : Alfred Zimmerlin, Andrea Wolfensberger, Antoine Beuge
 
 Langjährige Lehrtätigkeit in der Schweiz, Deutschland und Japan an diversen Institutionen. Gastdozentin für Stimmimprovisation an der FHNW Basel sowie Mentorin am Composers Meet Composers workshop bei heim.art, Österreich mit Emmanuelle Waeckerlé, Joachim Eckl, Antoine Beuger und Jürg Frey.
 
-Als Präsidentin der IGNM Basel Kuratorin einer Konzertreihe mit zeitgenössischer Musik in Basel.
+Als Präsidentin der https://www.ignm-basel.ch/[IGNM Basel] Kuratorin einer Konzertreihe mit zeitgenössischer Musik in Basel.
 
 image::about/2715.jpg[width=50%,link=images/about/2715.jpg]
 image::about/3878.jpg[width=50%,link=images/about/3878.jpg]
