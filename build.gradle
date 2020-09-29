@@ -51,6 +51,12 @@ allprojects {
        include '**/*.pdf'
        //println "copy ../public/${projectDir.getName()}"
      }
+    copy {
+       from "doc/sounds"
+       into "./sounds"
+       include '**/*.mp3'
+       //println "copy ../public/${projectDir.getName()}"
+     }
 
 
   }
