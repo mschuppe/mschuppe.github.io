@@ -60,6 +60,7 @@
 * Anzahl Disks/Tonträger: 1
 * Label: Hexperimente
 * Dauer: 51'
+* icon:file[link=pdf/interview hexperimente.pdf] booklet (interview) by Corinne Holz
 * order: <<contact>>
 * image:recordings/hexperiment1CD.jpg[link=images/recordings/hexperiment1CD.jpg]
 
