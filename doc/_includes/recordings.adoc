@@ -1,19 +1,16 @@
-
+:figure-caption!:
 == recordings
 
 === solo
 
 .nosongs
-image::recordings/ewr1802.jpg[link=images/recordings/ewr1802.jpg]
-[literal]
-Marianne Schuppe, voice, lute, uber-bows
-Audio Cd (Mai 2018)
-Anzahl Disks/Tonträger: 1
-label : edition wandelweiser (2018)
-
-[no songs texts FIXME]
-
-Order: <<contact>>
+image::recordings/ewr1802.jpg[link=https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1802.html]
+[none]
+* Marianne Schuppe, voice, lute, uber-bows
+* Audio Cd (Mai 2018)
+* Anzahl Disks/Tonträger: 1
+* label : edition wandelweiser (2018)
+* order: <<contact>>
 
 
 .slow songs
