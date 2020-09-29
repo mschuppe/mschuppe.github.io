@@ -3,6 +3,14 @@
 
 === solo
 
+.two songs and one
+[none]
+* Marianne Schuppe, voice, lute, uber-bows
+* Digital Cd (Mai 2020)
+* label : https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[Takuroku]
+* https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[order]
+* image:news/cover-2-songs-1.jpg[width=25%,link=https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/]
+
 .nosongs
 [none]
 * Marianne Schuppe, voice, lute, uber-bows
@@ -60,147 +68,116 @@
 * Anzahl Disks/Tonträger: 1
 * Label: Hexperimente
 * Dauer: 51'
-* icon:file[link=pdf/interview hexperimente.pdf] booklet (interview) by Corinne Holz
-* order: <<contact>>
+* icon:file[link=pdf/Interview hexperimente.pdf] booklet (interview) by Corinne Holz
 * image:recordings/hexperiment1CD.jpg[link=images/recordings/hexperiment1CD.jpg]
 
 === Duo / Trio
 
-
 .selbdritt - von hier / Trio Selbdritt
-image::recordings/selbdrittCD.jpg[link=images/recordings/selbdrittCD.jpg]
-[literal]
-Marianne Schuppe, Stimme
-Sylwia Zytynska, Vibraphon
-Alfred Zimmerlin , Violoncello
-Audio CD (12. Januar 2007)
-Anzahl Disks/Tonträger: 1
-Label: stv/asm experimentell
-Dauer: 52'
+[none]
+* Marianne Schuppe, Stimme, Sylwia Zytynska, Vibraphon, Alfred Zimmerlin , Violoncello
+* Audio CD (12. Januar 2007)
+* Anzahl Disks/Tonträger: 1
+* Label: stv/asm experimentell
+* Dauer: 52'
+* icon:file[link=pdf/booklet selbdritt.pdf] booklet (extract) by Edu Haubensak
+* order: <<contact>>
+* image:recordings/selbdrittCD.jpg[link=images/recordings/selbdrittCD.jpg]
 
-Order: <<contact>>
-
-[verse, Textauszug von Edu Haubensak]
-Immer ist man im Gemeinsamen gleichzeitig auch allein. Nur das Ohr verbindet unverhofft und nur im Hören wird unsichtbar etwas hergestellt, das auf ein gemeinsames Alleine sein, auf etwas Zusammengehöriges hindeutet. Ein solches Zusammensein, ein jeder mit seinem Instrument, genährt durch einen fragmentierten Text frei nach Natalie Sarraute, ist von der Improvisationsgruppe selbdritt zu einem Hörstück in fünf Teilen herangereift. Als Instrumentarium finden wir vor, die Stimme, das Vibraphon und das Violoncello. Wort, Metall und Holz. Selbst zu dritt ein kleines Orchester. Im ersten Moment erscheint die Besetzung als ein heterogenes Gebilde, das sich aber bald und mit erstaunlichem Potenzial mischen wird. Wort, Metall, Holz...
-
-
-.wandern
-image::recordings/wandernCD.jpg[link=images/recordings/wandernCD.jpg]
-[literal]
-Invention für Sampling und Sprechstimme
-[literal]
-Marianne Schuppe, Stimme und Text
-Willy Daum, Tonband
-Audio CD (1996)
-Anzahl Disks/Tonträger: 1
-Dauer: 38'48"
-
-Order: <<contact>>
+.wandern - Invention für Sampling und Sprechstimme
+[none]
+* Marianne Schuppe, Stimme und Text, Willy Daum, Tonband
+* Audio CD (1996)
+* Anzahl Disks/Tonträger: 1
+* Dauer: 38'48"
+* image:recordings/wandernCD.jpg[link=images/recordings/wandernCD.jpg]
 
 .mundraub
-image::recordings/mundraubCD.jpg[link=images/recordings/mundraubCD.jpg]
-[literal]
-Marianne Schuppe, Stimme
-Christoph Schiller, Klavier
-Audio CD (1994)
-Anzahl Disks/Tonträger: 1
-Label: hybid
-Dauer: 59'14"
-
-Order: <<contact>>
+[none]
+* Marianne Schuppe, Stimme, Christoph Schiller, Klavier
+* Audio CD (1994)
+* Anzahl Disks/Tonträger: 1
+* Label: hybid
+* Dauer: 59'14"
+* order: <<contact>>
+* image:recordings/mundraubCD.jpg[link=images/recordings/mundraubCD.jpg]
 
 === Ensemble
 
 
-.Rito
-image::recordings/rito.jpg[link=images/recordings/rito.jpg]
-[literal]
-G. Scelsi - Pranam I & II, Khoom a.o.
-Marianne Schuppe, voice
-Ensemble Phoenix Basel
-directed by Jürg Henneberger
-Audio Cd (2014)
-Dauer : 56:19
-Label : telos
-
-Order: <<contact>>
+.Rito / G. Scelsi - Pranam I & II, Khoom a.o.
+[none]
+* Marianne Schuppe, voice, Ensemble Phoenix Basel directed by Jürg Henneberger
+* Audio Cd (2014)
+* Dauer : 56:19
+* Label : telos
+* order: <<contact>>
+* image:recordings/rito.jpg[link=images/recordings/rito.jpg]
 
 .Kärpf
-image::recordings/handaxe.jpg[link=images/recordings/handaxe.jpg]
-[literal]
-Schuppe, Tammen, Vorfeld, Wolf
-Audio CD (2010)
-Anzahl Disks/Tonträger: 1
-Dauer : 58:28
-Label: handaxe
-
-Order: <<contact>>
+[none]
+* Schuppe, Tammen, Vorfeld, Wolf
+* Audio CD (2010)
+* Anzahl Disks/Tonträger: 1
+* Dauer : 58:28
+* Label: handaxe
+* order: <<contact>>
+* image:recordings/handaxe.jpg[link=images/recordings/handaxe.jpg]
 
 
 .Rhön ensemble 2 INCQ
-image::recordings/incqCD.jpg[link=images/recordings/incqCD.jpg]
-[literal]
-Marianne Schuppe, Stimme, Joachim Zoepf, Sopransaxophon, Bassklarinette, Margrit Trescher, Querflöte, Dirk Marwedel, Erweitertes Saxophon, Hans Tammen, Gitarre, Elektronik, Ulrich Böttcher, Elektronik, Ulrich Phillipp, Kontrabass, Georg Wolf, Kontrabass, Michael Vorfeld, Perkussion, Wolfgang Schliemann, Perkussion
-Audio CD (2006), Anzahl Disks/Tonträger: 1
-Label: NURNICHTNUR, Dauer: 66'19"
-
-Order: <<contact>>
+[none]
+* Marianne Schuppe, Stimme, Joachim Zoepf, Sopransaxophon, Bassklarinette, Margrit Trescher, Querflöte, Dirk Marwedel, Erweitertes Saxophon, Hans Tammen, Gitarre, Elektronik, Ulrich Böttcher, Elektronik, Ulrich Phillipp, Kontrabass, Georg Wolf, Kontrabass, Michael Vorfeld, Perkussion, Wolfgang Schliemann, Perkussion
+* Audio CD (2006), Anzahl Disks/Tonträger: 1
+* Label: NURNICHTNUR, Dauer: 66'19"
+* order: <<contact>>
+* image:recordings/incqCD.jpg[link=images/recordings/incqCD.jpg]
 
 .Markus Eichenberger's Domino concept for Orchestra
-image::recordings/dominoCD.jpg[link=images/recordings/dominoCD.jpg]
-[literal]
-Marianne Schuppe, voice, Dorothea Schürch, voice,Carlos Baumann, trumpet, Paul Hubweber, trombone, Carl Ludwig Hübsch, tuba, Markus Eichenberger, clarinets, Dirk Marwdel, extended saxophones, Helmut Bieler-Wendt, violin, Charlotte Hug, viola, Peter K Frey, double bass, Daniel Studer, double bass, Frank Rühl, electric guitar, Ivano Torre, percussion
-Audio CD (2003), Anzahl Disks/Tonträger: 1
-Label: emanem, Dauer: 59'03"
-
-Order: <<contact>>
+[none]
+* Marianne Schuppe, voice, Dorothea Schürch, voice, Carlos Baumann, trumpet, Paul Hubweber, trombone, Carl Ludwig Hübsch, tuba, Markus Eichenberger, clarinets, Dirk Marwdel, extended saxophones, Helmut Bieler-Wendt, violin, Charlotte Hug, viola, Peter K Frey, double bass, Daniel Studer, double bass, Frank Rühl, electric guitar, Ivano Torre, percussion
+* Audio CD (2003), Anzahl Disks/Tonträger: 1
+* Label: emanem, Dauer: 59'03"
+* order: <<contact>>
+* image:recordings/dominoCD.jpg[link=images/recordings/dominoCD.jpg]
 
 === interdisciplinary works
 
-
 .Hitzewelle
-image::recordings/hitzewelleDVD.jpg[link=images/recordings/hitzewelleDVD.jpg]
-[literal]
-Andrea Wolfensberger, Konzept und Bild
-Marianne Schuppe, Komposition und Stimme
-Peter Vittali, Tontechnik
-[literal]
-5er Video DVD (s/w) Auflage (2004)
-Anzahl Disks: 1
-Dauer: 29'
-Preis auf Anfrage
+[none]
+* Andrea Wolfensberger, Konzept und Bild, Marianne Schuppe, Komposition und Stimme, Peter Vittali, Tontechnik
+* 5er Video DVD (s/w) Auflage (2004)
+* Anzahl Disks: 1
+* Dauer: 29'
+* icon:file[link=pdf/hitzewelle.pdf] text
+* image:recordings/hitzewelleDVD.jpg[link=images/recordings/hitzewelleDVD.jpg]
 
-
-Eine Steinwüste, mit stehender Super 8 - Kamera gefilmt. Man sieht das Flimmern der heissen Luft. Auf Video über- tragen änderte A. W..Bild um Bild die Geschwindigkeiten nach einem aperiodischen Algorithmus, so dass der Film in völliger Unregelmässigkeit zu "atmen" scheint. Für die Dauer des Videos wurden ca. 45'000 Schnitte vorgenommen.
-M.S. hat ein einstimmiges Melodiemotiv aus dem Codex las Huelgas (Spanien, 13./14. J.) in acht verschiedenen Tonhöhen gesungen und am Schnittplatz als Cluster übereinandergeschichtet. Auf diese Weise entsteht ein achtstimmiger Chor einer einzigen Stimme mit ihrem Originaltimbre. Diese wiederum dient als Basisbaustein für eine kanonische Akkumulation in pyramidialer Form. Im Verlauf des Videos werden 7 dieser achtstimmigen Chöre, insgesamt also 56 Stimmen, auf- und wieder abgebaut.
 
 .Luftbeschriftungen - Unterwegs in Kyrgyzstan, Aufzeichnungen einer musikalischen Forschungsreise Kyrgyzstan 2001
-image::recordings/kyrg.jpg[link=images/recordings/kyrg.jpg]
-[literal]
-CD 1
-Improvisationen, Kyrgyzstan 2001
-Marianne Schuppe, Stimme, Sebastian Mattmüller, Stimme
-Willy Daum, Bandoneon, Michael Maierhof, Cello
-Wolfgang Schliemann, Perkussion, Nurlan Nyshanov, Flöten, Okarina
-Temir Komuz, Maultrommel, Kniegeige
-CD 2
-Fundstücke zentralasiatischer Musik
-Feldaufnahmen aus Kyrgyzstan mit Musik aus Kyrgyzstan , Kazachzstan, Usbekistan, Tadschikistan, Aserbaidschan, Mongolei
-Hardcover, 53 Seiten mit Tonträger Audio CD (2002)
-Anzahl Disks/Tonträger: 2
-     Dauer: CD1 54'16" , CD2 51'32"
-
-Order: <<contact>>
+[none]
+* CD 1
+[none]
+** Improvisationen, Kyrgyzstan 2001
+** Marianne Schuppe, Stimme, Sebastian Mattmüller, Stimme
+** Willy Daum, Bandoneon, Michael Maierhof, Cello
+** Wolfgang Schliemann, Perkussion, Nurlan Nyshanov, Flöten, Okarina
+** Temir Komuz, Maultrommel, Kniegeige
+* CD 2
+[none]
+** Fundstücke zentralasiatischer Musik
+** Feldaufnahmen aus Kyrgyzstan mit Musik aus Kyrgyzstan , Kazachzstan, Usbekistan, Tadschikistan, Aserbaidschan, Mongolei
+* Hardcover, 53 Seiten mit Tonträger Audio CD (2002)
+* Anzahl Disks/Tonträger: 2
+* Dauer: CD1 54'16" , CD2 51'32"
+* order: <<contact>>
+* image:recordings/kyrg.jpg[link=images/recordings/kyrg.jpg]
 
 .Jakobs Stimme
-image::recordings/jakob.jpg[link=images/recordings/jakob.jpg]
-[literal]
 Jakob Tschopp erzählt aus seinem Leben als Beobachter, Protokollant und Sympathisant der Werkräume Basel.
 Ein Tondokument zur Geschichte des Werkraums Warteck Basel
-[literal]
-Jakob Tschopp,Text und Stimme
-Marianne Schuppe, Konzept und Realisation
-Audio CD (2000), Anzahl Disks/Tonträger: 1
-Dauer: 66'
-
-Order: <<contact>>
+[none]
+* Jakob Tschopp,Text und Stimme
+* Marianne Schuppe, Konzept und Realisation
+* Audio CD (2000), Anzahl Disks/Tonträger: 1
+* Dauer: 66'
+* image:recordings/jakob.jpg[link=images/recordings/jakob.jpg]
