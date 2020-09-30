@@ -292,7 +292,7 @@ Theatergarage Basel
 .the crucial crux of words
 [%hardbreaks]
 Marianne Schuppe, Stimme, Laute, Uber-Bows
-Symposium _performing voice_ hkb.bfh
+Symposium _performing voice_ Hochschule der Künste Bern
 Dampfzentrale Bern
 27.{sp}November 2014
 
@@ -320,24 +320,19 @@ Regula Konrad, Stimme, Marianne Schuppe, Stimme
 Maison 44 Basel
 11.{sp} April 2014
 
+.Marianne Schuppe - am Fenster
+[%hardbreaks]
+Marianne Schuppe, Stimme
+Malzsilo, Werkraum Warteck Basel
+10.{sp} April 2014
 
-'''
-=== here
-
-am Fenster
-Marianne Schuppe, Komposition und Gesang
-
-10.{sp} April 2014, 20 Uhr
-Malzsilo, Werkraum Warteck, Burgweg 15, 4057 Basel
-
-'''
-
-Hitzewelle
+.Hitzewelle
+[%hardbreaks]
 Andrea Wolfensberger (Bild) und Marianne Schuppe (Ton)
-
-22.2.-27.4. 2014
 Kunstmuseum Solothurn Werkhofstrasse 30, 4500 Solothurn
+22.{sp}2.-27. 4. 2014
 
+=== here
 '''
 
 asunder
