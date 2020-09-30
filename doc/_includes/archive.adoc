@@ -1,146 +1,105 @@
 
 == archive
 
-
-....
+.Stimme - Körper- Räume
+[%hardbreaks]
 Keynote Hochschule für Architektur Basel FHNW
 Masterstudiengang Architektur
+{sp}29. May 2020
 
-Stimme - Körper- Räume
 
-May 29
-....
-
-'''
-....
-Stefanie Erni, Voice
-Marianne Schuppe, Voice
-
-February 14, 20.30
-....
-
+.Improvisation
+[%hardbreaks]
+Stefanie Erni, Voice, Marianne Schuppe, Voice
 https://klangbang.wordpress.com/[Klangbang], Solothurnerstr.4, 4053 Basel
+{sp}14. Februar 2020
 
-'''
-....
-Solo Concert
-Giacinto Scelsi and a new work by myself
-
-Dezember 6
+.Giacinto Scelsi (Hô) and a new work by myself
+[%hardbreaks]
+Solo Concert in der Ausstellung von Andrea Wolfensberger
 Rotonde, Große Kunstschau, Worpswede
-....
+{sp}6. Dezember 2019
 
-'''
-
-https://www.bettinahelmrich.com/aktuell/[so what? ein Endstück]
-
-Bettina Helmrich, M. Glickson, Tanz
-Marianne Schuppe, Sprache
-Georg Wolf, Kontrabass
-Wolfgang Schliemann, Perkussion
-
-28./29./30.November  19.30 Uhr
+.so what? ein Endstück
+[%hardbreaks]
+Bettina Helmrich, Miranda Glickson,
+Tanz, Marianne Schuppe, Sprache, Georg Wolf, Kontrabass, Wolfgang Schliemann, Perkussion
 Dok 4 Halle, Kassel
+28./29./30.November 2019
 
-'''
-
-Marianne Schuppe - der blumen
+.Marianne Schuppe - der blumen
+[%hardbreaks]
 weitere Werke von Eva- Maria Houben, Karin Rehnqvist, Kassia, Yoko Ono, Meredith Monk u.a.
 Chor Superterz, Ltg. Antoine Beuger
-
-17.{sp} November 19.30
 Johanneskirche Köln-Brück
+17.{sp} November 2019
 
-'''
-
-https://www.cabaretvoltaire.ch/de/agenda/hausen.html?day=20191009&times=1570572000,1571608799[Hausen]
-
+.Hausen
+[%hardbreaks]
 Leo Hofmann und Benjamin van Bebber
 mit den Gästen Jürg Kienberger, Alla Poppersoni und Marianne Schuppe,
-
 11.{sp} - 20. Oktober 2019
 Cabaret Voltaire, Zürich
 
-'''
+image:archive/Hausen.jpg[width=40%,link=images/archive/Hausen.jpg]
 
-....
-Die Summe (2018/2019) UA
+.Die Summe (UA)
+[%hardbreaks]
 für Chöre und Einzelstimmen
 in öffentlichen Räumen
-
 10.-19. September 2019
 http://zeitraeumebasel.com/de/2019/spielplan/de-die-summe[Festival ZeitRäume Basel]
-....
 
-'''
-
-composers meet composers
+.composers meet composers
+[%hardbreaks]
+https://www.wandelweiser.de/composers_meet_composers/composers_meet_composers_2019.html[heim.art Neufelden,A]
 mit Antoine Beuger, Jürg Frey, Emmanuelle Waeckerle, Joachim Eckl, Marianne Schuppe
+June 23-30, 2019
 
-https://www.wandelweiser.de/composers_meet_composers/[heim.art Neufelden,A]
-
-June 23-30
-
-'''
-
-
-Marianne Schuppe - Salz, Lücke, Zelt (UA) für 8 Stimmen
+.Marianne Schuppe - Salz, Lücke, Zelt (UA) für 8 Stimmen
+[%hardbreaks]
 weitere Werke von Yagüe, Rautavaara, Pärt, Handl, Palestrina u.a.
-
-https://vokalkunst.ch/vokalkunst/konzerte/[Ensemble Voce]
-
+https://vokalkunst.ch/vokalkunst/projekte/[Ensemble Voce]
 15.Juni 2019 19.30 Uhr La Collégiale St. Ursanne
 16.Juni 2019 17 Uhr Kirche Amsoldingen
 17.Juni 2019 19.30 Uhr Predigerkirche Basel
 
-'''
 
-
-Marianne Schuppe - der blumen
+.Marianne Schuppe - der blumen
+[%hardbreaks]
 weitere Werke von Eva- Maria Houben, Karin Rehnqvist, Kassia, Yoko Ono, Meredith Monk u.a.
-
 Chor Superterz, Ltg. Antoine Beuger
-16.{sp} Juni, Epiphaniaskirche Köln-Bickendorf
+Epiphaniaskirche Köln-Bickendorf
+16.{sp} Juni 2019
 
-'''
-
-Marc Kilchenmann - inner core 2/Etüde
-Marianne Schuppe - behind 2
-Stefan Thut - afore
-
-Marc Kilchenmann, Fagott
-Marianne Schuppe, Stimme
-Stefan Thut, Violoncello
-
-17.{sp} Mai 2019, 19 Uhr
+.afore - inner core - behind
+[%hardbreaks]
+Marianne Schuppe, Stimme, Marc Kilchenmann, Fagott, Stefan Thut, Violoncello
 Münster Bern, Gewölbessal Daniel Heintz
+17.{sp} Mai 2019
 
-'''
 
+.Marianne Schuppe - Slow songs, nosongs
+[%hardbreaks]
 Solo
 https://www.dock-basel.ch/[Dock Basel]
+25.{sp} Januar 2019
 
-25.{sp} Januar, 19.00
-
-'''
-
-notes from the hill and other works
+.Marianne Schuppe - notes from the hill and other works
+[%hardbreaks]
 solo and duo with Antoine Beuger
 cosy nook, London
+January 12. 2019
 
-January 12
-
-'''
-
+.Marianne Schuppe - Slow songs, nosongs
+[%hardbreaks]
 https://www.cafeoto.co.uk/events/marianne-schuppe-slow-songs-nosongs/[slow songs],
 https://www.cafeoto.co.uk/events/marianne-schuppe-slow-songs-nosongs/[nosongs]
 Cafe Oto, London
-
 January 9, 2019
-https://misfitcity.org/category/experimental-music/deep-listening/
-scroll down
 
-'''
+
+=== here
 
 workshop Stimmimprovisation im Masterstudiengang
 Freie Improvisation FHNW Nordwestschweiz
