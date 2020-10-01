@@ -1,101 +1,146 @@
 
 == works
 
-Since the middle-eightees I have enjoyed passing on my experiences in elementary and experimental voice-work and singing to others. I have trained singers, dancers, speakers, teachers and other enthusiasts to develop their voices through groupwork and individual lessons. I have worked in theatre- and dance-productions as a voice trainer and musical advisor and I have given masterclasses and lectures on my work in Europe and Asia.
-I work with my own intergrative voice-body-tchnique based on classical singing and breathing-work after Erika Kemmann (Institut für Atemlehre Berlin) and Atem-Tonus-Ton developed by Maria Höller. This training facilitates improvisation, interpretation of an individual repertoire or other forms of creation. It is based on my own singing and performance practise of more than three decades and enriched through my experiences with Central-Asian vocal music. From 1995-2010 I have educated singers and speakers in the Atem-Tonus-Ton-method in Switzerland, Germany and Japan. Since 2013 I have been working as a guest-lecturer for voice and improvisation at the FHNW University of Music in Basel. Since 2008 I have been the director of a small student research ensemble, which focuses on improvisation, explores ways of singing together and has staged several performance-projects.
+I started to write music for myself,  because most of the existing contemporary voice pieces where not offering what I was interested in. I was interested in something beyond academic contemporary music, in between existing styles. I wanted to us my trained voice in a different way. Thus I began my own experiments. Starting from the body, singing sounds for a long time, listening to impulses of voice and body as they came up. This practise is still the base for my work .
 
 === composer-performer
-My compositions, often notated as text-scores, are providing a precise frame with possible different outcomes and are engaging performers with decisions of their own. They have been performed by trained voices as well as by less- or non-trained voices.
 
-.behind I + II (2018/2019)
+writing for oneself isn’t different from writing for others, you just know a little bit better, what you might be able to risk and you will not make the performer to do things she doesn’t identify with
+
+.behind I-III (2018/2019)
+[%hardbreaks]
 for voice and two instruments
+text: Marianne Schuppe
+_some sort of folksongs to be sung in trio or performed with solo voice and instruments_
 
 .nosongs (2017/18)
+[%hardbreaks]
 for voice, lute and uber-bows
+text: Marianne Schuppe
 
 .notes from the hill (2015)
+[%hardbreaks]
 for voice and one instrument
+_a songbook of short songs based on one-liners from a journal performed solo with any instrument or in duo, unfinished assemblage_
 
 .Sapphosongs (2015)
+[%hardbreaks]
 for voice and one instrument
+referring to a small selection of words by Sappho, commissioned by Ute Stoecklin/ maison 44
 
 .slow songs (2013-15)
+[%hardbreaks]
 for voice, lute, e-bows
+text: Marianne Schuppe
+_nor silent, kind or real are things in thinking_
 
 .am Fenster (2014)
+[%hardbreaks]
 for solo voice
+_where is the stage in a high-ceiled dark concrete-room ?_
 
 .tidstrand (2009)
+[%hardbreaks]
 for voice and instruments
+text: abgelauschte Sätze
+_encouraged by Jürg Frey for his concert series moments musicaux in Aarau, named after a swedish woolen blanket_
 
 .Avers (2008)
+[%hardbreaks]
 for voice, lute, e-bows
+longsong in seven parts based on the transkription of a witch trial in the Swiss mountainvalley of Avers in the 17th century,
+commissioned by Ina Boesch und Corinne Holtz for the opening of their performance series “Die Bühne im Avers”.
 
-.Hitzewelle(2004)
-music for videowork by https://andreawolfensberger.ch/works/03-04/[Andrea Wolfensberger]
+.Hitzewelle (2004)
+[%hardbreaks]
+music for videowork by Andrea Wolfensberger
+Multi-layered-tape-composition based on an antiphon of Codex las Huelgas (13th century).
+_Superposition of the canoned and transposed melody towards dissolution into a windlike texture._
 
 .stilleben (1997)
-for solo voice
-
-.wandern (1996)
-for voice and tape
+[%hardbreaks]
+_seven almost wordless miniatures for solo voice_
 
 .das imzu plaudern (1993)
+[%hardbreaks]
 for voice and tape
+text: Marianne Schuppe
+_Here speaking and singing at the same time became possible._
 
 .solo for voice (1988)
-
+[%hardbreaks]
+Kunsthaus Aarau
 
 === composing for voices
 
-.die Summe (2018/19) +
+Since the middle-eightees I have enjoyed passing on my experiences to others. I have taught singers, dancers, speakers, instrumentalists, teachers and other enthusiasts to develop their voices through groupwork and individual lessons. I have given masterclasses and lectures on voice in improvisation in Europe and Asia and worked in theatre- and dance-productions as a voice trainer and musical advisor. From this practise ideas for ensemble pieces arose and were realized.
+My compositions, often notated as text-scores, are providing a precise frame with possible different outcomes and are engaging performers with decisions of their own. They have been performed by trained voices as well as by less- or non-trained voices.
+
+.die Summe (2018/19)
+[%hardbreaks]
 https://soundcloud.com/marianne-schuppe/summe[for choirs and more voices], icon:file[link=pdf/summe.pdf]
+commissioned by Basel Festival ZeitRäume
+_an elusive 10 day lasting sculpture by a huge number of humming voices_
 
-.Salz, Lücke, Zelt (2018/2019) +
+.Salz, Lücke, Zelt (2018/2019)
+[%hardbreaks]
 for 8 voices
+text:  a selection of 23 words from the Bible, translated by every singer in her mothertongue, commissioned by Basel based ensemble Voce for a programme reflecting Whitsuntide.
 
-.Aufbruch nach prrr (2018) +
-for 10 voices and two saxophones +
-a project with students of Gymnasium Oberwil
+.Aufbruch nach prrr (2018)
+[%hardbreaks]
+for 10 voices and two saxophones
+_an imaginary journey with music-students of Gymnasium Oberwil reading, singing and dwelling through their favorite books._
+
+image:works/8806.jpg[width=50%,link=images/works/8806.jpg]
 
 .der blumen (2017)
-for voices +
-https://sottovocevocalcollective.com/2018/08/10/der-blumen-striving-to-become/[Sotto Voce Vocal Collective] +
-https://soundcloud.com/marianne-schuppe[listen on soundcloud] +
+[%hardbreaks]
+for any number  of voices
+text: epitaph found on a gravestone in the Strassbourg convent (c.1470-1480).
+_o mensch zart_
+_bedenck der blumen art_
+https://sottovocevocalcollective.com/2018/08/10/der-blumen-striving-to-become/[Sotto Voce Vocal Collective]
+https://soundcloud.com/marianne-schuppe[listen on soundcloud]
 https://youtu.be/j8DA6RD_vAA[Youtube]
 
 .ortlos über die Küste hinaus (2016)
 for voices
 
-.Laub (2014)
-for two voices
-
 .das Haus der Erinnerung (2010)
-a project with students of Gymnasium Oberwil
-and Musikschule Basel with Sylwia Zytynska and
-Fritz Hauser, Gare des enfants/Gare du Nord Basel
+[%hardbreaks]
+a project with students of Gymnasium Oberwil and Musikschule Basel with Sylwia Zytynska and Fritz Hauser, Gare des enfants/Gare du Nord Basel.
+text: made up by the students recalling and describing their routes to school and their children’s bedrooms.
 
 .temps (1998)
-for 8 voices
+[%hardbreaks]
+for 8 different-rooted voices
+text: weather diaries and logbook-notes from 5 centuries in different languages
+commissioned by Schweizer Tonkünstlerverein
 
 .Fahrzeug (1996)
-for 14 voices
-eighthour composition for 14 voices, Festival Performance Index Basel
+[%hardbreaks]
+eighthour composition
+commissioned and performed from 10pm until 6am at Festival Performance Index Basel
+_a sound-line through the night sustained by 14 voices in changing quartetts under a light bulb_
 
 .Gefälle (1995)
-for chamberchoir, Sudhaus, Werkraum Warteck Basel
+for reading voices in different languages, Sudhaus, Werkraum Warteck Basel.
 
 === collective and interdisciplinary works
 
 .still light (2020)
-Emmanuelle Waeckerle & Marianne Schuppe, composition and voices +
-https://www.wandelweiser.de/_concert-series/klangraum_2020_II.html[Klangraum Düsseldorf] +
-
 [%hardbreaks]
-.Aufbruch nach prrrr (2018)
-for ten voices and two saxophones, Gare du Nord, Basel
+Emmanuelle Waeckerle & Marianne Schuppe, composition and voices
+Klangraum Düsseldorf
+texts: Emmanuelle Waeckerle und Marianne Schuppe
+_a practise of difference after Luce Irigaray’s book “to be two”_
 
-image:works/8806.jpg[width=50%,link=images/works/8806.jpg]
+.Laub (2014)
+[%hardbreaks]
+for two voices
+text: Marianne Schuppe
+developed in and for the duo with Regula Konrad, soprano
 
 [%hardbreaks]
 .asunder (2013/2014)
@@ -103,8 +148,27 @@ for vocal-ensemble, live-music with the film The Fall of the House Usher, Theate
 
 image:works/7782.jpg[width=50%,link=images/works/7782.jpg]
 
-[%hardbreaks]
 .Das Haus der Erinnerung (2010)
+[%hardbreaks]
 for voices, tape and percussionists, a project with students of Gymnasium Oberwil and Musikschule Basel with Sylwia Zytynska and Fritz Hauser, Gare des enfants/Gare du Nord Basel
 
-image:works/haus-der-erinnerung.jpg[link=images/works/haus-der-erinnerung.jpg]
+.Die Tarnung (1998)
+for two voices
+text: Dorothea Schürch
+developed with and for duo with Dorothea Schürch, commisioned by Schweizer Tonkünstlerverein and performed on the high rack in the sportsground in Festival neue Musik Rümlingen -> link setzen
+
+.wandern (1995)
+[%hardbreaks]
+Invention for Sampling and Speaking Voice
+text and recording: Marianne Schuppe, sampling and mastering : Willy Daum, open air performance and commission by Festival Auau Ziegelei Oberwil
+
+.Winterreise (1994)
+[%hardbreaks]
+a performative approach to Franz Schubert’s Winterreise with Dorothea Schürch, Walter Stefan Riedweg and Christoph Schiller, Roxy Birsfelden
+https://mediathek.hgk.fhnw.ch/detail.php?id=zotero-1624911.48VIFUGD&q=c2d4735f38ac20db98723d585e70bec4&page=0&pagesize=25[Mediathek FHNW]
+
+.Es ist bloß die Schnur, die den Blumenstrauss umgibt (1992)
+[%hardbreaks]
+chamberopera with Dorothea Schürch ( voice), Thomas Eiffler (video), Christoph Schiller (piano)
+Werkraum Schlotterbeck
+https://mediathek.hgk.fhnw.ch/detail.php?id=zotero-1624911.DM9ACCQD&q=13035cd48735907095e1acdca3993b2e&page=0&pagesize=25[Mediathek FHNW]

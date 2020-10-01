@@ -1,5 +1,5 @@
 
-== about
+== path
 
 .Portrait von Stefan Drees: Marianne Schuppes vokale Kunst der feinen Übergänge
 icon:file[link=pdf/sd.pdf,label="Neue Zeitschrift für Musik März 2017"]
@@ -47,3 +47,7 @@ image::about/3878.jpg[width=50%,link=images/about/3878.jpg]
 image::about/3818.jpg[width=50%,link=images/about/3818.jpg]
 
 photos: copyright Ute Schendel
+
+.about my work
+Since the middle-eightees I have enjoyed passing on my experiences in elementary and experimental voice-work and singing to others. I have trained singers, dancers, speakers, teachers and other enthusiasts to develop their voices through groupwork and individual lessons. I have worked in theatre- and dance-productions as a voice trainer and musical advisor and I have given masterclasses and lectures on my work in Europe and Asia.
+I work with my own intergrative voice-body-tchnique based on classical singing and breathing-work after Erika Kemmann (Institut für Atemlehre Berlin) and Atem-Tonus-Ton developed by Maria Höller. This training facilitates improvisation, interpretation of an individual repertoire or other forms of creation. It is based on my own singing and performance practise of more than three decades and enriched through my experiences with Central-Asian vocal music. From 1995-2010 I have educated singers and speakers in the Atem-Tonus-Ton-method in Switzerland, Germany and Japan. Since 2013 I have been working as a guest-lecturer for voice and improvisation at the FHNW University of Music in Basel. Since 2008 I have been the director of a small student research ensemble, which focuses on improvisation, explores ways of singing together and has staged several performance-projects.

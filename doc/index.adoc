@@ -13,12 +13,12 @@
 
 
 include::{includedir}/news.adoc[]
+include::{includedir}/path.adoc[]
 include::{includedir}/works.adoc[]
-include::{includedir}/about.adoc[]
-include::{includedir}/reviews.adoc[]
 include::{includedir}/interviews.adoc[]
+include::{includedir}/essays.adoc[]
 include::{includedir}/listen.adoc[]
 include::{includedir}/recordings.adoc[]
-include::{includedir}/essays.adoc[]
+include::{includedir}/reviews.adoc[]
 include::{includedir}/contact.adoc[]
 include::{includedir}/archive.adoc[]
