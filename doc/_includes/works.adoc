@@ -1,17 +1,16 @@
 
 == works
 
-I started to write music for myself,  because most of the existing contemporary voice pieces where not offering what I was interested in. I was interested in something beyond academic contemporary music, in between existing styles. I wanted to us my trained voice in a different way. Thus I began my own experiments. Starting from the body, singing sounds for a long time, listening to impulses of voice and body as they came up. This practise is still the base for my work .
-
 === composer-performer
 
-writing for oneself isn’t different from writing for others, you just know a little bit better, what you might be able to risk and you will not make the performer to do things she doesn’t identify with
-
-.behind I-III (2018/2019)
+.behind I-III (2018/2020)
 [%hardbreaks]
 for voice and two instruments
 text: Marianne Schuppe
 _some sort of folksongs to be sung in trio or performed with solo voice and instruments_
+
+.distant shapes – ferne Formen (2019)
+for listeners and singers
 
 .nosongs (2017/18)
 [%hardbreaks]
@@ -21,7 +20,7 @@ text: Marianne Schuppe
 .notes from the hill (2015)
 [%hardbreaks]
 for voice and one instrument
-_a songbook of short songs based on one-liners from a journal performed solo with any instrument or in duo, unfinished assemblage_
+_an ongoing songbook of short songs based on one-liners from a journal performed solo with any instrument or in duo_
 
 .Sapphosongs (2015)
 [%hardbreaks]
@@ -54,18 +53,18 @@ commissioned by Ina Boesch und Corinne Holtz for the opening of their performanc
 .Hitzewelle (2004)
 [%hardbreaks]
 music for videowork by Andrea Wolfensberger
-Multi-layered-tape-composition based on an antiphon of Codex las Huelgas (13th century).
+Multi-layered-tape-composition based on a conductus of Codex las Huelgas (13th century).
 _Superposition of the canoned and transposed melody towards dissolution into a windlike texture._
 
 .stilleben (1997)
 [%hardbreaks]
-_seven almost wordless miniatures for solo voice_
+_fourteen almost wordless miniatures for solo voice_
 
 .das imzu plaudern (1993)
 [%hardbreaks]
 for voice and tape
 text: Marianne Schuppe
-_Here speaking and singing at the same time became possible._
+_Simultaneity of speaking and singing comes about by accident_
 
 .solo for voice (1988)
 [%hardbreaks]
@@ -80,12 +79,13 @@ My compositions, often notated as text-scores, are providing a precise frame wit
 [%hardbreaks]
 https://soundcloud.com/marianne-schuppe/summe[for choirs and more voices], icon:file[link=pdf/summe.pdf]
 commissioned by Basel Festival ZeitRäume
-_an elusive 10 day lasting sculpture by a huge number of humming voices_
+_a fluid sculpture through the city of Basel formed by smaller and bigger groups of humming voices_
 
 .Salz, Lücke, Zelt (2018/2019)
 [%hardbreaks]
 for 8 voices
-text:  a selection of 23 words from the Bible, translated by every singer in her mothertongue, commissioned by Basel based ensemble Voce for a programme reflecting Whitsuntide.
+text:  a selection of 23 words from the Bible, translated by every singer in her mothertongue,
+commissioned by Basel based ensemble Voce for a programme reflecting Whitsuntide.
 
 .Aufbruch nach prrr (2018)
 [%hardbreaks]
@@ -106,11 +106,8 @@ https://youtu.be/j8DA6RD_vAA[Youtube]
 
 .ortlos über die Küste hinaus (2016)
 for voices
+_placeless beyond the coast_
 
-.das Haus der Erinnerung (2010)
-[%hardbreaks]
-a project with students of Gymnasium Oberwil and Musikschule Basel with Sylwia Zytynska and Fritz Hauser, Gare des enfants/Gare du Nord Basel.
-text: made up by the students recalling and describing their routes to school and their children’s bedrooms.
 
 .temps (1998)
 [%hardbreaks]
@@ -148,24 +145,29 @@ for vocal-ensemble, live-music with the film The Fall of the House Usher, Theate
 
 image:works/7782.jpg[width=50%,link=images/works/7782.jpg]
 
-.Das Haus der Erinnerung (2010)
+.das Haus der Erinnerung (2010)
 [%hardbreaks]
-for voices, tape and percussionists, a project with students of Gymnasium Oberwil and Musikschule Basel with Sylwia Zytynska and Fritz Hauser, Gare des enfants/Gare du Nord Basel
+a project with students of Gymnasium Oberwil and Musikschule Basel in cooperation Sylwia Zytynska and Fritz Hauser, Gare des enfants/Gare du Nord Basel.
+text: made up by the students recalling and describing their routes to school and their childrens' bedrooms.
 
 .Die Tarnung (1998)
+[%hardbreaks]
 for two voices
 text: Dorothea Schürch
-developed with and for duo with Dorothea Schürch, commisioned by Schweizer Tonkünstlerverein and performed on the high rack in the sportsground in Festival neue Musik Rümlingen -> link setzen
+developed with and for duo with Dorothea Schürch,
+commissioned by Schweizer Tonkünstlerverein and performed on the high rack in the sportsground in Festival neue Musik Rümlingen
 
 .wandern (1995)
 [%hardbreaks]
 Invention for Sampling and Speaking Voice
-text and recording: Marianne Schuppe, sampling and mastering : Willy Daum, open air performance and commission by Festival Auau Ziegelei Oberwil
+text and recording: Marianne Schuppe, sampling and mastering : Willy Daum
+open air performance and commission by Festival Auau Ziegelei Oberwil
 
 .Winterreise (1994)
 [%hardbreaks]
 a performative approach to Franz Schubert’s Winterreise with Dorothea Schürch, Walter Stefan Riedweg and Christoph Schiller, Roxy Birsfelden
 https://mediathek.hgk.fhnw.ch/detail.php?id=zotero-1624911.48VIFUGD&q=c2d4735f38ac20db98723d585e70bec4&page=0&pagesize=25[Mediathek FHNW]
+_vom Herbeiführen des Affekts zur geeigneten Zeit_
 
 .Es ist bloß die Schnur, die den Blumenstrauss umgibt (1992)
 [%hardbreaks]
