@@ -1,6 +1,13 @@
 
 == works
 
+Listening to a voice, one may hear sounds or words. Words are linked to a specific language and understanding. Sounds may hide the voice as a human source. Though sounds are not bound to a specific vocabulary, they are as well carrying meaning, intended or not.
+Words and sounds constitute the presence of voice and do not exist independently. Both have a specific physicality. They interact, within or outside language. Together they enfold the complexity of singing.
+
+My compositions are rooted in my practise as a singer, vocalist, writer and teacher.
+Steps throughout these interweaving acitivities were :
+song - movement - improvisation - sound - breath - word - song - extended. Find a selection of my pieces here:
+
 === composer-performer
 
 .behind I-III (2018/2020)
@@ -16,16 +23,19 @@ for listeners and singers
 [%hardbreaks]
 for voice, lute and uber-bows
 text: Marianne Schuppe
+_came in here from side-doors_
+_found in a landscape of some other game_
 
-.notes from the hill (2015)
+.notes from the hill (2015/2019)
 [%hardbreaks]
 for voice and one instrument
-_an ongoing songbook of short songs based on one-liners from a journal performed solo with any instrument or in duo_
+an ongoing songbook of short melodies performed solo with any instrument or in duo
 
 .Sapphosongs (2015)
 [%hardbreaks]
 for voice and one instrument
 referring to a small selection of words by Sappho, commissioned by Ute Stoecklin/ maison 44
+_das Licht zurückwerfen_
 
 .slow songs (2013-15)
 [%hardbreaks]
@@ -49,16 +59,17 @@ _encouraged by Jürg Frey for his concert series moments musicaux in Aarau, name
 for voice, lute, e-bows
 longsong in seven parts based on the transkription of a witch trial in the Swiss mountainvalley of Avers in the 17th century,
 commissioned by Ina Boesch und Corinne Holtz for the opening of their performance series “Die Bühne im Avers”.
+_346 Jahre später schckt mir jemand eine Postkarte_
 
 .Hitzewelle (2004)
 [%hardbreaks]
 music for videowork by Andrea Wolfensberger
 Multi-layered-tape-composition based on a conductus of Codex las Huelgas (13th century).
-_Superposition of the canoned and transposed melody towards dissolution into a windlike texture._
+_a many-voiced canon towards dissolution into wind_
 
 .stilleben (1997)
 [%hardbreaks]
-_fourteen almost wordless miniatures for solo voice_
+_fourteen almost wordless still-lifes for voice_
 
 .das imzu plaudern (1993)
 [%hardbreaks]
@@ -72,14 +83,24 @@ Kunsthaus Aarau
 
 === composing for voices
 
-Since the middle-eightees I have enjoyed passing on my experiences to others. I have taught singers, dancers, speakers, instrumentalists, teachers and other enthusiasts to develop their voices through groupwork and individual lessons. I have given masterclasses and lectures on voice in improvisation in Europe and Asia and worked in theatre- and dance-productions as a voice trainer and musical advisor. From this practise ideas for ensemble pieces arose and were realized.
-My compositions, often notated as text-scores, are providing a precise frame with possible different outcomes and are engaging performers with decisions of their own. They have been performed by trained voices as well as by less- or non-trained voices.
+Since the middle-eightees I have enjoyed passing on my experiences in elementary and experimental voice-work and singing to others.
+I have trained singers, dancers, speakers, teachers and other enthusiasts to develop their voices through groupwork and individual lessons.
+I have worked in theatre- and dance-productions as a voice teacher and musical advisor and
+I have given masterclasses and lectures on my work in Europe and Asia.
+I work with my own intergrative voice-body-technique based on classical singing, breathing-work
+(after Erika Kemmann, Institut für Atemlehre Berlin and Atem-Tonus-Ton developed by Maria Höller)
+and movement (Roni Segal). This training facilitates improvisation, interpretation of an individual repertoire or other forms of creation.
+It is based on my own singing and performance practise of more than three decades and enriched through my experiences with Central-Asian vocal music.
+From 1995-2010 I have educated singers and speakers in the Atem-Tonus-Ton-method in Switzerland, Germany and Japan.
+Since 2013 I have been working as a guest-lecturer for voice and improvisation at the FHNW University of Music in Basel and other swiss university-music departments.
+Since 2008 I have been the director of an advanced student ensemble, which focuses on improvisation,
+ways of singing together mostly without tuning forks and has staged several performance-projects.
 
 .die Summe (2018/19)
 [%hardbreaks]
 https://soundcloud.com/marianne-schuppe/summe[for choirs and more voices], icon:file[link=pdf/summe.pdf]
 commissioned by Basel Festival ZeitRäume
-_a fluid sculpture through the city of Basel formed by smaller and bigger groups of humming voices_
+_a fluid sculpture through the city of Basel formed by smaller and bigger groups of humming voices over a period of ten days_
 
 .Salz, Lücke, Zelt (2018/2019)
 [%hardbreaks]
@@ -105,6 +126,7 @@ https://soundcloud.com/marianne-schuppe[listen on soundcloud]
 https://youtu.be/j8DA6RD_vAA[Youtube]
 
 .ortlos über die Küste hinaus (2016)
+[%hardbreaks]
 for voices
 _placeless beyond the coast_
 
@@ -162,6 +184,9 @@ commissioned by Schweizer Tonkünstlerverein and performed on the high rack in t
 Invention for Sampling and Speaking Voice
 text and recording: Marianne Schuppe, sampling and mastering : Willy Daum
 open air performance and commission by Festival Auau Ziegelei Oberwil
+_kleines Kreisen mittleres Kreisen großes Kreisen_
+_ins inländisch Ausländische hinein_
+_ins ausländisch Inländische hinaus_
 
 .Winterreise (1994)
 [%hardbreaks]

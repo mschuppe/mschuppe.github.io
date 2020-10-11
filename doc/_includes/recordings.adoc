@@ -17,6 +17,7 @@
 * Audio Cd (Mai 2018)
 * Anzahl Disks/Tonträger: 1
 * label : https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1802.html[edition wandelweiser (2018)]
+* icon:file[link=pdf/text nosongs.pdf] lyrics
 * order: <<contact>>
 * image:recordings/ewr1802.jpg[link=https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1802.html]
 
