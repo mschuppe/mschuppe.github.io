@@ -33,7 +33,6 @@
 * order: <<contact>>
 * image:recordings/ewr1509.jpg[link=http://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1509.html]
 
-
 .Three Voices / Morton Feldman
 [none]
 * Marianne Schuppe, Stimme
@@ -44,9 +43,6 @@
 * icon:file[link=pdf/booklet three voices.pdf] booklet (extract) by Thomas Meyer
 * order: <<contact>>
 * image:recordings/feldmanCD.jpg[link=images/recordings/feldmanCD.jpg]
-
-
-
 
 .Incantations / Giacinto Scelsi
 [none]
@@ -59,7 +55,6 @@
 * icon:file[link=pdf/booklet scelsi.pdf] booklet (extract) by Michael Kunkel
 * order: <<contact>>
 * image:recordings/scelsiCD.jpg[link=images/recordings/scelsiCD.jpg]
-
 
 .Hexperiment I
 [none]
