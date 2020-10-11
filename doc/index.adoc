@@ -12,7 +12,7 @@
 [abstract]
 
 
-include::{includedir}/news.adoc[]
+include::{includedir}/nowthen.adoc[]
 include::{includedir}/path.adoc[]
 include::{includedir}/works.adoc[]
 include::{includedir}/interviews.adoc[]
