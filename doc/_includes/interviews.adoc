@@ -1,6 +1,9 @@
 
 == interviews
 
+.Interview mit der Sängerin Irene Kurka
+https://neuemusikleben.podigee.io/114-neue-episode/embed?context=external"[neuemusikleben]
+
 .DIE SUMME Neun Fragen an Marianne Schuppe
 icon:file[link=pdf/summe.pdf], https://zeitraeumebasel.com/de/2019/spielplan/de-die-summe[Zeiträume Basel 2019]
 
