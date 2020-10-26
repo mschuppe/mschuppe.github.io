@@ -5,7 +5,7 @@
 [%hardbreaks]
 Keynote Hochschule für Architektur Basel FHNW
 Masterstudiengang Architektur
-{sp}29. May 2020
+{sp}29. Mai 2020
 
 
 .Improvisation
