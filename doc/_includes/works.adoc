@@ -10,11 +10,11 @@ song - movement - improvisation - sound - breath - word - song - extended. Find 
 
 === composer-performer
 
-.behind I-III (2018/2020)
+.behind I-IV (2018/2020)
 [%hardbreaks]
 for voice and two instruments
 text: Marianne Schuppe
-_some sort of folksongs to be sung in trio or performed with solo voice and instruments_
+_a ransong to be sung in trio or performed with solo voice and instruments_
 
 .distant shapes – ferne Formen (2019)
 for listeners and singers
@@ -130,7 +130,6 @@ https://youtu.be/j8DA6RD_vAA[Youtube]
 for voices
 _placeless beyond the coast_
 
-
 .temps (1998)
 [%hardbreaks]
 for 8 different-rooted voices
@@ -150,9 +149,10 @@ for reading voices in different languages, Sudhaus, Werkraum Warteck Basel.
 
 .still light (2020)
 [%hardbreaks]
-Emmanuelle Waeckerle & Marianne Schuppe, composition and voices
+Emmanuelle Waeckerlé & Marianne Schuppe, composition and voices
 Klangraum Düsseldorf
-texts: Emmanuelle Waeckerle und Marianne Schuppe
+texts: Emmanuelle Waeckerlé und Marianne Schuppe
+https://soundcloud.com/emmanuelle-waeckerle/still-light-5[on soundcloud]
 _a practise of difference after Luce Irigaray’s book “to be two”_
 
 .Laub (2014)

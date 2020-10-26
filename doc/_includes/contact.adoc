@@ -8,5 +8,5 @@ Switzerland
 
 Tel. +41 61 271 89 33
 
-
-image::follow.jpg[]
+.email address
+image:follow.jpg[]
