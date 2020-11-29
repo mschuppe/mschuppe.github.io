@@ -1,13 +1,6 @@
 
 == now & then
 
-.workshop Stimmimprovisation im Masterstudiengang Freie Improvisation FHNW Basel
-30.10 - 1.11. 2020 +
-Werkstattkonzert der Studierenden +
-{empty}1. November 15h00, Klaus Linder Saal, Leonhardstrasse 6, 4009 Basel
-
-NOTE:  Das Konzert findet statt, Anmeldung http://www.musik-akademie.ch[unter] empfohlen.
-
 .afore - inner core - behind
 Thut - Schuppe - Kilchenmann +
 play works by themselves
@@ -17,13 +10,16 @@ Stefan Thut, cello +
 Marc Kilchenmann, bassoon and microtonal chimes +
 
 [%hardbreaks]
-Dezember 7  http://montagsumsieben.ch/fr-accueil.html[Atelier Pia Maria Biel]
+Dezember 7 http://montagsumsieben.ch/fr-accueil.html[Atelier Pia Maria Biel] ( *verschoben* )
 November 5  http://www.serenawey.ch/index.php?id=2[Theatergarage Basel]
 September 3  https://www.walcheturm.ch/agenda/trio-thut-schuppe-kilchenmann-afore-inner-core-behind[Kunstraum Walcheturm Zürich]
 
+{sp} +
+{sp} +
+[%hardbreaks]
 .two songs and one
-new solo album released with Takuroku, London +
-June 3, 2020 +
+new solo album released with Takuroku, London
+June 3, 2020
 
 https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[two songs and one]
 
