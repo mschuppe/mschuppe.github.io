@@ -1,21 +1,14 @@
 
 == now & then
 
-.afore - inner core - behind
-Thut - Schuppe - Kilchenmann +
-play works by themselves
-
-Marianne Schuppe, voice +
-Stefan Thut, cello +
-Marc Kilchenmann, bassoon and microtonal chimes +
-
 [%hardbreaks]
-Dezember 7 http://montagsumsieben.ch/fr-accueil.html[Atelier Pia Maria Biel] ( *verschoben* )
-November 5  http://www.serenawey.ch/index.php?id=2[Theatergarage Basel]
-September 3  https://www.walcheturm.ch/agenda/trio-thut-schuppe-kilchenmann-afore-inner-core-behind[Kunstraum Walcheturm Zürich]
+.publication / Veröffentlichung
+english: icon:file[link=pdf/words-music-words.pdf]
+deutsch: icon:file[link=pdf/Wörter-Musik-Wörter.pdf], erschienen in _improfil_, Theorie und Praxis improvisierter Musik, Nr. 83, Dezember 2020
 
 {sp} +
 {sp} +
+
 [%hardbreaks]
 .two songs and one
 new solo album released with Takuroku, London
