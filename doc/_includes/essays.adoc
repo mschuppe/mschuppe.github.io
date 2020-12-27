@@ -1,6 +1,12 @@
 
 == essays
 
+.words-music-words / Wörter-Musik-Wörter
+[%hardbreaks]
+english: icon:file[link=pdf/words-music-words.pdf]
+deutsch: icon:file[link=pdf/Wörter-Musik-Wörter.pdf], erschienen in _improfil_, Theorie und Praxis improvisierter Musik, Nr. 83, Dezember 2020
+
+
 .Leuchtende Losgelöstheit
 icon:file[link=pdf/Hirayama.pdf] Nachruf auf Michiko Hirayama (1923 bis 2018) von Marianne Schuppe.
 
@@ -24,8 +30,7 @@ https://www.verlag-koenigshausen-neumann.de/product_info.php/info/p7273_Potentia
 Hrsg.von André Blum, Theresa Georgen, Wolfgang Knapp, Veronika Sellier, Königshausen und Neumann, Würzburg 2012
 
 .Die doppelte Stelle, Singen und Sprechen in der Musik G. Scelsis
-icon:file[link=pdf/Doppelte Stelle
-.pdf] _Verkörperungen_, Max-Planck-Institut für Wissenschaftsgeschichte, preprint 416, André Blum et al. [Hrsg.], 2011 und im Akademie Verlag, Berlin 2012
+icon:file[link=pdf/Doppelte Stelle.pdf] _Verkörperungen_, Max-Planck-Institut für Wissenschaftsgeschichte, preprint 416, André Blum et al. [Hrsg.], 2011 und im Akademie Verlag, Berlin 2012
 
 .Übersetzen als Arbeitsweise
 icon:file[link=pdf/arbeitsweise.pdf] Programmnotiz zu _Hochland- Übersetzungen_, Hans-Jürg Meier, Sarah Giger, Balts Nill, Marianne Schuppe
