@@ -3,8 +3,8 @@
 
 [%hardbreaks]
 .publication / Veröffentlichung
-english: icon:file[link=pdf/words-music-words.pdf]
-deutsch: icon:file[link=pdf/Wörter-Musik-Wörter.pdf], erschienen in _improfil_, Theorie und Praxis improvisierter Musik, Nr. 83, Dezember 2020
+_words music words_: icon:file[link=pdf/words-music-words.pdf]
+_Wörter Musik Wörter_: icon:file[link=pdf/Wörter-Musik-Wörter.pdf], erschienen in _improfil_, Theorie und Praxis improvisierter Musik, Nr. 83, Dezember 2020
 
 {sp} +
 {sp} +
