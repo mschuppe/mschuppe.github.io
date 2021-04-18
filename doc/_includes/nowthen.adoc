@@ -1,10 +1,27 @@
 
 == now & then
 
+
+
 [%hardbreaks]
-.publication / Veröffentlichung
-_words music words_: icon:file[link=pdf/words-music-words.pdf]
-_Wörter Musik Wörter_: icon:file[link=pdf/Wörter-Musik-Wörter.pdf], erschienen in _improfil_, Theorie und Praxis improvisierter Musik, Nr. 83, Dezember 2020
+.Salz. Lücke, Zelt (2018)
+von Marianne Schuppe
+Ensemble https://vokalkunst.ch/vokalkunst/termine/[voce]
+{sp}5. Juni, 19.30 Predigerkirche Basel
+
+[%hardbreaks]
+.readwalking - a direction out there
+by Emmanuelle Waeckerlé
+with Marie-Cécile Reber, electronics, Emmanuelle Waeckerlé, voice
+and
+Stefan Thut, viol, Marianne Schuppe, voice
+{sp}6. Juni Säulenhalle Solothurn
+
+[%hardbreaks]
+.Salz. Lücke, Zelt (2018)
+von Marianne Schuppe
+Ensemble https://vokalkunst.ch/vokalkunst/termine/[voce]
+{sp}4. Juli, Kulturkirche am See, Berlin Alt-Tegel
 
 {sp} +
 {sp} +
