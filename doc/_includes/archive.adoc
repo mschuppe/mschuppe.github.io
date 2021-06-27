@@ -1,6 +1,20 @@
 
 == archive
 
+
+[%hardbreaks]
+.readwalking - a direction out there
+by Emmanuelle Waeckerlé
+with Marie-Cécile Reber, electronics, Emmanuelle Waeckerlé, voice
+Stefan Thut, viol, Marianne Schuppe, voice
+{sp}6. Juni, 19h00 Säulenhalle Solothurn
+
+[%hardbreaks]
+.Salz. Lücke, Zelt (2018)
+von Marianne Schuppe
+Ensemble https://vokalkunst.ch/vokalkunst/termine/[voce]
+{sp}5. Juni, 19.30 Predigerkirche Basel
+
 .afore - inner core - behind
 Thut - Schuppe - Kilchenmann +
 play works by themselves
@@ -25,6 +39,11 @@ Keynote Hochschule für Architektur Basel FHNW
 Masterstudiengang Architektur
 {sp}29. Mai 2020
 
+.still light
+[%hardbreaks]
+Emmanuelle Waeckerle and Marianne Schuppe, composition and voices
+Klangraum Düsseldorf,  Himmelsgeisterstr.107, 40225 Düsseldorf
+{sp}27.7-2.8. 2020
 
 .Improvisation
 [%hardbreaks]
@@ -61,7 +80,7 @@ Cabaret Voltaire, Zürich
 
 image:archive/Hausen.jpg[width=40%,link=images/archive/Hausen.jpg]
 
-.Die Summe (UA)
+.Die Summe 19 (UA)
 [%hardbreaks]
 für Chöre und Einzelstimmen
 in öffentlichen Räumen
