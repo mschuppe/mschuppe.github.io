@@ -4,7 +4,7 @@
 
 [%hardbreaks]
 .Die Summe 21, für Chöre und Einzelstimmen
-8.-19. September 21, Festival ZeitRäume, Basel
+8.-19. September 21, Festival https://zeitraeumebasel.com/die-summe-21[ZeitRäume], Basel
 
 [%hardbreaks]
 .neues Solo
