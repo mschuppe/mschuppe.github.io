@@ -10,10 +10,6 @@ icon:file[link=pdf/Summe.pdf] _Der Ton, die anderen und ich_ von Isabel Zürcher
 .ZeitRäume Basel: Die Summe 21
 video::FzARMc6bdE0[youtube]
 
-[%hardbreaks]
-.neues Solo
-{sp}3.-8. August, Klangraum Düsseldorf, Himmelsgeisterstr.107, 40225 Düsseldorf
-
 {sp} +
 {sp} +
 
