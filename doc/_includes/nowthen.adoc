@@ -1,14 +1,18 @@
 
 == now & then
 
+[%hardbreaks]
+.Zwei Stimmen
+Stefanie Erni, Marianne Schuppe
+24.Oktober  17 Uhr
+Atelier Judith Eckert
+Kirchgasse 7, 4118 Rodersdorf
 
 [%hardbreaks]
 .Die Summe 21, für Chöre und Einzelstimmen
 8.-19. September 21, Festival https://zeitraeumebasel.com/die-summe-21[ZeitRäume], Basel
 icon:file[link=pdf/Summe.pdf] _Der Ton, die anderen und ich_ von Isabel Zürcher.
 
-.ZeitRäume Basel: Die Summe 21
-video::FzARMc6bdE0[youtube]
 
 {sp} +
 {sp} +
