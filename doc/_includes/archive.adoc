@@ -40,7 +40,7 @@ Marianne Schuppe, Stimme
 [%hardbreaks]
 .Salz. Lücke, Zelt (2018)
 von Marianne Schuppe
-Ensemble https://vokalkunst.ch/vokalkunst/termine/[voce]
+Ensemble https://vokalkunst.ch/vokalkunst/termine/[Voce]
 {sp}4. Juli, 17h00 Predigerkirche Basel
 
 [%hardbreaks]

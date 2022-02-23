@@ -2,8 +2,9 @@
 == now & then
 
 [%hardbreaks]
-.Salz, Lücke, Zelt
-Ensemble Voce
+.Salz, Lücke, Zelt (2018)
+von Marianne Schuppe
+Ensemble https://vokalkunst.ch/vokalkunst/termine/[Voce]
 Samstag, 2. Juli, 19:30: Stadtkirche, Aarau
 Mittwoch, 29. Juni, 19:30: Herz-Jesu-Kirche, Laufen
 Sonntag, 26. Juni, 17:00: Kulturkirche am See, Berlin
