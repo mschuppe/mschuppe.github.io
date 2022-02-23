@@ -5,6 +5,7 @@
 [%hardbreaks]
 _words music words_: icon:file[link=pdf/words-music-words.pdf]
 _Wörter Musik Wörter_: icon:file[link=pdf/Wörter-Musik-Wörter.pdf], erschienen in _improfil_, Theorie und Praxis improvisierter Musik, Nr. 83, Dezember 2020
+_mots musique mots_: icon:file[link=pdf/mots-musique-mots.pdf]
 
 
 .Leuchtende Losgelöstheit

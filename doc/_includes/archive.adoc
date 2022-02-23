@@ -1,9 +1,39 @@
 
 == archive
 
+[%hardbreaks]
+.anon - inner core - colline sur livre
+Thut - Schuppe - Kilchenmann
+spielen eigene Stücke
+Marianne Schuppe, Stimme
+Stefan Thut, Cello
+Marc Kilchenmann, Fagott und mikrotonales Glockenspiel
 
 [%hardbreaks]
-.coline sur livre
+6.Dezember  19 Uhr
+_Montags um Sieben_
+Alleestr. 11, 2503 Biel/Bienne
+
+[%hardbreaks]
+.Die Summe
+13.November  17 Uhr
+Sud, Werkraum Warteck
+Burgweg 7, 4058 Basel
+
+[%hardbreaks]
+.Zwei Stimmen
+Stefanie Erni, Marianne Schuppe
+24.Oktober  17 Uhr
+Atelier Judith Eckert
+Kirchgasse 7, 4118 Rodersdorf
+
+[%hardbreaks]
+.Die Summe 21, für Chöre und Einzelstimmen
+8.-19. September 21, Festival https://zeitraeumebasel.com/die-summe-21[ZeitRäume], Basel
+icon:file[link=pdf/Summe.pdf] _Der Ton, die anderen und ich_ von Isabel Zürcher.
+
+[%hardbreaks]
+.colline sur livre
 Marianne Schuppe, Stimme
 {sp}3.-8. August, Klangraum Düsseldorf, Himmelsgeisterstr.107, 40225 Düsseldorf
 

@@ -2,45 +2,49 @@
 == now & then
 
 [%hardbreaks]
-.anon - inner core - colline sur livre
-Thut - Schuppe - Kilchenmann
-spielen eigene Stücke
+.Salz, Lücke, Zelt
+Ensemble Voce
+Samstag, 2. Juli, 19:30: Stadtkirche, Aarau
+Mittwoch, 29. Juni, 19:30: Herz-Jesu-Kirche, Laufen
+Sonntag, 26. Juni, 17:00: Kulturkirche am See, Berlin
+
+[%hardbreaks]
+.Performance
+Marianne Schuppe, Lukas Huber, Vincent Hofmann u.a.
+{sp}17. Juni
+Kloster Dornach, Amthausstrasse 7, 4143 Dornach
+
+[%hardbreaks]
+.Ungehörte Ordnungen
 Marianne Schuppe, Stimme
-Stefan Thut, Cello
-Marc Kilchenmann, Fagott und mikrotonales Glockenspiel
+Sergej Tchirkov, Akkordeon
+Alfred Zimmerlin, Violoncello
+{sp}20. Mai 19.30
+Maison 44, Steinenring 44, 4051 Basel
 
 [%hardbreaks]
-6.Dezember  19 Uhr
-_Montags um Sieben_
-Alleestr. 11, 2503 Biel/Bienne
+.colline sur livre
+_Knickse Fäden Windpapier_
+Marianne Schuppe, Stimme, Laute, Uber-bows
+{sp}25. März 19.30
+Maison 44, Steinenring 44, 4051 Basel
 
 {sp} +
+
+'''
+
+{sp} +
+
+==== Recent releases
+
 
 [%hardbreaks]
-.Die Summe
-13.November  17 Uhr
-Sud, Werkraum Warteck
-Burgweg 7, 4058 Basel
-
-{sp} +
-
-[%hardbreaks]
-.Zwei Stimmen
-Stefanie Erni, Marianne Schuppe
-24.Oktober  17 Uhr
-Atelier Judith Eckert
-Kirchgasse 7, 4118 Rodersdorf
-
-{sp} +
-
-[%hardbreaks]
-.Die Summe 21, für Chöre und Einzelstimmen
-8.-19. September 21, Festival https://zeitraeumebasel.com/die-summe-21[ZeitRäume], Basel
-icon:file[link=pdf/Summe.pdf] _Der Ton, die anderen und ich_ von Isabel Zürcher.
-
-
-{sp} +
-{sp} +
+.a direction out there, readwalking (with) thorau
+by Emmanuelle Waeckerlé
+Marianne Schuppe, Voice
+Stefan Thut, Viol
+Edition Wandelweiser https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr2109-10.html[2109/10]
+June 2021
 
 [%hardbreaks]
 .two songs and one
@@ -48,5 +52,3 @@ new solo album released with Takuroku, London
 June 3, 2020
 
 https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[two songs and one]
-
-image::news/cover-2-songs-1.jpg[width=50%,link=images/news/cover-2-songs-1.jpg]
