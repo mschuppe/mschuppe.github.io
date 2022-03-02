@@ -12,6 +12,7 @@
 [abstract]
 
 
+include::{includedir}/csl.adoc[]
 include::{includedir}/nowthen.adoc[]
 include::{includedir}/path.adoc[]
 include::{includedir}/works.adoc[]

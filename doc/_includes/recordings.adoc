@@ -3,6 +3,16 @@
 
 === solo
 
+
+
+
+
+.two songs and one
+[none]
+* Marianne Schuppe, voice, lute, uber-bows
+* limited edition
+* 2021
+
 .two songs and one
 [none]
 * Marianne Schuppe, voice, lute, uber-bows
@@ -20,7 +30,6 @@
 * icon:file[link=pdf/text nosongs.pdf] lyrics
 * order: <<contact>>
 * image:recordings/ewr1802.jpg[link=https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1802.html]
-
 
 .slow songs
 [none]
@@ -68,6 +77,13 @@
 * image:recordings/hexperiment1CD.jpg[link=images/recordings/hexperiment1CD.jpg]
 
 === Duo / Trio
+
+.a direction out there, readwalking (with) thorau
+[none]
+* by Emmanuelle Waeckerlé, Marianne Schuppe, Voice, Stefan Thut, Viol
+* Edition Wandelweiser https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr2109-10.html[2109/10]
+* June 2021
+* image:recordings/ewr2109-10.jpg[link=images/recordings/ewr2109-10.jpg, width=35%]
 
 .selbdritt - von hier / Trio Selbdritt
 [none]
