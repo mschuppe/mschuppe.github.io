@@ -1,7 +1,16 @@
 
 == Colline sur livre
 
-image::csl/3-22-2.jpg[link=images/csl/3-22-2.jpg,width=50%]
+++++
+<style>
+  .imageblock > .title {
+    text-align: inherit;
+  }
+</style>
+++++
+
+.MS, 2010
+image::csl/3-22-2.jpg[link=images/csl/3-22-2.jpg,width=50%, align="center"]
 
 ----
 Viele Fragen, Versuche, Erfahrungen und Widerstände
@@ -37,8 +46,8 @@ zu dieser Praxis öffne ich hier ein Fenster in diesen Prozess.
 ----
 <<audio>>
 
-
-image::csl/3-22-1.jpg[link=images/csl/3-22-1.jpg,width=50%]
+.MS, 2010
+image::csl/3-22-1.jpg[link=images/csl/3-22-1.jpg,width=50%, align="center"]
 
 
 ----
