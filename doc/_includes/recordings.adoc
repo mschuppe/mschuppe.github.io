@@ -3,15 +3,13 @@
 
 === solo
 
-
-
-
-
 .two songs and one
 [none]
 * Marianne Schuppe, voice, lute, uber-bows
 * limited edition
 * 2021
+* image:recordings/two_one_private_1.jpg[width=18%,link=images/recordings/two_one_private_1.jpg]
+* image:recordings/two_one_private_2.jpg[width=18%,link=images/recordings/two_one_private_2.jpg]
 
 .two songs and one
 [none]
@@ -19,7 +17,7 @@
 * Digital Cd (Mai 2020)
 * label : https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[Takuroku]
 * https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[order]
-* image:news/cover-2-songs-1.jpg[width=25%,link=https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/]
+* image:recordings/cover-2-songs-1.jpg[width=25%,link=https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/]
 
 .nosongs
 [none]
