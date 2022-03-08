@@ -8,8 +8,8 @@
 * Marianne Schuppe, voice, lute, uber-bows
 * limited edition
 * 2021
-* image:recordings/two_one_private_1.jpg[width=18%,link=images/recordings/two_one_private_1.jpg]
-* image:recordings/two_one_private_2.jpg[width=18%,link=images/recordings/two_one_private_2.jpg]
+* image:recordings/two_one_private_1.jpg[width=16.5%,link=images/recordings/two_one_private_1.jpg]
+* image:recordings/two_one_private_2.jpg[width=20%,link=images/recordings/two_one_private_2.jpg]
 
 .two songs and one
 [none]
