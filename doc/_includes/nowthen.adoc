@@ -2,6 +2,15 @@
 == now & then @ 2022
 
 [%hardbreaks]
+.entrevoix
+Stefanie Erni, voice
+Marianne Schuppe, voice
+{sp}10. Juli
+Biennale d'Art, sentier de passeur
+F- 88210 Quiex / Le Saulcy
+
+
+[%hardbreaks]
 .Salz, Lücke, Zelt (2018)
 von Marianne Schuppe
 Ensemble https://vokalkunst.ch/vokalkunst/termine/[Voce]
@@ -10,8 +19,14 @@ Mittwoch, 29. Juni, 19:30: Herz-Jesu-Kirche, Laufen
 Sonntag, 26. Juni, 17:00: Kulturkirche am See, Berlin
 
 [%hardbreaks]
+.insub
+new work for and with https://insub.org/polytopies/[insub] ensemble
+{sp}21. Juni
+Genève
+
+[%hardbreaks]
 .Performance
-Marianne Schuppe, Lukas Huber, Vincent Hofmann u.a.
+new work with Lukas Huber, performed by Lukas Huber, Vincent Hofmann, Marianne Schuppe a.o.
 {sp}17. Juni
 Kloster Dornach, Amthausstrasse 7, 4143 Dornach
 
