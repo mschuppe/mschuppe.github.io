@@ -9,6 +9,55 @@
 </style>
 ++++
 
+
+=== 4 / 2022
+
+.anonymous
+image::csl/4-22-1.jpg[link=images/csl/4-22-1.jpg,width=32%, align="center"]
+
+----
+Sprechen und singen sind zwei sich durchdringende Bewegungen.
+Im einen steckt (ähnlich wie beim Zeichnen und Malen) auch das andere, sie enthalten sich
+gegenseitig und gleichzeitig.
+
+Ob ich spreche oder singe, ist nur ein gradueller Unterschied. Graduell in Bezug auf was ?
+Im Sprechen ereignen sich komplexe rhythmische und melodische Entwicklungen in kurzer Zeit.
+Singen gestattet den Klängen längere Dauern und einen größeren Ambitus. Wie unter einer Lupe
+können diese beobachtet und ausgeführt werden.
+
+Jede Verlautbarung wird einerseits durch Bedeutung und andererseits durch Textur und Klang der
+Wörter bestimmt. Während Sprechen vor allem durch Bedeutungen genährt wird, führt Singen mit
+dem Fokus Tonhöhe,Tondauer und Textur in eine Distanz, eine Öffnung, eine Auflösung, eine
+Abstraktion der Bedeutungen.
+
+In colline sur livre gehe ich der Verschränkung dieser Bewegungen nach.
+----
+
+.anonymous
+image::csl/4-22-2.jpg[link=images/csl/4-22-2.jpg,width=40%, align="center"]
+
+----
+Speaking and singing are two movements, which are saturating eachother.
+(Similar to drawing and painting) one is within and concurrant with the other. There is only a
+gradual difference, a slight shift from one to other. What kind of shift is that ?
+
+Speaking assembles complex rhythmical and melodical movements and structures in short time.
+Singing allows longer duration and wider compass of these movements. They may be observed and
+carried out as under a looking glass.
+
+All announcing is nourished by meaning as well as by texture and sound of words.
+While in speaking momentum and impetus mostly root in semantics, singing, through focusing on
+pitch, duration and texture, allows distance, opening, dissolution, abstraction from meaning.
+
+In colline sur livre I am tracing the entanglement of those movements in an ongoing process.
+----
+
+[#audio]
+.Colline sur livre 12.4.2022 (please adjust volume before listening)
+audio::csl/4-2022.mp3[]
+
+=== 3 / 2022
+
 .MS, 2010
 image::csl/3-22-2.jpg[link=images/csl/3-22-2.jpg,width=50%, align="center"]
 
