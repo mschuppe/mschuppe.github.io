@@ -19,15 +19,19 @@ Mittwoch, 29. Juni, 19:30: Herz-Jesu-Kirche, Laufen
 Sonntag, 26. Juni, 17:00: Kulturkirche am See, Berlin
 
 [%hardbreaks]
-.insub
-new work for and with https://insub.org/polytopies/[insub] ensemble
-{sp}21. Juni
-Genève
+.Laconnex series (UA)
+for and with https://insub.org/polytopies/[insub] ensemble
+{sp}19.-21. Juni
+recording and performance
+Laconnex /GE
+
 
 [%hardbreaks]
-.Performance
-new work with Lukas Huber, performed by Lukas Huber, Vincent Hofmann, Marianne Schuppe a.o.
-{sp}17. Juni
+.Die Glocke (UA)
+Konzeption : Vincent Hofmann und Simon Kindle
+Partitur : Lukas Huber und Marianne Schuppe
+mit Lukas Huber, Vincent Hofmann, Simon Kindle, Barbara van der Meulen, Marianne Schuppe
+{sp}17./18. Juni
 Kloster Dornach, Amthausstrasse 7, 4143 Dornach
 
 [%hardbreaks]
