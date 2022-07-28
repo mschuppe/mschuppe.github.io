@@ -1,14 +1,51 @@
 
 == now & then @ 2022
 
+
+[%hardbreaks]
+.Salz, Lücke, Zelt (2018)
+Ensemble Voce
+{sp} 13. November 17h00
+Konzertzyklus St. Franziskus Zürich
+
+[%hardbreaks]
+.Rebecca Lane, Catherine Lamb, Stefan Thut, Marianne Schuppe
+November 6, 19h00
+Säulenhalle Solothurn
+
+[%hardbreaks]
+.Stefan Thut and Marianne Schuppe
+{sp} October 29th, 20h15
+Amsterdam Wandelweiser Festival
+Orgelpark Amsterdam
+
+[%hardbreaks]
+.entrevoix
+Stefanie Erni, Stimme
+Marianne Schuppe, Stimme
+{sp} 23. Oktober 17h00
+Schlosserei Nenniger, Zürich
+
+[%hardbreaks]
+.walking in air
+Will Montgomery, Stefan Thut, Emmanuelle Waeckerle, Carol Watts, Silvia Alexandra Schimag, Antoine Beuger, Leni Dipple, Marianne Schuppe
+Centre de Livres des artistes
+September 8-11
+St. Yrieux la Perche, France
+
+[%hardbreaks]
+.composers meet composers
+Els van Riel, Stefan Thut, Emmanuelle Waeckerle, Antoine Beuger, Marianne Schuppe
+August 8-14
+Le Puid, France
+
 [%hardbreaks]
 .entrevoix
 Stefanie Erni, voice
 Marianne Schuppe, voice
 {sp}10. Juli
-Biennale d'Art, sentier de passeur
+Biennale d'Art, sentier des passeurs
 F- 88210 Quiex / Le Saulcy
-
 
 [%hardbreaks]
 .Salz, Lücke, Zelt (2018)
@@ -24,7 +61,6 @@ for and with https://insub.org/polytopies/[insub] ensemble
 {sp}19.-21. Juni
 recording and performance
 Laconnex /GE
-
 
 [%hardbreaks]
 .Die Glocke (UA)

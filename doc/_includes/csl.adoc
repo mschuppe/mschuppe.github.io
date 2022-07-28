@@ -9,10 +9,40 @@
 </style>
 ++++
 
+=== 7 / 2022
+
+image::csl/7-28-1.jpg[link=images/csl/7-28-1.jpg,width=40%, align="center"]
+
+----
+I remember a situation in a restaurant in Tokyo. A little while after entering I noticed
+a singing voice, moving up and down in fluctuating and repetitive melodies. Delicately
+it stood out from the sound level of the speaking voices in the room, neither covering
+or disturbing them, nor drowning in it. When I looked around, where this voice came
+from, I discovered a woman sitting in a centered spot with her back to the wall facing
+into the room. Waiters passing by were leaving slips of paper with her. I learned that
+the woman was singing messages to the open kitchen situated to her left. Her melodies
+were transferring the meal-orders, which she received from the waiters, steadfast and
+unstressed in midst the busy hour and people coming and going. In spite of the noise
+level in the room the melodies apparently found their way into the kitchen without the
+singer asking for special attention.
+
+Eine Situation in einem Restaurant in Tokyo fällt mir ein. Bald nach meinem Eintreten
+bemerkte ich eine Singstimme, deren Melodie sich in Variationen und Wiederholungen
+auf- und ab bewegte. Leicht hob sie sich vom Geräuschpegel der Sprechstimmen im Raum
+ab, ohne sie zu überdecken, zu stören oder in ihnen unterzugehen. Als ich mich umschaute,
+entdeckte ich, daß die Stimme von einer Frau kam, die mit dem Rücken zur Wand und dem
+Gesicht in den Raum gerichtet unentwegt und selbstverständlich sang. Die vorbeiflitzenden
+Kellnerinnen und Kellner steckten ihr kleine Zettel zu. Essensbestellungen, wie ich erfuhr,
+die sie mit ihrem Gesang in die links von ihr liegende offene Küche sendete. Trotz des
+Geräuschpegels im Raum fanden die Melodien offenbar ihren Weg in die Küche ohne daß
+die Sängerin um besondere Aufmerksamkeit gebeten hätte.
+----
+
+.Colline sur livre 28.7.2022 (please adjust volume before listening)
+audio::csl/7-2022.mp3[]
 
 === 4 / 2022
 
-.anonymous
 image::csl/4-22-1.jpg[link=images/csl/4-22-1.jpg,width=32%, align="center"]
 
 ----
@@ -33,7 +63,6 @@ Abstraktion der Bedeutungen.
 In colline sur livre gehe ich der Verschränkung dieser Bewegungen nach.
 ----
 
-.anonymous
 image::csl/4-22-2.jpg[link=images/csl/4-22-2.jpg,width=40%, align="center"]
 
 ----
@@ -52,13 +81,11 @@ pitch, duration and texture, allows distance, opening, dissolution, abstraction 
 In colline sur livre I am tracing the entanglement of those movements in an ongoing process.
 ----
 
-[#audio]
 .Colline sur livre 12.4.2022 (please adjust volume before listening)
 audio::csl/4-2022.mp3[]
 
 === 3 / 2022
 
-.MS, 2010
 image::csl/3-22-2.jpg[link=images/csl/3-22-2.jpg,width=50%, align="center"]
 
 ----
@@ -95,7 +122,6 @@ zu dieser Praxis öffne ich hier ein Fenster in diesen Prozess.
 ----
 <<audio>>
 
-.MS, 2010
 image::csl/3-22-1.jpg[link=images/csl/3-22-1.jpg,width=50%, align="center"]
 
 
