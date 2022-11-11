@@ -3,13 +3,28 @@
 
 
 [%hardbreaks]
+.entrevoix
+Stefanie Erni, Stimme
+Marianne Schuppe, Stimme
+{sp} 10. Dezember 17h00
+Schlosserei Nenniger, Zürich
+
+[%hardbreaks]
+.Solo Duo Trio
+Eva-Maria Karbacher, Saxophone
+Lara Süss, Stimme, FX
+Marianne Schuppe, Stimme
+{sp} 19. November 17h00
+Wilde Gallery, Angensteinerstrasse 37, 4052 Basel
+
+[%hardbreaks]
 .Salz, Lücke, Zelt (2018)
 Ensemble Voce
 {sp} 13. November 17h00
 Konzertzyklus St. Franziskus Zürich
 
 [%hardbreaks]
-.Rebecca Lane, Catherine Lamb, Stefan Thut, Marianne Schuppe
+.Rebecca Lane, Catherine Lamb, Stefan Thut, Marianne Schuppe, Clara de Asis
 November 6, 19h00
 Säulenhalle Solothurn
 
@@ -20,15 +35,8 @@ Amsterdam Wandelweiser Festival
 Orgelpark Amsterdam
 
 [%hardbreaks]
-.entrevoix
-Stefanie Erni, Stimme
-Marianne Schuppe, Stimme
-{sp} 23. Oktober 17h00
-Schlosserei Nenniger, Zürich
-
-[%hardbreaks]
-.walking in air
-Will Montgomery, Stefan Thut, Emmanuelle Waeckerle, Carol Watts, Silvia Alexandra Schimag, Antoine Beuger, Leni Dipple, Marianne Schuppe
+.residency walking in air
+Will Montgomery, Stefan Thut, Emmanuelle Waeckerle, Carol Watts, Silvia Alexandra Schimag, Antoine Beuger, Leni Dipple, https://cdla.info/2022/10/27/marianne-schuppe-2/[Marianne Schuppe]
 Centre de Livres des artistes
 September 8-11
 St. Yrieux la Perche, France
