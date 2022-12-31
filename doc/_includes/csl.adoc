@@ -9,6 +9,27 @@
 </style>
 ++++
 
+
+
+
+
+=== 12 / 2022
+
+image::csl/31-12.jpg[link=images/csl/31-12.jpg,width=60%, align="center"]
+
+----
+Echo auf ein Echo auf ein Echo
+
+Farne, Fenster
+Moos; nicht leutselig
+Oolong – sacht gezogen
+Wehrmut nicht vergangen -
+Nebenfenster offen
+----
+
+.Colline sur livre 31.12.2022 (please adjust volume before listening)
+audio::csl/31-12.mp3[]
+
 === 10 / 2022
 
 image::csl/10-22-1.jpg[link=images/csl/10-22-1.jpg,width=40%, align="center"]
@@ -70,6 +91,8 @@ unstressed in midst the busy hour and people coming and going. In spite of the n
 level in the room the melodies apparently found their way into the kitchen without the
 singer asking for special attention.
 
+---
+
 Eine Situation in einem Restaurant in Tokyo fällt mir ein. Bald nach meinem Eintreten
 bemerkte ich eine Singstimme, deren Melodie sich in Variationen und Wiederholungen
 auf- und ab bewegte. Leicht hob sie sich vom Geräuschpegel der Sprechstimmen im Raum
@@ -87,12 +110,11 @@ audio::csl/7-2022.mp3[]
 
 === 4 / 2022
 
-image::csl/4-22-1.jpg[link=images/csl/4-22-1.jpg,width=32%, align="center"]
+image::csl/3-22-1.jpg[link=images/csl/3-22-1.jpg,width=50%, align="center"]
 
 ----
 Sprechen und singen sind zwei sich durchdringende Bewegungen.
-Im einen steckt (ähnlich wie beim Zeichnen und Malen) auch das andere, sie enthalten sich
-gegenseitig und gleichzeitig.
+Im einen steckt auch das andere, sie enthalten sich gegenseitig und gleichzeitig.
 
 Ob ich spreche oder singe, ist nur ein gradueller Unterschied. Graduell in Bezug auf was ?
 Im Sprechen ereignen sich komplexe rhythmische und melodische Entwicklungen in kurzer Zeit.
@@ -105,11 +127,9 @@ dem Fokus Tonhöhe,Tondauer und Textur in eine Distanz, eine Öffnung, eine Aufl
 Abstraktion der Bedeutungen.
 
 In colline sur livre gehe ich der Verschränkung dieser Bewegungen nach.
-----
 
-image::csl/4-22-2.jpg[link=images/csl/4-22-2.jpg,width=40%, align="center"]
+---
 
-----
 Speaking and singing are two movements, which are saturating eachother.
 (Similar to drawing and painting) one is within and concurrant with the other. There is only a
 gradual difference, a slight shift from one to other. What kind of shift is that ?
@@ -163,13 +183,7 @@ Privat-Edition erschienen.
 Seit 2020 entwickle ich eine Praxis des Sprechens und Singens
 von langen Passagen aus colline sur livre. Begleitend
 zu dieser Praxis öffne ich hier ein Fenster in diesen Prozess.
-----
-<<audio>>
 
-image::csl/3-22-1.jpg[link=images/csl/3-22-1.jpg,width=50%, align="center"]
-
-
-----
 Many records, questions, oppositions and experiments have
 been leading into colline sur livre. Colline sur livre is an ongoing
 journal, which I began writing many years ago in the Vosges hills
