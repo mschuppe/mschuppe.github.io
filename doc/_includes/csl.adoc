@@ -10,9 +10,6 @@
 ++++
 
 
-
-
-
 === 12 / 2022
 
 image::csl/31-12.jpg[link=images/csl/31-12.jpg,width=60%, align="center"]
