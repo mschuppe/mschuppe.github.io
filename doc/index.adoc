@@ -11,6 +11,13 @@
 
 [abstract]
 
+My interest in voice draws me into in the area between music and language. A terrain with often irritates
+and splits listening.Words are dissembling the approach to sound and the other way around. How do
+words and sounds go together ? My experiences and explorations began in the eightees with the music of
+Giacinto Scelsi and Morton Feldman and have led through performing, writing and teaching alone and in
+cooperations to some answers and more questions.
+I see my work as a process of growing, generating/ forming cores/ clusters, from which small and longer
+branches are deriving and spreading out into the
 
 include::{includedir}/csl.adoc[]
 include::{includedir}/nowthen.adoc[]

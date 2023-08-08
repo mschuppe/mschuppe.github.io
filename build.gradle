@@ -1,10 +1,8 @@
 plugins {
     id 'org.asciidoctor.jvm.convert' version '3.3.2' apply false
     id 'org.asciidoctor.jvm.pdf' version '3.3.2' apply false
-    id 'org.openjfx.javafxplugin' version '0.0.8'
+  id 'org.asciidoctor.jvm.gems' version '3.3.2'
 }
-
-
 
 task finalize {
     //dependsOn subprojects.asciidoctor
@@ -21,21 +19,18 @@ task finalize {
         include '*.css'
       }
       */
-      //copy {
-      //  from "public"
-      //  into "../vittali.github.io"
-      //  include '**/*'
-      //}
+    //copy {
+    //  from "public"
+    //  into "../vittali.github.io"
+    //  include '**/*'
+    //}
     }
 }
 allprojects {
     repositories {
     mavenCentral()
-  }
+    }
   apply plugin: 'org.asciidoctor.jvm.convert'
-
-
-
 
   asciidoctor {
     baseDirFollowsSourceFile()
@@ -43,24 +38,22 @@ allprojects {
     sources {
         include '*.adoc'
     }
-   outputDir = file(".")
+    outputDir = file('.')
     attributes 'separateOutputDirs': false
     copy {
-       from "doc/pdf"
-       into "./pdf"
-       include '**/*.pdf'
-       //println "copy ../public/${projectDir.getName()}"
-     }
+      from 'doc/pdf'
+      into './pdf'
+      include '**/*.pdf'
+    //println "copy ../public/${projectDir.getName()}"
+    }
     copy {
-       from "doc/sounds"
-       into "./sounds"
-       include '**/*.mp3'
-       //println "copy ../public/${projectDir.getName()}"
-     }
-
+      from 'doc/sounds'
+      into './sounds'
+      include '**/*.mp3'
+    //println "copy ../public/${projectDir.getName()}"
+    }
 
   }
   asciidoctor.finalizedBy(finalize)
-
 }
 defaultTasks 'asciidoctor'
