@@ -1,41 +1,48 @@
 
 == now & then @ 2023
 
+[[buch]]
+[%hardbreaks]
+.The gently contested area between words and music
+Konzert und Buchpräsentation _colline en air_, 
+Marianne Schuppe, Stefanie Erni, Stefan Thut, Andrea Wolfensberger
+{sp} 8.11. 19.30 Uhr
+Gare du Nord Basel
 
 [%hardbreaks]
-.lyrics of nosongs
-poetry journal Luigi Ten Co Issue no.3, Colorado, August 23
-
-[%hardbreaks]
-30. Oktober
+.colline en air
 Erscheinungsdatum der Buchveröffentlichung: colline en air; mit Zeichnungen von Andrea Wolfensberger
+{sp} 30. Oktober
 Edition Howeg Zürich
 
 [%hardbreaks]
-.Ersungene Lieder.
-Portrait von Thomas Meyer in der Septemberausgabe von Jazzn'more 
-
-[%hardbreaks]
-.entrevoix.
-Sonntag, 17.9. 11 Uhr, Atelierkonzert zum 30 jährigen Juniläum Werkraum Warteck, Burgweg 15, 4058 Basel
-
-[%hardbreaks]
-.Behind (2020).
+.behind (2020).
 for voice and two instrumensts
 October 21,
 Portland, Oregon
-https://extraditionpdx.com/ensemble[extradition]
+https://extraditionpdx.com[extradition]
 
 [%hardbreaks]
-.The gently contested area between words and music
-8.11. 19.30 Uhr Gare du Nord Basel
-Konzert und Buchpräsentation _colline en air_, 
-Marianne Schuppe, Stefanie Erni, Stefan Thut, Andrea Wolfensberger
+.entrevoix
+Stefanie Erni und Marianne Schuppe, Stimmen
+Atelierkonzert zum 30 jährigen Juniläum Werkraum Warteck
+Sonntag, 17.9. 11 Uhr 
+Burgweg 15, 4058 Basel
 
 [%hardbreaks]
-.occam ocean XXIX (UA)
+.Ersungene Lieder.
+Portrait von Thomas Meyer in der Septemberausgabe von https://jazznmore.ch/[Jazzn'more]
+
+[%hardbreaks]
+.lyrics of nosongs
+poetry journal Luigi Ten Co Issue no.3, 
+August 23
+Colorado 
+
+[%hardbreaks]
+.occam river XXIX (UA)
 von Eliane Radigue
-sowie ein neues Werk von Walker/Schuppe (UA)
+sowie _Aus dem Zeltbuch_ von Walker/Schuppe (UA)
 {sp} 26. April 20h30
 Kunstraum Walcheturm, Zürich
 ignm Zürich
@@ -55,9 +62,6 @@ Marianne Schuppe, Stimme
 Theater Delly, Gerberngasse 11, Solothurn
 Doppelkonzert mit Tao Vrhovec Sambolec
 Margins of listening (2015)
-
-== now & then @ 2022
-
 
 [%hardbreaks]
 .entrevoix

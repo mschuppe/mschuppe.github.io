@@ -11,13 +11,19 @@
 
 [abstract]
 
-My interest in voice draws me into in the area between music and language. A terrain with often irritates
-and splits listening.Words are dissembling the approach to sound and the other way around. How do
-words and sounds go together ? My experiences and explorations began in the eightees with the music of
-Giacinto Scelsi and Morton Feldman and have led through performing, writing and teaching alone and in
-cooperations to some answers and more questions.
-I see my work as a process of growing, generating/ forming cores/ clusters, from which small and longer
-branches are deriving and spreading out into the
+My interest in voice draws me into the area between music and language. The suspense caused by the
+concurrency of sound and meaning is guiding my commitment since the eightees, where I began to delve
+into the music of xref:index.adoc#scelsi[Giacinto Scelsi] and xref:index.adoc#feldman[Morton Feldman]. I have pursued this interest, moving between
+german and english, in various ways: xref:index.adoc#selbdritt[improvisation], interpretation, inventing my own xref:index.adoc#nosongs[songs], developing
+projects xref:index.adoc#summe[for voices] and with voice-ensembles, xref:index.adoc#teaching[teaching], mentoring, writing.
+In recent years I have more specifically explored the borderlands where music retreats almost completely
+in favour of xref:index.adoc#buch[poetry].
+In this vein xref:index.adoc#colline[colline sur livre] is my most recent and ongoing work.
+
+
+
+
+
 
 include::{includedir}/csl.adoc[]
 include::{includedir}/nowthen.adoc[]

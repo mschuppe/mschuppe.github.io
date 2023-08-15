@@ -11,6 +11,7 @@
 * https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[order]
 * image:recordings/cover-2-songs-1.jpg[width=25%,link=https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/]
 
+[[nosongs]]
 .nosongs
 [none]
 * Marianne Schuppe, voice, lute, uber-bows
@@ -32,6 +33,7 @@
 * order: <<contact>>
 * image:recordings/ewr1509.jpg[link=http://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1509.html]
 
+[[feldman]]
 .Three Voices / Morton Feldman
 [none]
 * Marianne Schuppe, Stimme
@@ -43,6 +45,7 @@
 * order: <<contact>>
 * image:recordings/feldmanCD.jpg[link=images/recordings/feldmanCD.jpg]
 
+[[scelsi]]
 .Incantations / Giacinto Scelsi
 [none]
 * Marianne Schuppe, Stimme
@@ -75,6 +78,7 @@
 * June 2021
 * image:recordings/ewr2109-10.jpg[link=images/recordings/ewr2109-10.jpg, width=35%]
 
+[[selbdritt]]
 .selbdritt - von hier / Trio Selbdritt
 [none]
 * Marianne Schuppe, Stimme, Sylwia Zytynska, Vibraphon, Alfred Zimmerlin , Violoncello
