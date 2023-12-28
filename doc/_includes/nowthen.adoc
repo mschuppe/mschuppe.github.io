@@ -29,9 +29,10 @@ Gare du Nord Basel
 .colline en air
 Erscheinungsdatum der Buchveröffentlichung: colline en air; mit Zeichnungen von Andrea Wolfensberger
 {sp} 30. Oktober
-Edition Howeg Zürich
+Edition Howeg Zürich, photo: Vincent Hofmann
 
 image::nowthen/buch.jpg[width=30%, align="center",link=images/nowthen/buch.jpg]
+
 
 [%hardbreaks]
 .behind (2020).
