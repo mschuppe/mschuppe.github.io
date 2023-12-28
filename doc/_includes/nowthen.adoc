@@ -1,4 +1,20 @@
 
+== now & then @ 2024
+
+[%hardbreaks]
+new solo commissioned by archipel
+april 14,
+duo entrevoix,
+april 21
+
+[%hardbreaks]
+.Dante Boon duos
+ruht nicht aus,
+Marianne Schuppe, voice & piano
+https://wandelweiser.de/_e-w-records/_ewr-catalogue/ewr2304.html
+
+
+
 == now & then @ 2023
 
 [[buch]]
@@ -14,6 +30,8 @@ Gare du Nord Basel
 Erscheinungsdatum der Buchveröffentlichung: colline en air; mit Zeichnungen von Andrea Wolfensberger
 {sp} 30. Oktober
 Edition Howeg Zürich
+
+image::nowthen/buch.jpg[width=30%, align="center",link=images/nowthen/buch.jpg]
 
 [%hardbreaks]
 .behind (2020).
@@ -31,7 +49,7 @@ Burgweg 15, 4058 Basel
 
 [%hardbreaks]
 .Ersungene Lieder.
-Portrait von Thomas Meyer in der Septemberausgabe von https://jazznmore.ch/[Jazzn'more]
+Portrait von Thomas Meyer in der Septemberausgabe von https://jazznmore.ch/archiv/[Jazzn'more]
 
 [%hardbreaks]
 .lyrics of nosongs
