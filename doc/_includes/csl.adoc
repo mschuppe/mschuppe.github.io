@@ -57,7 +57,7 @@ audio::csl/31-12.mp3[]
 
 '''
 
-image::csl/10-22-1.jpg[link=images/csl/10-22-1.jpg,width=40%, align="center"]
+image::csl/10-22-1.jpg[link=images/csl/10-22-1.jpg,width=60%, align="center"]
 
 ----
 Wörter – vereinzelt oder in Gruppen sind Spuren von Bewegungen.
