@@ -1,28 +1,27 @@
 
-== now & then @ 2024
+== now & then
 
 [%hardbreaks]
 new solo commissioned by archipel
-april 14,
+april 14, 2024
 duo entrevoix,
-april 21
+april 21, 2024
 
 [%hardbreaks]
-.Dante Boon duos
-ruht nicht aus,
+.CD release Dante Boon - duos
+_ruht nicht aus_,
 Marianne Schuppe, voice & piano
+Dezember 2023
 https://wandelweiser.de/_e-w-records/_ewr-catalogue/ewr2304.html
 
 
-
-== now & then @ 2023
 
 [[buch]]
 [%hardbreaks]
 .The gently contested area between words and music
 Konzert und Buchpräsentation _colline en air_, 
 Marianne Schuppe, Stefanie Erni, Stefan Thut, Andrea Wolfensberger
-{sp} 8.11. 19.30 Uhr
+{sp} 8.11.2023 19.30 Uhr
 Gare du Nord Basel
 
 [%hardbreaks]
@@ -50,13 +49,14 @@ Burgweg 15, 4058 Basel
 
 [%hardbreaks]
 .Ersungene Lieder.
-Portrait von Thomas Meyer in der Septemberausgabe von https://jazznmore.ch/archiv/[Jazzn'more]
+Portrait von Thomas Meyer in der Septemberausgabe von https://jazznmore.ch/archiv/[Jazzn'more, Ausgabe 05-2023, Seite 54]
 
 [%hardbreaks]
 .lyrics of nosongs
-poetry journal Luigi Ten Co Issue no.3, 
+https://wryawry.bigcartel.com/product/luigi-ten-co-3[poetry journal] Luigi Ten Co Issue no.3, 
 August 23
 Colorado 
+
 
 [%hardbreaks]
 .occam river XXIX (UA)
@@ -77,7 +77,7 @@ Klang im Dach, München
 .a day in july ( 2022)
 Stefan Thut, Violoncello
 Marianne Schuppe, Stimme
-{sp} 12. Februar 19h00
+{sp} 12. Februar 19h00, 2023
 Theater Delly, Gerberngasse 11, Solothurn
 Doppelkonzert mit Tao Vrhovec Sambolec
 Margins of listening (2015)
@@ -86,7 +86,7 @@ Margins of listening (2015)
 .entrevoix
 Stefanie Erni, Stimme
 Marianne Schuppe, Stimme
-{sp} 10. Dezember 17h00
+{sp} 10. Dezember 17h00, 2022
 Schlosserei Nenniger, Zürich
 
 [%hardbreaks]
@@ -170,5 +170,5 @@ Maison 44, Steinenring 44, 4051 Basel
 .colline sur livre
 _Knickse Fäden Windpapier_
 Marianne Schuppe, Stimme, Laute, Uber-bows
-{sp}25. März 19.30
+{sp}25. März 19.30, 2022
 Maison 44, Steinenring 44, 4051 Basel

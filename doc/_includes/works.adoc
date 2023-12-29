@@ -119,9 +119,9 @@ _a fluid sculpture through the city of Basel formed by smaller and bigger groups
 .Salz, Lücke, Zelt (2018/2019)
 [%hardbreaks]
 for 8 voices
-text:  a selection of 23 words from the Bible, translated by every singer in her mothertongue,
+text: 23 words from the Bible, translated by every singer in her mothertongue,
 commissioned by Basel based ensemble Voce for a programme reflecting Whitsuntide.
-
+photo: Yannick Badier
 image:works/voce.jpg[width=50%,link=images/works/voce.jpg]
 
 
@@ -165,8 +165,9 @@ for reading voices in different languages, Sudhaus, Werkraum Warteck Basel.
 === collective and interdisciplinary works
 
 .a day in july (2022)
+[%hardbreaks]
 Marianne Schuppe, voice, text
-Stefan Thut, cello, pipe, pencil
+Stefan Thut, cello, pipe, pencil, paper
 
 .Die Glocke (2022)
 [%hardbreaks]

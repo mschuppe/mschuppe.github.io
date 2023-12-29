@@ -13,8 +13,7 @@
 
 My interest in voice draws me into the area between music and language. 
 An area which I see as the coast between words and music, where the grain of language and the fluidity of sound converge.
-The suspense caused by the
-concurrency of sound and meaning is guiding my commitment since the eightees, where I began to delve
+This suspense is guiding my commitment since the eightees, where I began to delve
 into the music of xref:index.adoc#scelsi[Giacinto Scelsi] and xref:index.adoc#feldman[Morton Feldman]. I have pursued this interest, moving between
 german and english, in various ways: xref:index.adoc#selbdritt[improvisation], interpretation, inventing my own xref:index.adoc#nosongs[songs], developing
 projects xref:index.adoc#summe[for voices] and with voice-ensembles, xref:index.adoc#teaching[teaching], mentoring, writing.

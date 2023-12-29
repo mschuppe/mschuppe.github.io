@@ -4,7 +4,7 @@
 .Portrait von Stefan Drees: Marianne Schuppes vokale Kunst der feinen Übergänge
 icon:file[link=pdf/sd.pdf,label="Neue Zeitschrift für Musik März 2017"]
 
-https://jazznmore.ch/archiv/[Porträt von Thomas Meyer]
+https://jazznmore.ch/archiv/[Porträt von Thomas Meyer, Jazzn'more, Ausgabe 05-2023, Seite 54]
 
 .english
 Marianne Schuppe is a German/Swiss performer and composer of music for voices, based in Basel, Switzerland.
