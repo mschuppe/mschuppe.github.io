@@ -30,7 +30,7 @@ Gare du Nord Basel
 [%hardbreaks]
 .colline en air
 Erscheinungsdatum der Buchveröffentlichung: colline en air; mit Zeichnungen von Andrea Wolfensberger
-{sp} 30. Oktober
+{sp} 30. Oktober 2023
 Edition Howeg Zürich, photo: Vincent Hofmann
 
 image::nowthen/buch.jpg[width=30%, align="center",link=images/nowthen/buch.jpg]
@@ -39,6 +39,6 @@ image::nowthen/buch.jpg[width=30%, align="center",link=images/nowthen/buch.jpg]
 [%hardbreaks]
 .behind (2020).
 for voice and two instrumensts
-October 21,
+October 21, 2023
 Portland, Oregon
 https://extraditionpdx.com[extradition]
