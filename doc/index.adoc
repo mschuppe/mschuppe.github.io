@@ -11,15 +11,21 @@
 
 [abstract]
 
-My interest in voice draws me into the area between music and language. The suspense caused by the
-concurrency of sound and meaning is guiding my commitment since the eightees, where I began to delve
+My interest in voice draws me into the area between music and language. 
+An area which I see as the coast between words and music, where the grain of language and the fluidity of sound converge.
+This suspense is guiding my commitment since the eightees, where I began to delve
 into the music of xref:index.adoc#scelsi[Giacinto Scelsi] and xref:index.adoc#feldman[Morton Feldman]. I have pursued this interest, moving between
 german and english, in various ways: xref:index.adoc#selbdritt[improvisation], interpretation, inventing my own xref:index.adoc#nosongs[songs], developing
 projects xref:index.adoc#summe[for voices] and with voice-ensembles, xref:index.adoc#teaching[teaching], mentoring, writing.
-In recent years I have more specifically explored the borderlands where music retreats almost completely
-in favour of xref:index.adoc#buch[poetry].
+In recent years I have more specifically explored the borderlands where music transforms into xref:index.adoc#buch[poetry].
 In this vein xref:index.adoc#colline[colline sur livre] is my most recent and ongoing work.
 
+
+{nbsp} +
+{nbsp} +
+
+
+image::home-sand.jpg[width=50%, align="center",link=images/home-gelb.jpg]
 
 
 

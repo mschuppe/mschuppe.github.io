@@ -10,6 +10,18 @@ song - movement - improvisation - sound - breath - word - song - extended. Find 
 
 === composer-performer
 
+.colline sur livre (2023-)
+Marianne Schuppe, voice, lute, e-ponts
+
+.Laconnex series (2022)
+[%hardbreaks]
+for instruments and voices
+composition and voice: Marianne Schuppe
+6 pieces unfolding a melody line.
+Played with rests in a time span of 7 hours from dusk to late night.
+Opaque transparent.
+https://insub.bandcamp.com/track/marianne-schuppe-laconnex-serie-insub8tet-1[Laconnex series auf bandcamp]
+
 .behind I-IV (2018/2020)
 [%hardbreaks]
 for voice and two instruments
@@ -107,8 +119,11 @@ _a fluid sculpture through the city of Basel formed by smaller and bigger groups
 .Salz, Lücke, Zelt (2018/2019)
 [%hardbreaks]
 for 8 voices
-text:  a selection of 23 words from the Bible, translated by every singer in her mothertongue,
+text: 23 words from the Bible, translated by every singer in her mothertongue,
 commissioned by Basel based ensemble Voce for a programme reflecting Whitsuntide.
+photo: Yannick Badier
+image:works/voce.jpg[width=50%,link=images/works/voce.jpg]
+
 
 .Aufbruch nach prrr (2018)
 [%hardbreaks]
@@ -149,13 +164,10 @@ for reading voices in different languages, Sudhaus, Werkraum Warteck Basel.
 
 === collective and interdisciplinary works
 
-.Laconnex series (2022)
+.a day in july (2022)
 [%hardbreaks]
-for instruments and voices
-composition and voice: Marianne Schuppe
-6 pieces unfolding a melody line.
-Played with rests in a time span of 7 hours from dusk to late night.
-Opaque transparent.
+Marianne Schuppe, voice, text
+Stefan Thut, cello, pipe, pencil, paper
 
 .Die Glocke (2022)
 [%hardbreaks]
