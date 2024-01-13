@@ -16,7 +16,7 @@ The recordings uploaded here document this process and give an insight into the 
 character of field-recordings and do not claim to be finished pieces. Please listen with headphones.
 Occasionally my reflections are supported by a thumbnail scetch to further my lines of thought.
 Sometimes they can be seen here as well.
-The text-part of colline sur livre has been published as a book by http://www.editionhoweg.ch/[Edition Howeg], Zürich in November
+Recent parts of _colline sur livre_ have been published as a book by http://www.editionhoweg.ch/[Edition Howeg], Zürich in November
 2023.
 If you want to order the book or if you are interested in a conversation about this work, just xref:index.adoc#contact[write] to me.
 
