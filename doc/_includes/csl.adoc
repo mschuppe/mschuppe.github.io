@@ -16,7 +16,7 @@ The recordings uploaded here document this process and give an insight into the 
 character of field-recordings and do not claim to be finished pieces. Please listen with headphones.
 Occasionally my reflections are supported by a thumbnail scetch to further my lines of thought.
 Sometimes they can be seen here as well.
-The text-part of colline sur livre has been published as a book by http://www.editionhoweg.ch/[Edition Howeg], Zürich in November
+Recent parts of _colline sur livre_ have been published as a book by http://www.editionhoweg.ch/[Edition Howeg], Zürich in November
 2023.
 If you want to order the book or if you are interested in a conversation about this work, just xref:index.adoc#contact[write] to me.
 
@@ -36,30 +36,25 @@ audio::csl/12-2023.mp3[]
 
 ----
 
-Voices heard from far attract my attention. These voices and words have a light presence, 
-allowing me to catch an outline, a word, a syllable in the air. I enjoy not or just partly 
-to understand those fragments of a conversation as it happens in distance. Straight meaning 
-is disappearing, dissolving through distance and overlay, without intended distortion. 
-I can listen to it.
-Sometimes it‘s not clear, which is background, which is foreground and how many layers are there.
-Fore- middle and background shift, cross through eachother. Even when words are almost vanishing
-below understanding, they have an effect from behind, from below the surface, shimmering through
-layers of sounds. 
-In my current work I am searching a similar kind of transparency in the overlay of words and 
-music. Therefore I keep the volume of my speaking and singing low.
+Voices heard from a distance attract my attention. These voices and words have an elusive, 
+incidental presence, I may just catch their surface, an outline or a syllable in the air. 
+I will only partly understand them as there will be other sounds in the space between us. 
+Instead I will perceive texture, melody, rhythm. Sometimes it is not clear, which is fore-, 
+which is middle-, which is background as they are shifting. Even when words are almost 
+disappearing beyond understanding, they are shimmering through the surface and have an 
+effect from below. In my current work I am searching a similar kind of transparency in 
+the overlay of words and music. Therefore I keep the volume of my speaking and singing low.
 
 ---
 
-Von weitem gehörte Stimmen ziehen meine Aufmerksamkeit an. Die Präsenz dieser Stimmen und 
-Wörter ist leicht. Im Abstand kann ich vielleicht eine Kontur, ein Wort, eine Silbe in der Luft
-auffangen, mehr nicht. Daß ich sie nicht oder nur teilweise verstehe, gefällt mir. 
-Fixe Bedeutungen lösen sich durch Distanz und Überlagerung auf, ohne intendierte Verzerrung. 
-Dem kann ich zuhören.
-Manchmal ist nicht klar, was Vordergrund, was Hintergrund ist und wieviele Schichten es gibt. 
-Vorder-, Mittel- und Hintergrund verschieben, durchkreuzen sich. Selbst wenn die Wörter fast 
-verschwinden und ich sie nicht verstehe, schimmern sie aus dem Hintergrund oder unter der 
-Oberfläche durch Schichten von Geräuschen und Klängen.
-In meiner Musik interessiert mich eine ähnliche Art von Transparenz in der Überlagerung. 
+Von weitem, aus einem Abstand gehörte Stimmen ziehen meine Aufmerksamkeit an. Die Präsenz 
+dieser Stimmen und Wörter ist flüchtig und beiläufig. Ich werde nur ihre Oberfläche, 
+eine Kontur, ein Wort, eine Silbe in der Luft auffangen. Ich werde sie nur teilweise verstehen, 
+weil es andere Geräusche im Raum zwischen uns gibt. Stattdessen nehme ich Textur, Melodie 
+und Rhythmus wahr. Manchmal ist nicht klar, was Vorder-, was Mittel-, was Hintergrund ist, 
+weil diese sich verschieben. Selbst wenn die Wörter fast verschwinden und ich sie nicht 
+mehr verstehe, schimmern und wirken sie aus dem Hintergrund oder unter der Oberfläche.
+In meiner Arbeit interessiert mich eine ähnliche Transparenz in der Überlagerung. 
 Deswegen spreche und singe ich nicht laut.
 ----
 
