@@ -1,6 +1,53 @@
 == now & then @ 2024
 
 [%hardbreaks]
+.occam river XXIX / Aus dem Zeltbuch
+Eliane Radigue / Walker/Schuppe 
+Marianne Schuppe, voice
+Deborah Walker, Cello
+November 2
+Festival Zoom in
+Große Reithalle Bern
+
+[%hardbreaks]
+.a day in july
+https://www.gmea.net/artistes/article/marianne-schuppe[Residenz GMEA]
+with ea.net/evenement/marianne-schuppe-stefan-thut[Stefan Thut]
+October 20-25
+Albi, France
+
+
+[%hardbreaks]
+.colline en air
+solo, 27.September
+https://www.literatursommer.de/de/auftakt-des-lautpoesie-festivals-2024[Lautpoesiefestival Literaturhaus Freiburg]
+
+[%hardbreaks]
+.colline sur livre
+solo, 21. September, 17 Uhr
+Maison 44, Steinenring 44, 4051 Basel
+
+
+[%hardbreaks]
+.Salz, Lücke, Zelt (2018)
+Ensemble Voce
+22. September, 17h00
+Predigerkirche, Basel
+
+[%hardbreaks]
+.Salz, Lücke, Zelt (2018)
+Ensemble Voce
+15. September 16h00
+Klosterkirche,Ilanz CH
+
+[%hardbreaks]
+.entrevoix
+Stefanie Erni, voice
+Marianne Schuppe, voice
+21. Juni, 20h
+Atelierkonzert Alemannengasse 44 4058 Basel
+
+[%hardbreaks]
 .Salz, Lücke, Zelt (2018)
 Ensemble Voce
 26. Mai 17h00
@@ -25,7 +72,7 @@ Théâtre Pitoeff, Genève
 premiered and commissioned by Festival https://archipel.org/fr/program/marianne-schuppe[Archipel], Genève
 April 14, 7 pm, 2024
 Théâtre Pitoeff, Genève
-
+image:nowthen/archipel.jpg[link=images/nowthen/archipel.jpg, width=50%]
 
 [%hardbreaks]
 .CD release Dante Boon - duos
@@ -47,7 +94,8 @@ Gare du Nord Basel
 .colline en air
 Erscheinungsdatum der Buchveröffentlichung: colline en air; mit Zeichnungen von Andrea Wolfensberger
 {sp} 30. Oktober 2023
-Edition Howeg Zürich, photo: Vincent Hofmann
+http://www.editionhoweg.ch/schuppe-marianne/[Edition Howeg Zürich]
+Photo: Vincent Hofmann
 
 image::nowthen/buch.jpg[width=30%, align="center",link=images/nowthen/buch.jpg]
 
