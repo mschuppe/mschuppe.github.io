@@ -14,8 +14,7 @@ Ein Gespräch mit Aleida Assmann, André Blum, Wolfgang Knapp, Theresa Georgen, 
 du magazin, Januar/Februar 2011
 
 .podcast by Krzysztof Dziuba
-icon:link[link="http://www.polskieradio.pl/8/740/Artykul/1700298,Postrockowy-Gorecki-i-inne-dzwieki-Huddersfield-2016"]
-Polish Radio about Huddersfield Contemporary Music Festival, including Slow Songs
+Polish Radio about Slow Songs
 
 .Radio SRF: Corinne Holtz im Gespräch mit Marianne Schuppe, April 2007
 audio::interviews/reflexe.mp3[Reflexe DRS 2]
