@@ -12,7 +12,7 @@ Große Reithalle Bern
 [%hardbreaks]
 .a day in july
 https://www.gmea.net/artistes/article/marianne-schuppe[Residenz GMEA]
-with ea.net/evenement/marianne-schuppe-stefan-thut[Stefan Thut]
+with Stefan Thut
 October 20-25
 Albi, France
 
@@ -38,7 +38,7 @@ Predigerkirche, Basel
 .Salz, Lücke, Zelt (2018)
 Ensemble Voce
 15. September 16h00
-Klosterkirche,Ilanz CH
+Klosterkirche, Ilanz CH
 
 [%hardbreaks]
 .entrevoix

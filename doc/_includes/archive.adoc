@@ -294,7 +294,7 @@ Kirchgasse 7, 4118 Rodersdorf
 
 [%hardbreaks]
 .Die Summe 21, für Chöre und Einzelstimmen
-8.-19. September 21, Festival https://zeitraeumebasel.com/die-summe-21[ZeitRäume], Basel
+8.-19. September 21, Festival ZeitRäume, Basel
 icon:file[link=pdf/Summe.pdf] _Der Ton, die anderen und ich_ von Isabel Zürcher.
 
 [%hardbreaks]
@@ -330,7 +330,6 @@ Stefan Thut, cello +
 Marc Kilchenmann, bassoon and microtonal chimes +
 
 [%hardbreaks]
-Dezember 7 http://montagsumsieben.ch/fr-accueil.html[Atelier Pia Maria Biel] ( *verschoben auf Dez. 2021* )
 November 5  http://www.serenawey.ch/index.php?id=2[Theatergarage Basel]
 September 3  https://www.walcheturm.ch/agenda/trio-thut-schuppe-kilchenmann-afore-inner-core-behind[Kunstraum Walcheturm Zürich]
 
@@ -391,7 +390,7 @@ image:archive/Hausen.jpg[width=40%,link=images/archive/Hausen.jpg]
 für Chöre und Einzelstimmen
 in öffentlichen Räumen
 10.-19. September 2019
-http://zeitraeumebasel.com/de/2019/spielplan/de-die-summe[Festival ZeitRäume Basel]
+Festival ZeitRäume Basel
 
 .composers meet composers
 [%hardbreaks]
@@ -425,7 +424,7 @@ Münster Bern, Gewölbessal Daniel Heintz
 .Marianne Schuppe - Slow songs, nosongs
 [%hardbreaks]
 Solo
-https://www.dock-basel.ch/[Dock Basel]
+Dock Basel
 25.{sp} Januar 2019
 
 .Marianne Schuppe - notes from the hill and other works
@@ -530,7 +529,7 @@ November 24, 2016
 .Marianne Schuppe - slow songs
 [%hardbreaks]
 for voice, lute, uber-bows
-http://www.impavillon.at/index16a.html[Pavillon Wels], Austria
+Konzertreihe Pavillon Wels, Austria
 November 16, 2016
 
 .Morton Feldman - Three Voices
@@ -735,7 +734,7 @@ _zoom in_ Festival für Improvisierte Musik
 Berner Münster, Bern, 13.Oktober 2012
 Kirche Deiderode, 7.Oktober 2012
 Kirche Hubenrode / Witzenhausen, 6.{sp} Oktober 2012
-http://www.raum22.ch/20401.html[raum 22], Kilchberg BL
+raum 22, Kilchberg BL
 Soesterkirkene pa gran, Oslo, August 18, 2012
 Villa Renata, Basel, 18. Mai 2012,
 Moments musicaux, Aarau, Sonntag, 13. November 2011
