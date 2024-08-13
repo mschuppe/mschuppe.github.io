@@ -30,9 +30,16 @@ If you want to order the book or if you are interested in a conversation about t
 ++++
 
 [[colline]]
+.Colline sur livre 14.8.2024
+audio::csl/14-08-24.mp3[]
+
+image::csl/14-08-24.jpg[link=images/csl/14-08-24.jpg,width=25%, align="center"]
+
+.Colline sur livre 13.8.2024
+audio::csl/13-08-24.mp3[]
 
 .Colline sur livre 31.12.2023
-audio::csl/12-2023.mp3[]
+audio::csl/31-12-23.mp3[]
 
 ----
 
@@ -69,7 +76,7 @@ audio::csl/31-07-2023.mp3[]
 
 
 
-image::csl/31-12.jpg[link=images/csl/31-12.jpg,width=60%, align="center"]
+image::csl/31-12-22.jpg[link=images/csl/31-12-22.jpg,width=60%, align="center"]
 
 ----
 Echo auf ein Echo auf ein Echo
@@ -82,7 +89,7 @@ Nebenfenster offen
 ----
 
 .Colline sur livre 31.12.2022
-audio::csl/31-12.mp3[]
+audio::csl/31-12-22.mp3[]
 
 
 
