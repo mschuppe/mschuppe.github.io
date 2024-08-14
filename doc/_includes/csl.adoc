@@ -30,6 +30,9 @@ If you want to order the book or if you are interested in a conversation about t
 ++++
 
 [[colline]]
+.Colline sur livre 15.8.2024
+audio::csl/15-08-24.mp3[]
+
 .Colline sur livre 14.8.2024
 audio::csl/14-08-24.mp3[]
 
