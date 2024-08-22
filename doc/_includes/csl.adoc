@@ -30,8 +30,8 @@ If you want to order the book or if you are interested in a conversation about t
 ++++
 
 [[colline]]
-.Colline sur livre 15.8.2024
-audio::csl/15-08-24.mp3[]
+.Colline sur livre 22.8.2024
+audio::csl/22-08-24.mp3[]
 
 .Colline sur livre 14.8.2024
 audio::csl/14-08-24.mp3[]
@@ -52,8 +52,7 @@ I will only partly understand them as there will be other sounds in the space be
 Instead I will perceive texture, melody, rhythm. Sometimes it is not clear, which is fore-, 
 which is middle-, which is background as they are shifting. Even when words are almost 
 disappearing beyond understanding, they are shimmering through the surface and have an 
-effect from below. In my current work I am searching a similar kind of transparency in 
-the overlay of words and music. Therefore I keep the volume of my speaking and singing low.
+effect from below.
 
 ---
 
@@ -64,8 +63,6 @@ weil es andere Geräusche im Raum zwischen uns gibt. Stattdessen nehme ich Textu
 und Rhythmus wahr. Manchmal ist nicht klar, was Vorder-, was Mittel-, was Hintergrund ist, 
 weil diese sich verschieben. Selbst wenn die Wörter fast verschwinden und ich sie nicht 
 mehr verstehe, schimmern und wirken sie aus dem Hintergrund oder unter der Oberfläche.
-In meiner Arbeit interessiert mich eine ähnliche Transparenz in der Überlagerung. 
-Deswegen spreche und singe ich nicht laut.
 ----
 
 

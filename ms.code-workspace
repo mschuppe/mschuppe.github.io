@@ -11,6 +11,7 @@
     },
     "java.compile.nullAnalysis.mode": "disabled",
     "java.configuration.updateBuildConfiguration": "disabled",
-    "cSpell.enabled": false
+    "cSpell.enabled": false,
+    "asciidoc.antora.enableAntoraSupport": false
   }
 }
