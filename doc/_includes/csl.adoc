@@ -8,7 +8,7 @@
 
 == Colline sur livre
 
-is an ongoing work to explore the intersections, overlays and dimensions between words and music on the
+is an ongoing work to observe and suss the intersections, overlays and dimensions between words and music on the
 basis of the growing text-corpus _colline sur livre_. 
 This process is facilitated by a lute and cableless mini-set of electronics, a device that I call e-pont, because it serves as a bridge between words and music.
 
@@ -30,6 +30,12 @@ If you want to order the book or if you are interested in a conversation about t
 ++++
 
 [[colline]]
+
+.Colline sur livre 18.11.2024
+audio::csl/18-11-24.mp3[]
+
+image::csl/18-11-24.jpg[link=images/csl/18-11-24.jpg,width=50%, align="center"]
+
 .Colline sur livre 15.10.2024
 audio::csl/15-10-24.mp3[]
 
