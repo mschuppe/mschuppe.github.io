@@ -72,7 +72,10 @@ Théâtre Pitoeff, Genève
 premiered and commissioned by Festival https://archipel.org/fr/program/marianne-schuppe[Archipel], Genève
 April 14, 7 pm, 2024
 Théâtre Pitoeff, Genève
+{nbsp}
 image:nowthen/archipel.jpg[link=images/nowthen/archipel.jpg, width=50%]
+{nbsp}
+{nbsp}
 
 [%hardbreaks]
 .CD release Dante Boon - duos
@@ -98,7 +101,8 @@ http://www.editionhoweg.ch/schuppe-marianne/[Edition Howeg Zürich]
 Photo: Vincent Hofmann
 
 image::nowthen/buch.jpg[width=30%, align="center",link=images/nowthen/buch.jpg]
-
+{nbsp}
+{nbsp}
 
 [%hardbreaks]
 .behind (2020).
