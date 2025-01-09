@@ -39,3 +39,8 @@ image::about/3818.jpg[width=50%,link=images/about/3818.jpg]
 
 
 photos: copyright Ute Schendel
+
+
+image::about/erni-1.jpg[width=50%,link=images/about/erni-1.jpg]
+
+photos: copyright Samuel Erni
