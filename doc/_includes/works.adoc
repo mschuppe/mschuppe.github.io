@@ -100,23 +100,6 @@ Kunsthaus Aarau
 
 === composing for voices
 
-[[teaching]]
-Since the middle-eightees I have enjoyed passing on my experiences in elementary and experimental voice-work and singing to others.
-I have trained singers, dancers, speakers, teachers and other enthusiasts to develop their voices through groupwork and individual lessons.
-I have worked in theatre- and dance-productions as a voice teacher and musical advisor and
-I have given masterclasses and lectures on my work in Europe and Asia.
-I work with my own intergrative voice-body-technique based on classical singing, breathing-work
-(after Erika Kemmann, Institut für Atemlehre Berlin and Atem-Tonus-Ton developed by Maria Höller)
-and movement (Roni Segal). This training facilitates improvisation, interpretation of an individual repertoire or other forms of creation.
-It is based on my own singing and performance practise of more than three decades and enriched through my experiences with Central-Asian vocal music.
-From 1995-2010 I have educated singers and speakers in the Atem-Tonus-Ton-method in Switzerland, Germany and Japan.
-Since 2013 I have been working as a guest-lecturer for voice and improvisation at the FHNW University of Music in Basel and other swiss university-music departments.
-Since 2008 I have been the director of an advanced student ensemble, which focuses on improvisation,
-ways of singing together mostly without tuning forks and has staged several performance-projects.
-[%hardbreaks]
-{nbsp}
-{nbsp}
-
 
 .entrevoix
 [%hardbreaks]
@@ -132,6 +115,11 @@ https://soundcloud.com/marianne-schuppe/summe[for choirs and more voices], icon:
 commissioned by Basel Festival ZeitRäume
 _a fluid sculpture through the city of Basel formed by smaller and bigger groups of humming voices over a period of ten days_
 icon:file[link=pdf/IZ-ton.pdf] _Der Ton, die andern und ich_ von Isabel Zürcher.
+{nbsp}
+image:works/summe.jpg[width=50%,link=images/works/summe.jpg]
+{nbsp}
+{nbsp}
+
 
 .Salz, Lücke, Zelt (2018/2019)
 [%hardbreaks]

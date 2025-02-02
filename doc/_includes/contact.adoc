@@ -1,4 +1,5 @@
 
+[[contact]]
 == contact & copyright [[contact]]
 
 Marianne Schuppe
@@ -12,5 +13,4 @@ Tel. +41 61 271 89 33
 .email address
 image:follow.jpg[]
 
-.copyright website including audio, images, text material
-Marianne Schuppe, except when noted otherwise.
+© Copyright 1985-2025 by Marianne Schuppe.  All Rights Reserved.  

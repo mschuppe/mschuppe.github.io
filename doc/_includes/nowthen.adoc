@@ -1,5 +1,15 @@
 == now & then @ 2025
 
+
+[%hardbreaks]
+.Aus dem Zeltbuch
+Marianne Schuppe, voice
+Deborah Walker, cello 
+Doppelkonzert mit Yannick Guédon, solo voice
+11. Februar 20h30
+KM 28
+Karl-Marx-Straße 28 12043 Berlin
+
 [%hardbreaks]
 .wippe
 neue Textpublikation im Verlag Klingenthal
@@ -7,7 +17,6 @@ Lesung
 25. Januar 19.30
 Klingentalstr. 72, 4057 Basel
 
-== now & then @ 2024
 
 [%hardbreaks]
 .occam river XXIX / Aus dem Zeltbuch
@@ -25,7 +34,6 @@ with Stefan Thut
 October 20-25
 Albi, France
 
-
 [%hardbreaks]
 .colline en air
 solo, 27.September
@@ -35,7 +43,6 @@ https://www.literatursommer.de/de/auftakt-des-lautpoesie-festivals-2024[Lautpoes
 .colline sur livre
 solo, 21. September, 17 Uhr
 Maison 44, Steinenring 44, 4051 Basel
-
 
 [%hardbreaks]
 .Salz, Lücke, Zelt (2018)
@@ -86,36 +93,5 @@ image:nowthen/archipel.jpg[link=images/nowthen/archipel.jpg, width=50%]
 {nbsp}
 {nbsp}
 
-[%hardbreaks]
-.CD release Dante Boon - duos
-_ruht nicht aus_,
-Marianne Schuppe, voice & piano
-Dezember 2023
-https://wandelweiser.de/_e-w-records/_ewr-catalogue/ewr2304.html
 
-
-[[buch]]
-[%hardbreaks]
-.The gently contested area between words and music
-Konzert und Buchpräsentation _colline en air_, 
-Marianne Schuppe, Stefanie Erni, Stefan Thut, Andrea Wolfensberger
-{sp} 8.11.2023 19.30 Uhr
-Gare du Nord Basel
-
-[%hardbreaks]
-.colline en air
-Erscheinungsdatum der Buchveröffentlichung: colline en air; mit Zeichnungen von Andrea Wolfensberger
-{sp} 30. Oktober 2023
-http://www.editionhoweg.ch/schuppe-marianne/[Edition Howeg Zürich]
-Photo: Vincent Hofmann
-
-image::nowthen/buch.jpg[width=30%, align="center",link=images/nowthen/buch.jpg]
-{nbsp}
-{nbsp}
-
-[%hardbreaks]
-.behind (2020).
-for voice and two instrumensts
-October 21, 2023
-Portland, Oregon
-https://extraditionpdx.com[extradition]
+previous performances <<archive,archive>>
