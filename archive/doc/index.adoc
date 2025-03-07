@@ -1,4 +1,4 @@
-= Marianne Schuppe
+= Archive
 :includedir: _includes
 :imagesdir: ./images
 :icons: font
@@ -9,36 +9,5 @@
 :figure-caption!:
 :sectnums!:
 
-[abstract]
 
-{nbsp} +
-{nbsp} +
-My interest in voice draws me into the area between music and language. 
-An area which I see as the coast between words and music, where the grain of language and the fluidity of sound converge.
-This suspense is guiding my commitment since the eightees, when I began to delve
-into the music of xref:index.adoc#scelsi[Giacinto Scelsi] and xref:index.adoc#feldman[Morton Feldman], in various ways and collaborations: xref:index.adoc#selbdritt[improvisation], interpretation, reweighing the traditional ingredients of xref:index.adoc#nosongs[song], developing
-projects with and xref:index.adoc#summe[for voices], xref:index.adoc#teaching[teaching, mentoring], writing.
-In recent years I have more specifically moved in the borderlands where music extends into xref:index.adoc#buch[poetry] and speaking voice, multilingual.
-In this vein xref:index.adoc#colline[colline sur livre] is my most recent and ongoing work.
-
-
-{nbsp} +
-{nbsp} +
-
-
-image::home-sand.jpg[width=50%, align="center",link=images/home-sand-cropped.jpg]
-
-
-
-include::{includedir}/csl.adoc[]
-include::{includedir}/nowthen.adoc[]
-include::{includedir}/path.adoc[]
-include::{includedir}/works.adoc[]
-include::{includedir}/teachmentor.adoc[]
-include::{includedir}/interviews.adoc[]
-include::{includedir}/essays.adoc[]
-include::{includedir}/listen.adoc[]
-include::{includedir}/recordings.adoc[]
-include::{includedir}/reviews.adoc[]
-include::{includedir}/contact.adoc[]
 include::{includedir}/archive.adoc[]

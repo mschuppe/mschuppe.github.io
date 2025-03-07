@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.16">
+<title>Archive</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
+<style>
+/*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
+/* Uncomment the following line when using as a custom stylesheet */
+/* @import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700"; */
+html{font-family:sans-serif;-webkit-text-size-adjust:100%}
+a{background:none}
+a:focus{outline:thin dotted}
+a:active,a:hover{outline:0}
+h1{font-size:2em;margin:.67em 0}
+b,strong{font-weight:bold}
+abbr{font-size:.9em}
+abbr[title]{cursor:help;border-bottom:1px dotted #dddddf;text-decoration:none}
+dfn{font-style:italic}
+hr{height:0}
+mark{background:#ff0;color:#000}
+code,kbd,pre,samp{font-family:monospace;font-size:1em}
+pre{white-space:pre-wrap}
+q{quotes:"\201C" "\201D" "\2018" "\2019"}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-.5em}
+sub{bottom:-.25em}
+img{border:0}
+svg:not(:root){overflow:hidden}
+figure{margin:0}
+audio,video{display:inline-block}
+audio:not([controls]){display:none;height:0}
+fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}
+legend{border:0;padding:0}
+button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}
+button,input{line-height:normal}
+button,select{text-transform:none}
+button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}
+button[disabled],html input[disabled]{cursor:default}
+input[type=checkbox],input[type=radio]{padding:0}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+textarea{overflow:auto;vertical-align:top}
+table{border-collapse:collapse;border-spacing:0}
+*,::before,::after{box-sizing:border-box}
+html,body{font-size:100%}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;line-height:1;position:relative;cursor:auto;-moz-tab-size:4;-o-tab-size:4;tab-size:4;word-wrap:anywhere;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
+a:hover{cursor:pointer}
+img,object,embed{max-width:100%;height:auto}
+object,embed{height:100%}
+img{-ms-interpolation-mode:bicubic}
+.left{float:left!important}
+.right{float:right!important}
+.text-left{text-align:left!important}
+.text-right{text-align:right!important}
+.text-center{text-align:center!important}
+.text-justify{text-align:justify!important}
+.hide{display:none}
+img,object,svg{display:inline-block;vertical-align:middle}
+textarea{height:auto;min-height:50px}
+select{width:100%}
+.subheader,.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{line-height:1.45;color:#7a2518;font-weight:400;margin-top:0;margin-bottom:.25em}
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6,pre,form,p,blockquote,th,td{margin:0;padding:0}
+a{color:#2156a5;text-decoration:underline;line-height:inherit}
+a:hover,a:focus{color:#1d4b8f}
+a img{border:0}
+p{line-height:1.6;margin-bottom:1.25em;text-rendering:optimizeLegibility}
+p aside{font-size:.875em;line-height:1.35;font-style:italic}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{font-family:"Open Sans","DejaVu Sans",sans-serif;font-weight:300;font-style:normal;color:#ba3925;text-rendering:optimizeLegibility;margin-top:1em;margin-bottom:.5em;line-height:1.0125em}
+h1 small,h2 small,h3 small,#toctitle small,.sidebarblock>.content>.title small,h4 small,h5 small,h6 small{font-size:60%;color:#e99b8f;line-height:0}
+h1{font-size:2.125em}
+h2{font-size:1.6875em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.375em}
+h4,h5{font-size:1.125em}
+h6{font-size:1em}
+hr{border:solid #dddddf;border-width:1px 0 0;clear:both;margin:1.25em 0 1.1875em}
+em,i{font-style:italic;line-height:inherit}
+strong,b{font-weight:bold;line-height:inherit}
+small{font-size:60%;line-height:inherit}
+code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;color:rgba(0,0,0,.9)}
+ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
+ul,ol{margin-left:1.5em}
+ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
+ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
+ul.square{list-style-type:square}
+ul.circle{list-style-type:circle}
+ul.disc{list-style-type:disc}
+ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
+dl dt{margin-bottom:.3125em;font-weight:bold}
+dl dd{margin-bottom:1.25em}
+blockquote{margin:0 0 1.25em;padding:.5625em 1.25em 0 1.1875em;border-left:1px solid #ddd}
+blockquote,blockquote p{line-height:1.6;color:rgba(0,0,0,.85)}
+@media screen and (min-width:768px){h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2}
+h1{font-size:2.75em}
+h2{font-size:2.3125em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.6875em}
+h4{font-size:1.4375em}}
+table{background:#fff;margin-bottom:1.25em;border:1px solid #dedede;word-wrap:normal}
+table thead,table tfoot{background:#f7f8f7}
+table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:.5em .625em .625em;font-size:inherit;color:rgba(0,0,0,.8);text-align:left}
+table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
+table tr.even,table tr.alt{background:#f8f8f7}
+table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{line-height:1.6}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
+h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
+.center{margin-left:auto;margin-right:auto}
+.stretch{width:100%}
+.clearfix::before,.clearfix::after,.float-group::before,.float-group::after{content:" ";display:table}
+.clearfix::after,.float-group::after{clear:both}
+:not(pre).nobreak{word-wrap:normal}
+:not(pre).nowrap{white-space:nowrap}
+:not(pre).pre-wrap{white-space:pre-wrap}
+:not(pre):not([class^=L])>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background:#f7f7f8;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+pre{color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;line-height:1.45;text-rendering:optimizeSpeed}
+pre code,pre pre{color:inherit;font-size:inherit;line-height:inherit}
+pre>code{display:block}
+pre.nowrap,pre.nowrap pre{white-space:pre;word-wrap:normal}
+em em{font-style:normal}
+strong strong{font-weight:400}
+.keyseq{color:rgba(51,51,51,.8)}
+kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background:#f7f7f7;border:1px solid #ccc;border-radius:3px;box-shadow:0 1px 0 rgba(0,0,0,.2),inset 0 0 0 .1em #fff;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
+.keyseq kbd:first-child{margin-left:0}
+.keyseq kbd:last-child{margin-right:0}
+.menuseq,.menuref{color:#000}
+.menuseq b:not(.caret),.menuref{font-weight:inherit}
+.menuseq{word-spacing:-.02em}
+.menuseq b.caret{font-size:1.25em;line-height:.8}
+.menuseq i.caret{font-weight:bold;text-align:center;width:.45em}
+b.button::before,b.button::after{position:relative;top:-1px;font-weight:400}
+b.button::before{content:"[";padding:0 3px 0 2px}
+b.button::after{content:"]";padding:0 2px 0 3px}
+p a>code:hover{color:rgba(0,0,0,.9)}
+#header,#content,#footnotes,#footer{width:100%;margin:0 auto;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+#content{margin-top:1.25em}
+#content::before{content:none}
+#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:flex;flex-flow:row wrap}
+#header .details span:first-child{margin-left:-.125em}
+#header .details span.email a{color:rgba(0,0,0,.85)}
+#header .details br{display:none}
+#header .details br+span::before{content:"\00a0\2013\00a0"}
+#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+#header #revnumber{text-transform:capitalize}
+#header #revnumber::after{content:"\00a0"}
+#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+#toc>ul{margin-left:.125em}
+#toc ul.sectlevel0>li>a{font-style:italic}
+#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+#toc li{line-height:1.3334;margin-top:.3334em}
+#toc a{text-decoration:none}
+#toc a:active{text-decoration:underline}
+#toctitle{color:#7a2518;font-size:1.2em}
+@media screen and (min-width:768px){#toctitle{font-size:1.375em}
+body.toc2{padding-left:15em;padding-right:0}
+#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+body.toc2.toc-right{padding-left:0;padding-right:15em}
+body.toc2.toc-right #toc.toc2{border-right-width:0;border-left:1px solid #e7e7e9;left:auto;right:0}}
+@media screen and (min-width:1280px){body.toc2{padding-left:20em;padding-right:0}
+#toc.toc2{width:20em}
+#toc.toc2 #toctitle{font-size:1.375em}
+#toc.toc2>ul{font-size:.95em}
+#toc.toc2 ul ul{padding-left:1.25em}
+body.toc2.toc-right{padding-left:0;padding-right:20em}}
+#content #toc{border:1px solid #e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;border-radius:4px}
+#content #toc>:first-child{margin-top:0}
+#content #toc>:last-child{margin-bottom:0}
+#footer{max-width:none;background:rgba(0,0,0,.8);padding:1.25em}
+#footer-text{color:hsla(0,0%,100%,.8);line-height:1.44}
+#content{margin-bottom:.625em}
+.sect1{padding-bottom:.625em}
+@media screen and (min-width:768px){#content{margin-bottom:1.25em}
+.sect1{padding-bottom:1.25em}}
+.sect1:last-child{padding-bottom:0}
+.sect1+.sect1{border-top:1px solid #e7e7e9}
+#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
+details{margin-left:1.25rem}
+details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;-webkit-tap-highlight-color:transparent}
+details>summary::before{content:"";border:solid transparent;border-left:solid;border-width:.3em 0 .3em .5em;position:absolute;top:.5em;left:-1.25rem;transform:translateX(15%)}
+details[open]>summary::before{border:solid transparent;border-top:solid;border-width:.5em .3em 0;transform:translateY(15%)}
+details>summary::after{content:"";width:1.25rem;height:1em;position:absolute;top:.3em;left:-1.25rem}
+.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{text-rendering:optimizeLegibility;text-align:left;font-family:"Noto Serif","DejaVu Serif",serif;font-size:1rem;font-style:italic}
+table.tableblock.fit-content>caption.title{white-space:nowrap;width:0}
+.paragraph.lead>p,#preamble>.sectionbody>[class=paragraph]:first-of-type p{font-size:1.21875em;line-height:1.6;color:rgba(0,0,0,.85)}
+.admonitionblock>table{border-collapse:separate;border:0;background:none;width:100%}
+.admonitionblock>table td.icon{text-align:center;width:80px}
+.admonitionblock>table td.icon img{max-width:none}
+.admonitionblock>table td.icon .title{font-weight:bold;font-family:"Open Sans","DejaVu Sans",sans-serif;text-transform:uppercase}
+.admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #dddddf;color:rgba(0,0,0,.6);word-wrap:anywhere}
+.admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
+.exampleblock>.content{border:1px solid #e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;border-radius:4px}
+.exampleblock>.content>:first-child{margin-top:0}
+.exampleblock>.content>:last-child{margin-bottom:0}
+.sidebarblock{border:1px solid #dbdbd6;margin-bottom:1.25em;padding:1.25em;background:#f3f3f2;border-radius:4px}
+.sidebarblock>:first-child{margin-top:0}
+.sidebarblock>:last-child{margin-bottom:0}
+.sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
+.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
+.literalblock pre,.listingblock>.content>pre{border-radius:4px;overflow-x:auto;padding:1em;font-size:.8125em}
+@media screen and (min-width:768px){.literalblock pre,.listingblock>.content>pre{font-size:.90625em}}
+@media screen and (min-width:1280px){.literalblock pre,.listingblock>.content>pre{font-size:1em}}
+.literalblock pre,.listingblock>.content>pre:not(.highlight),.listingblock>.content>pre[class=highlight],.listingblock>.content>pre[class^="highlight "]{background:#f7f7f8}
+.literalblock.output pre{color:#f7f7f8;background:rgba(0,0,0,.9)}
+.listingblock>.content{position:relative}
+.listingblock code[data-lang]::before{display:none;content:attr(data-lang);position:absolute;font-size:.75em;top:.425rem;right:.5rem;line-height:1;text-transform:uppercase;color:inherit;opacity:.5}
+.listingblock:hover code[data-lang]::before{display:block}
+.listingblock.terminal pre .command::before{content:attr(data-prompt);padding-right:.5em;color:inherit;opacity:.5}
+.listingblock.terminal pre .command:not([data-prompt])::before{content:"$"}
+.listingblock pre.highlightjs{padding:0}
+.listingblock pre.highlightjs>code{padding:1em;border-radius:4px}
+.listingblock pre.prettyprint{border-width:0}
+.prettyprint{background:#f7f7f8}
+pre.prettyprint .linenums{line-height:1.45;margin-left:2em}
+pre.prettyprint li{background:none;list-style-type:inherit;padding-left:0}
+pre.prettyprint li code[data-lang]::before{opacity:1}
+pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
+table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
+table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
+table.linenotable td.code{padding-left:.75em}
+table.linenotable td.linenos{border-right:1px solid;opacity:.35;padding-right:.5em}
+pre.pygments .lineno{border-right:1px solid;opacity:.35;display:inline-block;margin-right:.75em}
+pre.pygments .lineno::before{content:"";margin-right:-.125em}
+.quoteblock{margin:0 1em 1.25em 1.5em;display:table}
+.quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
+.quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
+.quoteblock blockquote{margin:0;padding:0;border:0}
+.quoteblock blockquote::before{content:"\201c";float:left;font-size:2.75em;font-weight:bold;line-height:.6em;margin-left:-.6em;color:#7a2518;text-shadow:0 1px 2px rgba(0,0,0,.1)}
+.quoteblock blockquote>.paragraph:last-child p{margin-bottom:0}
+.quoteblock .attribution{margin-top:.75em;margin-right:.5ex;text-align:right}
+.verseblock{margin:0 1em 1.25em}
+.verseblock pre{font-family:"Open Sans","DejaVu Sans",sans-serif;font-size:1.15rem;color:rgba(0,0,0,.85);font-weight:300;text-rendering:optimizeLegibility}
+.verseblock pre strong{font-weight:400}
+.verseblock .attribution{margin-top:1.25rem;margin-left:.5ex}
+.quoteblock .attribution,.verseblock .attribution{font-size:.9375em;line-height:1.45;font-style:italic}
+.quoteblock .attribution br,.verseblock .attribution br{display:none}
+.quoteblock .attribution cite,.verseblock .attribution cite{display:block;letter-spacing:-.025em;color:rgba(0,0,0,.6)}
+.quoteblock.abstract blockquote::before,.quoteblock.excerpt blockquote::before,.quoteblock .quoteblock blockquote::before{display:none}
+.quoteblock.abstract blockquote,.quoteblock.abstract p,.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{line-height:1.6;word-spacing:0}
+.quoteblock.abstract{margin:0 1em 1.25em;display:block}
+.quoteblock.abstract>.title{margin:0 0 .375em;font-size:1.15em;text-align:center}
+.quoteblock.excerpt>blockquote,.quoteblock .quoteblock{padding:0 0 .25em 1em;border-left:.25em solid #dddddf}
+.quoteblock.excerpt,.quoteblock .quoteblock{margin-left:0}
+.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{color:inherit;font-size:1.0625rem}
+.quoteblock.excerpt .attribution,.quoteblock .quoteblock .attribution{color:inherit;font-size:.85rem;text-align:left;margin-right:0}
+p.tableblock:last-child{margin-bottom:0}
+td.tableblock>.content{margin-bottom:1.25em;word-wrap:anywhere}
+td.tableblock>.content>:last-child{margin-bottom:-1.25em}
+table.tableblock,th.tableblock,td.tableblock{border:0 solid #dedede}
+table.grid-all>*>tr>*{border-width:1px}
+table.grid-cols>*>tr>*{border-width:0 1px}
+table.grid-rows>*>tr>*{border-width:1px 0}
+table.frame-all{border-width:1px}
+table.frame-ends{border-width:1px 0}
+table.frame-sides{border-width:0 1px}
+table.frame-none>colgroup+*>:first-child>*,table.frame-sides>colgroup+*>:first-child>*{border-top-width:0}
+table.frame-none>:last-child>:last-child>*,table.frame-sides>:last-child>:last-child>*{border-bottom-width:0}
+table.frame-none>*>tr>:first-child,table.frame-ends>*>tr>:first-child{border-left-width:0}
+table.frame-none>*>tr>:last-child,table.frame-ends>*>tr>:last-child{border-right-width:0}
+table.stripes-all tr,table.stripes-odd tr:nth-of-type(odd),table.stripes-even tr:nth-of-type(even),table.stripes-hover tr:hover{background:#f8f8f7}
+th.halign-left,td.halign-left{text-align:left}
+th.halign-right,td.halign-right{text-align:right}
+th.halign-center,td.halign-center{text-align:center}
+th.valign-top,td.valign-top{vertical-align:top}
+th.valign-bottom,td.valign-bottom{vertical-align:bottom}
+th.valign-middle,td.valign-middle{vertical-align:middle}
+table thead th,table tfoot th{font-weight:bold}
+tbody tr th{background:#f7f8f7}
+tbody tr th,tbody tr th p,tfoot tr th,tfoot tr th p{color:rgba(0,0,0,.8);font-weight:bold}
+p.tableblock>code:only-child{background:none;padding:0}
+p.tableblock{font-size:1em}
+ol{margin-left:1.75em}
+ul li ol{margin-left:1.5em}
+dl dd{margin-left:1.125em}
+dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
+ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
+ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
+ul.unstyled,ol.unstyled{margin-left:0}
+ul.checklist>li>p:first-child{margin-left:-1em}
+ul.checklist>li>p:first-child>.fa-square-o:first-child,ul.checklist>li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
+ul.checklist>li>p:first-child>input[type=checkbox]:first-child{margin-right:.25em}
+ul.inline{display:flex;flex-flow:row wrap;list-style:none;margin:0 0 .625em -1.25em}
+ul.inline>li{margin-left:1.25em}
+.unstyled dl dt{font-weight:400;font-style:normal}
+ol.arabic{list-style-type:decimal}
+ol.decimal{list-style-type:decimal-leading-zero}
+ol.loweralpha{list-style-type:lower-alpha}
+ol.upperalpha{list-style-type:upper-alpha}
+ol.lowerroman{list-style-type:lower-roman}
+ol.upperroman{list-style-type:upper-roman}
+ol.lowergreek{list-style-type:lower-greek}
+.hdlist>table,.colist>table{border:0;background:none}
+.hdlist>table>tbody>tr,.colist>table>tbody>tr{background:none}
+td.hdlist1,td.hdlist2{vertical-align:top;padding:0 .625em}
+td.hdlist1{font-weight:bold;padding-bottom:1.25em}
+td.hdlist2{word-wrap:anywhere}
+.literalblock+.colist,.listingblock+.colist{margin-top:-.5em}
+.colist td:not([class]):first-child{padding:.4em .75em 0;line-height:1;vertical-align:top}
+.colist td:not([class]):first-child img{max-width:none}
+.colist td:not([class]):last-child{padding:.25em 0}
+.thumb,.th{line-height:0;display:inline-block;border:4px solid #fff;box-shadow:0 0 0 1px #ddd}
+.imageblock.left{margin:.25em .625em 1.25em 0}
+.imageblock.right{margin:.25em 0 1.25em .625em}
+.imageblock>.title{margin-bottom:0}
+.imageblock.thumb,.imageblock.th{border-width:6px}
+.imageblock.thumb>.title,.imageblock.th>.title{padding:0 .125em}
+.image.left,.image.right{margin-top:.25em;margin-bottom:.25em;display:inline-block;line-height:0}
+.image.left{margin-right:.625em}
+.image.right{margin-left:.625em}
+a.image{text-decoration:none;display:inline-block}
+a.image object{pointer-events:none}
+sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:super}
+sup.footnote a,sup.footnoteref a{text-decoration:none}
+sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
+#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+#footnotes .footnote:last-of-type{margin-bottom:0}
+#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
+.gist .file-data>table td.line-data{width:99%}
+div.unbreakable{page-break-inside:avoid}
+.big{font-size:larger}
+.small{font-size:smaller}
+.underline{text-decoration:underline}
+.overline{text-decoration:overline}
+.line-through{text-decoration:line-through}
+.aqua{color:#00bfbf}
+.aqua-background{background:#00fafa}
+.black{color:#000}
+.black-background{background:#000}
+.blue{color:#0000bf}
+.blue-background{background:#0000fa}
+.fuchsia{color:#bf00bf}
+.fuchsia-background{background:#fa00fa}
+.gray{color:#606060}
+.gray-background{background:#7d7d7d}
+.green{color:#006000}
+.green-background{background:#007d00}
+.lime{color:#00bf00}
+.lime-background{background:#00fa00}
+.maroon{color:#600000}
+.maroon-background{background:#7d0000}
+.navy{color:#000060}
+.navy-background{background:#00007d}
+.olive{color:#606000}
+.olive-background{background:#7d7d00}
+.purple{color:#600060}
+.purple-background{background:#7d007d}
+.red{color:#bf0000}
+.red-background{background:#fa0000}
+.silver{color:#909090}
+.silver-background{background:#bcbcbc}
+.teal{color:#006060}
+.teal-background{background:#007d7d}
+.white{color:#bfbfbf}
+.white-background{background:#fafafa}
+.yellow{color:#bfbf00}
+.yellow-background{background:#fafa00}
+span.icon>.fa{cursor:default}
+a span.icon>.fa{cursor:inherit}
+.admonitionblock td.icon [class^="fa icon-"]{font-size:2.5em;text-shadow:1px 1px 2px rgba(0,0,0,.5);cursor:default}
+.admonitionblock td.icon .icon-note::before{content:"\f05a";color:#19407c}
+.admonitionblock td.icon .icon-tip::before{content:"\f0eb";text-shadow:1px 1px 2px rgba(155,155,0,.8);color:#111}
+.admonitionblock td.icon .icon-warning::before{content:"\f071";color:#bf6900}
+.admonitionblock td.icon .icon-caution::before{content:"\f06d";color:#bf3400}
+.admonitionblock td.icon .icon-important::before{content:"\f06a";color:#bf0000}
+.conum[data-value]{display:inline-block;color:#fff!important;background:rgba(0,0,0,.8);border-radius:50%;text-align:center;font-size:.75em;width:1.67em;height:1.67em;line-height:1.67em;font-family:"Open Sans","DejaVu Sans",sans-serif;font-style:normal;font-weight:bold}
+.conum[data-value] *{color:#fff!important}
+.conum[data-value]+b{display:none}
+.conum[data-value]::after{content:attr(data-value)}
+pre .conum[data-value]{position:relative;top:-.125em}
+b.conum *{color:inherit!important}
+.conum:not([data-value]):empty{display:none}
+dt,th.tableblock,td.content,div.footnote{text-rendering:optimizeLegibility}
+h1,h2,p,td.content,span.alt,summary{letter-spacing:-.01em}
+p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
+p,blockquote,dt,td.content,span.alt,summary{font-size:1.0625rem}
+p{margin-bottom:1.25rem}
+.sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
+.exampleblock>.content{background:#fffef7;border-color:#e0e0dc;box-shadow:0 1px 4px #e0e0dc}
+.print-only{display:none!important}
+@page{margin:1.25cm .75cm}
+@media print{*{box-shadow:none!important;text-shadow:none!important}
+html{font-size:80%}
+a{color:inherit!important;text-decoration:underline!important}
+a.bare,a[href^="#"],a[href^="mailto:"]{text-decoration:none!important}
+a[href^="http:"]:not(.bare)::after,a[href^="https:"]:not(.bare)::after{content:"(" attr(href) ")";display:inline-block;font-size:.875em;padding-left:.25em}
+abbr[title]{border-bottom:1px dotted}
+abbr[title]::after{content:" (" attr(title) ")"}
+pre,blockquote,tr,img,object,svg{page-break-inside:avoid}
+thead{display:table-header-group}
+svg{max-width:100%}
+p,blockquote,dt,td.content{font-size:1em;orphans:3;widows:3}
+h2,h3,#toctitle,.sidebarblock>.content>.title{page-break-after:avoid}
+#header,#content,#footnotes,#footer{max-width:none}
+#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+body.book #header{text-align:center}
+body.book #header>h1:first-child{border:0!important;margin:2.5em 0 1em}
+body.book #header .details{border:0!important;display:block;padding:0!important}
+body.book #header .details span:first-child{margin-left:0!important}
+body.book #header .details br{display:block}
+body.book #header .details br+span::before{content:none!important}
+body.book #toc{border:0!important;text-align:left!important;padding:0!important;margin:0!important}
+body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-break-before:always}
+.listingblock code[data-lang]::before{display:block}
+#footer{padding:0 .9375em}
+.hide-on-print{display:none!important}
+.print-only{display:block!important}
+.hide-for-print{display:none!important}
+.show-for-print{display:inherit!important}}
+@media amzn-kf8,print{#header>h1:first-child{margin-top:1.25rem}
+.sect1{padding:0!important}
+.sect1+.sect1{border:0}
+#footer{background:none}
+#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+@media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body class="article toc2 toc-left">
+<div id="header">
+<h1>Archive</h1>
+<div id="toc" class="toc2">
+<div id="toctitle"></div>
+<ul class="sectlevel1">
+<li><a href="#archive">archive</a></li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div class="sect1">
+<h2 id="archive">archive</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<div class="title">CD release Dante Boon - duos</div>
+<p><em>ruht nicht aus</em>,<br>
+Marianne Schuppe, voice &amp; piano<br>
+Dezember 2023<br>
+<a href="https://wandelweiser.de/_e-w-records/_ewr-catalogue/ewr2304.html" class="bare">https://wandelweiser.de/_e-w-records/_ewr-catalogue/ewr2304.html</a></p>
+</div>
+<div id="buch" class="paragraph">
+<div class="title">The gently contested area between words and music</div>
+<p>Konzert und Buchpräsentation <em>colline en air</em>,<br>
+Marianne Schuppe, Stefanie Erni, Stefan Thut, Andrea Wolfensberger<br>
+  8.11.2023 19.30 Uhr<br>
+Gare du Nord Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">colline en air</div>
+<p>Erscheinungsdatum der Buchveröffentlichung: colline en air; mit Zeichnungen von Andrea Wolfensberger<br>
+  30. Oktober 2023<br>
+<a href="http://www.editionhoweg.ch/schuppe-marianne/">Edition Howeg Zürich</a><br>
+Photo: Vincent Hofmann</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<a class="image" href="images/nowthen/buch.jpg"><img src="./images/nowthen/buch.jpg" alt="buch" width="30%"></a>
+</div>
+</div>
+<div class="paragraph">
+<p>&#160;
+&#160;</p>
+</div>
+<div class="paragraph">
+<div class="title">behind (2020).</div>
+<p>for voice and two instrumensts<br>
+October 21, 2023<br>
+Portland, Oregon<br>
+<a href="https://extraditionpdx.com">extradition</a></p>
+</div>
+<div class="paragraph">
+<div class="title">entrevoix</div>
+<p>Stefanie Erni und Marianne Schuppe, Stimmen<br>
+Atelierkonzert zum 30 jährigen Juniläum Werkraum Warteck<br>
+Sonntag, 17.9. 11 Uhr<br>
+Burgweg 15, 4058 Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">Ersungene Lieder.</div>
+<p>Portrait von Thomas Meyer in der Septemberausgabe von <a href="https://jazznmore.ch/archiv/">Jazzn&#8217;more, Ausgabe 05-2023, Seite 54</a></p>
+</div>
+<div class="paragraph">
+<div class="title">lyrics of nosongs</div>
+<p><a href="https://wryawry.bigcartel.com/product/luigi-ten-co-3">poetry journal</a> Luigi Ten Co Issue no.3,<br>
+August 23<br>
+Colorado</p>
+</div>
+<div class="paragraph">
+<div class="title">occam river XXIX (UA)</div>
+<p>von Eliane Radigue<br>
+sowie <em>Aus dem Zeltbuch</em> von Walker/Schuppe (UA)<br>
+  26. April 20h30<br>
+Kunstraum Walcheturm, Zürich<br>
+ignm Zürich</p>
+</div>
+<div class="paragraph">
+<div class="title">a day in july</div>
+<p>Stefan Thut, Marianne Schuppe<br>
+  25. März<br>
+Zieblandstraße 45, 80798 München<br>
+Klang im Dach, München</p>
+</div>
+<div class="paragraph">
+<div class="title">a day in july ( 2022)</div>
+<p>Stefan Thut, Violoncello<br>
+Marianne Schuppe, Stimme<br>
+  12. Februar 19h00, 2023<br>
+Theater Delly, Gerberngasse 11, Solothurn<br>
+Doppelkonzert mit Tao Vrhovec Sambolec<br>
+Margins of listening (2015)</p>
+</div>
+<div class="paragraph">
+<div class="title">entrevoix</div>
+<p>Stefanie Erni, Stimme<br>
+Marianne Schuppe, Stimme<br>
+  10. Dezember 17h00, 2022<br>
+Schlosserei Nenniger, Zürich</p>
+</div>
+<div class="paragraph">
+<div class="title">Solo Duo Trio</div>
+<p>Eva-Maria Karbacher, Saxophone<br>
+Lara Süss, Stimme, FX<br>
+Marianne Schuppe, Stimme<br>
+  19. November 17h00<br>
+Wilde Gallery, Angensteinerstrasse 37, 4052 Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">Salz, Lücke, Zelt (2018)</div>
+<p>Ensemble Voce<br>
+  13. November 17h00<br>
+Konzertzyklus St. Franziskus Zürich</p>
+</div>
+<div class="paragraph">
+<div class="title">Rebecca Lane, Catherine Lamb, Stefan Thut, Marianne Schuppe, Clara de Asis</div>
+<p>November 6, 19h00<br>
+Säulenhalle Solothurn</p>
+</div>
+<div class="paragraph">
+<div class="title">Stefan Thut and Marianne Schuppe</div>
+<p>  October 29th, 20h15<br>
+Amsterdam Wandelweiser Festival<br>
+Orgelpark Amsterdam</p>
+</div>
+<div class="paragraph">
+<div class="title">residency walking in air</div>
+<p>Will Montgomery, Stefan Thut, Emmanuelle Waeckerle, Carol Watts, Silvia Alexandra Schimag, Antoine Beuger, Leni Dipple, <a href="https://cdla.info/2022/10/27/marianne-schuppe-2/">Marianne Schuppe</a><br>
+Centre de Livres des artistes<br>
+September 8-11<br>
+St. Yrieux la Perche, France</p>
+</div>
+<div class="paragraph">
+<div class="title">composers meet composers</div>
+<p>Els van Riel, Stefan Thut, Emmanuelle Waeckerle, Antoine Beuger, Marianne Schuppe<br>
+August 8-14<br>
+Le Puid, France</p>
+</div>
+<div class="paragraph">
+<div class="title">entrevoix</div>
+<p>Stefanie Erni, voice<br>
+Marianne Schuppe, voice<br>
+ 10. Juli<br>
+Biennale d&#8217;Art, sentier des passeurs<br>
+F- 88210 Quiex / Le Saulcy</p>
+</div>
+<div class="paragraph">
+<div class="title">Salz, Lücke, Zelt (2018)</div>
+<p>von Marianne Schuppe<br>
+Ensemble <a href="https://vokalkunst.ch/vokalkunst/termine/">Voce</a><br>
+Samstag, 2. Juli, 19:30: Stadtkirche, Aarau<br>
+Mittwoch, 29. Juni, 19:30: Herz-Jesu-Kirche, Laufen<br>
+Sonntag, 26. Juni, 17:00: Kulturkirche am See, Berlin</p>
+</div>
+<div class="paragraph">
+<div class="title">Laconnex series (UA)</div>
+<p>for and with <a href="https://insub.org/polytopies/">insub</a> ensemble<br>
+ 19.-21. Juni<br>
+recording and performance<br>
+Laconnex /GE</p>
+</div>
+<div class="paragraph">
+<div class="title">Die Glocke (UA)</div>
+<p>Konzeption : Vincent Hofmann und Simon Kindle<br>
+Partitur : Lukas Huber und Marianne Schuppe<br>
+mit Lukas Huber, Vincent Hofmann, Simon Kindle, Barbara van der Meulen, Marianne Schuppe<br>
+ 17./18. Juni<br>
+Kloster Dornach, Amthausstrasse 7, 4143 Dornach</p>
+</div>
+<div class="paragraph">
+<div class="title">Ungehörte Ordnungen</div>
+<p>Marianne Schuppe, Stimme<br>
+Sergej Tchirkov, Akkordeon<br>
+Alfred Zimmerlin, Violoncello<br>
+ 20. Mai 19.30<br>
+Maison 44, Steinenring 44, 4051 Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">colline sur livre - siehst du die wurzeln am himmel</div>
+<p><em>Knickse Fäden Windpapier</em><br>
+Marianne Schuppe, Stimme, Laute, Uber-bows<br>
+ 25. März 19.30, 2022<br>
+Maison 44, Steinenring 44, 4051 Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">entrevoix</div>
+<p>Stefanie Erni und Marianne Schuppe, Stimmen<br>
+Atelierkonzert zum 30 jährigen Juniläum Werkraum Warteck<br>
+Sonntag, 17.9. 11 Uhr<br>
+Burgweg 15, 4058 Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">Ersungene Lieder.</div>
+<p>Portrait von Thomas Meyer in der Septemberausgabe von <a href="https://jazznmore.ch/archiv/">Jazzn&#8217;more, Ausgabe 05-2023, Seite 54</a></p>
+</div>
+<div class="paragraph">
+<div class="title">lyrics of nosongs</div>
+<p><a href="https://wryawry.bigcartel.com/product/luigi-ten-co-3">poetry journal</a> Luigi Ten Co Issue no.3,<br>
+August 23<br>
+Colorado</p>
+</div>
+<div class="paragraph">
+<div class="title">occam river XXIX (UA)</div>
+<p>von Eliane Radigue<br>
+sowie <em>Aus dem Zeltbuch</em> von Walker/Schuppe (UA)<br>
+  26. April 20h30<br>
+Kunstraum Walcheturm, Zürich<br>
+ignm Zürich</p>
+</div>
+<div class="paragraph">
+<div class="title">a day in july</div>
+<p>Stefan Thut, Marianne Schuppe<br>
+  25. März<br>
+Zieblandstraße 45, 80798 München<br>
+Klang im Dach, München</p>
+</div>
+<div class="paragraph">
+<div class="title">a day in july ( 2022)</div>
+<p>Stefan Thut, Violoncello<br>
+Marianne Schuppe, Stimme<br>
+  12. Februar 19h00, 2023<br>
+Theater Delly, Gerberngasse 11, Solothurn<br>
+Doppelkonzert mit Tao Vrhovec Sambolec<br>
+Margins of listening (2015)</p>
+</div>
+<div class="paragraph">
+<div class="title">entrevoix</div>
+<p>Stefanie Erni, Stimme<br>
+Marianne Schuppe, Stimme<br>
+  10. Dezember 17h00, 2022<br>
+Schlosserei Nenniger, Zürich</p>
+</div>
+<div class="paragraph">
+<div class="title">Solo Duo Trio</div>
+<p>Eva-Maria Karbacher, Saxophone<br>
+Lara Süss, Stimme, FX<br>
+Marianne Schuppe, Stimme<br>
+  19. November 17h00<br>
+Wilde Gallery, Angensteinerstrasse 37, 4052 Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">Salz, Lücke, Zelt (2018)</div>
+<p>Ensemble Voce<br>
+  13. November 17h00<br>
+Konzertzyklus St. Franziskus Zürich</p>
+</div>
+<div class="paragraph">
+<div class="title">Rebecca Lane, Catherine Lamb, Stefan Thut, Marianne Schuppe, Clara de Asis</div>
+<p>November 6, 19h00<br>
+Säulenhalle Solothurn</p>
+</div>
+<div class="paragraph">
+<div class="title">Stefan Thut and Marianne Schuppe</div>
+<p>  October 29th, 20h15<br>
+Amsterdam Wandelweiser Festival<br>
+Orgelpark Amsterdam</p>
+</div>
+<div class="paragraph">
+<div class="title">residency walking in air</div>
+<p>Will Montgomery, Stefan Thut, Emmanuelle Waeckerle, Carol Watts, Silvia Alexandra Schimag, Antoine Beuger, Leni Dipple, <a href="https://cdla.info/2022/10/27/marianne-schuppe-2/">Marianne Schuppe</a><br>
+Centre de Livres des artistes<br>
+September 8-11<br>
+St. Yrieux la Perche, France</p>
+</div>
+<div class="paragraph">
+<div class="title">composers meet composers</div>
+<p>Els van Riel, Stefan Thut, Emmanuelle Waeckerle, Antoine Beuger, Marianne Schuppe<br>
+August 8-14<br>
+Le Puid, France</p>
+</div>
+<div class="paragraph">
+<div class="title">entrevoix</div>
+<p>Stefanie Erni, voice<br>
+Marianne Schuppe, voice<br>
+ 10. Juli<br>
+Biennale d&#8217;Art, sentier des passeurs<br>
+F- 88210 Quiex / Le Saulcy</p>
+</div>
+<div class="paragraph">
+<div class="title">Salz, Lücke, Zelt (2018)</div>
+<p>von Marianne Schuppe<br>
+Ensemble <a href="https://vokalkunst.ch/vokalkunst/termine/">Voce</a><br>
+Samstag, 2. Juli, 19:30: Stadtkirche, Aarau<br>
+Mittwoch, 29. Juni, 19:30: Herz-Jesu-Kirche, Laufen<br>
+Sonntag, 26. Juni, 17:00: Kulturkirche am See, Berlin</p>
+</div>
+<div class="paragraph">
+<div class="title">Laconnex series (UA)</div>
+<p>for and with <a href="https://insub.org/polytopies/">insub</a> ensemble<br>
+ 19.-21. Juni<br>
+recording and performance<br>
+Laconnex /GE</p>
+</div>
+<div class="paragraph">
+<div class="title">Die Glocke (UA)</div>
+<p>Konzeption : Vincent Hofmann und Simon Kindle<br>
+Partitur : Lukas Huber und Marianne Schuppe<br>
+mit Lukas Huber, Vincent Hofmann, Simon Kindle, Barbara van der Meulen, Marianne Schuppe<br>
+ 17./18. Juni<br>
+Kloster Dornach, Amthausstrasse 7, 4143 Dornach</p>
+</div>
+<div class="paragraph">
+<div class="title">Ungehörte Ordnungen</div>
+<p>Marianne Schuppe, Stimme<br>
+Sergej Tchirkov, Akkordeon<br>
+Alfred Zimmerlin, Violoncello<br>
+ 20. Mai 19.30<br>
+Maison 44, Steinenring 44, 4051 Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">colline sur livre</div>
+<p><em>Knickse Fäden Windpapier</em><br>
+Marianne Schuppe, Stimme, Laute, Uber-bows<br>
+ 25. März 19.30, 2022<br>
+Maison 44, Steinenring 44, 4051 Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">anon - inner core - colline sur livre</div>
+<p>Thut - Schuppe - Kilchenmann<br>
+spielen eigene Stücke<br>
+Marianne Schuppe, Stimme<br>
+Stefan Thut, Cello<br>
+Marc Kilchenmann, Fagott und mikrotonales Glockenspiel</p>
+</div>
+<div class="paragraph">
+<p>6.Dezember  19 Uhr<br>
+<em>Montags um Sieben</em><br>
+Alleestr. 11, 2503 Biel/Bienne</p>
+</div>
+<div class="paragraph">
+<div class="title">Die Summe</div>
+<p>13.November  17 Uhr<br>
+Sud, Werkraum Warteck<br>
+Burgweg 7, 4058 Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">Zwei Stimmen</div>
+<p>Stefanie Erni, Marianne Schuppe<br>
+24.Oktober  17 Uhr<br>
+Atelier Judith Eckert<br>
+Kirchgasse 7, 4118 Rodersdorf</p>
+</div>
+<div class="paragraph">
+<div class="title">Die Summe 21, für Chöre und Einzelstimmen</div>
+<p>8.-19. September 21, Festival ZeitRäume, Basel<br>
+<span class="icon"><a class="image" href="pdf/Summe.pdf"><i class="fa fa-file"></i></a></span> <em>Der Ton, die anderen und ich</em> von Isabel Zürcher.</p>
+</div>
+<div class="paragraph">
+<div class="title">colline sur livre</div>
+<p>Marianne Schuppe, Stimme<br>
+ 3.-8. August, Klangraum Düsseldorf, Himmelsgeisterstr.107, 40225 Düsseldorf</p>
+</div>
+<div class="paragraph">
+<div class="title">Salz. Lücke, Zelt (2018)</div>
+<p>von Marianne Schuppe<br>
+Ensemble <a href="https://vokalkunst.ch/vokalkunst/termine/">Voce</a><br>
+ 4. Juli, 17h00 Predigerkirche Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">readwalking - a direction out there</div>
+<p>by Emmanuelle Waeckerlé<br>
+with Marie-Cécile Reber, electronics, Emmanuelle Waeckerlé, voice<br>
+Stefan Thut, viol, Marianne Schuppe, voice<br>
+ 6. Juni, 19h00 Säulenhalle Solothurn</p>
+</div>
+<div class="paragraph">
+<div class="title">Salz. Lücke, Zelt (2018)</div>
+<p>von Marianne Schuppe<br>
+Ensemble <a href="https://vokalkunst.ch/vokalkunst/termine/">voce</a><br>
+ 5. Juni, 19.30 Predigerkirche Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">afore - inner core - behind</div>
+<p>Thut - Schuppe - Kilchenmann<br>
+play works by themselves</p>
+</div>
+<div class="paragraph">
+<p>Marianne Schuppe, voice<br>
+Stefan Thut, cello<br>
+Marc Kilchenmann, bassoon and microtonal chimes<br></p>
+</div>
+<div class="paragraph">
+<p>November 5  <a href="http://www.serenawey.ch/index.php?id=2">Theatergarage Basel</a><br>
+September 3  <a href="https://www.walcheturm.ch/agenda/trio-thut-schuppe-kilchenmann-afore-inner-core-behind">Kunstraum Walcheturm Zürich</a></p>
+</div>
+<div class="paragraph">
+<div class="title">workshop Stimmimprovisation im Masterstudiengang Freie Improvisation FHNW Basel</div>
+<p>30.10 - 1.11. 2020<br>
+Werkstattkonzert der Studierenden<br>
+1. November 15h00, Klaus Linder Saal, Leonhardstrasse 6, 4009 Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">Stimme - Körper- Räume</div>
+<p>Keynote Hochschule für Architektur Basel FHNW<br>
+Masterstudiengang Architektur<br>
+ 29. Mai 2020</p>
+</div>
+<div class="paragraph">
+<div class="title">still light</div>
+<p>Emmanuelle Waeckerle and Marianne Schuppe, composition and voices<br>
+Klangraum Düsseldorf,  Himmelsgeisterstr.107, 40225 Düsseldorf<br>
+ 27.7-2.8. 2020</p>
+</div>
+<div class="paragraph">
+<div class="title">Improvisation</div>
+<p>Stefanie Erni, Voice, Marianne Schuppe, Voice<br>
+<a href="https://klangbang.wordpress.com/">Klangbang</a>, Solothurnerstr.4, 4053 Basel<br>
+ 14. Februar 2020</p>
+</div>
+<div class="paragraph">
+<div class="title">Giacinto Scelsi (Hô) and a new work by myself</div>
+<p>Solo Concert in der Ausstellung von Andrea Wolfensberger<br>
+Rotonde, Große Kunstschau, Worpswede<br>
+ 6. Dezember 2019</p>
+</div>
+<div class="paragraph">
+<div class="title">so what? ein Endstück</div>
+<p>Bettina Helmrich, Miranda Glickson,<br>
+Tanz, Marianne Schuppe, Sprache, Georg Wolf, Kontrabass, Wolfgang Schliemann, Perkussion<br>
+Dok 4 Halle, Kassel<br>
+28./29./30.November 2019</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - der blumen</div>
+<p>weitere Werke von Eva- Maria Houben, Karin Rehnqvist, Kassia, Yoko Ono, Meredith Monk u.a.<br>
+Chor Superterz, Ltg. Antoine Beuger<br>
+Johanneskirche Köln-Brück<br>
+17.  November 2019</p>
+</div>
+<div class="paragraph">
+<div class="title">Hausen</div>
+<p>Leo Hofmann und Benjamin van Bebber<br>
+mit den Gästen Jürg Kienberger, Alla Poppersoni und Marianne Schuppe,<br>
+11.  - 20. Oktober 2019<br>
+Cabaret Voltaire, Zürich</p>
+</div>
+<div class="paragraph">
+<p><span class="image"><a class="image" href="images/archive/Hausen.jpg"><img src="./images/archive/Hausen.jpg" alt="Hausen" width="40%"></a></span></p>
+</div>
+<div class="paragraph">
+<div class="title">Die Summe 19 (UA)</div>
+<p>für Chöre und Einzelstimmen<br>
+in öffentlichen Räumen<br>
+10.-19. September 2019<br>
+Festival ZeitRäume Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">composers meet composers</div>
+<p><a href="https://www.wandelweiser.de/composers_meet_composers/composers_meet_composers_2019.html">heim.art Neufelden,A</a><br>
+mit Antoine Beuger, Jürg Frey, Emmanuelle Waeckerle, Joachim Eckl, Marianne Schuppe<br>
+June 23-30, 2019</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - Salz, Lücke, Zelt (UA) für 8 Stimmen</div>
+<p>weitere Werke von Yagüe, Rautavaara, Pärt, Handl, Palestrina u.a.<br>
+<a href="https://vokalkunst.ch/vokalkunst/projekte/">Ensemble Voce</a><br>
+15.Juni 2019 19.30 Uhr La Collégiale St. Ursanne<br>
+16.Juni 2019 17 Uhr Kirche Amsoldingen<br>
+17.Juni 2019 19.30 Uhr Predigerkirche Basel</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - der blumen</div>
+<p>weitere Werke von Eva- Maria Houben, Karin Rehnqvist, Kassia, Yoko Ono, Meredith Monk u.a.<br>
+Chor Superterz, Ltg. Antoine Beuger<br>
+Epiphaniaskirche Köln-Bickendorf<br>
+16.  Juni 2019</p>
+</div>
+<div class="paragraph">
+<div class="title">afore - inner core - behind</div>
+<p>Marianne Schuppe, Stimme, Marc Kilchenmann, Fagott, Stefan Thut, Violoncello<br>
+Münster Bern, Gewölbessal Daniel Heintz<br>
+17.  Mai 2019</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - Slow songs, nosongs</div>
+<p>Solo<br>
+Dock Basel<br>
+25.  Januar 2019</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - notes from the hill and other works</div>
+<p>solo and duo with Antoine Beuger<br>
+cosy nook, London<br>
+January 12. 2019</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - Slow songs, nosongs</div>
+<p><a href="https://www.cafeoto.co.uk/events/marianne-schuppe-slow-songs-nosongs/">slow songs</a>, <a href="https://www.cafeoto.co.uk/events/marianne-schuppe-slow-songs-nosongs/">nosongs</a><br>
+Cafe Oto, London<br>
+January 9, 2019</p>
+</div>
+<div class="paragraph">
+<div class="title">workshop Stimmimprovisation im Masterstudiengang, Freie Improvisation FHNW Nordwestschweiz</div>
+<p>Musikakademie Basel<br>
+26.-28. Oktober 2018<br>
+Werkstattkonzert Sonntag, 28.10.</p>
+</div>
+<div class="paragraph">
+<div class="title">afore - inner core - behind, to collect and to recite</div>
+<p>Marianne Schuppe Stimme, Marc Kilchenmann, Fagott, Stefan Thut, Cello<br>
+und Antoine Beuger, Stimme<br>
+ 17. Juni 2018</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - der blumen (UA)</div>
+<p>Sotto Voce Vocal Collective, Buffalo NY, 2018<br>
+St. John&#8217;s Ohio City in Cleveland OH, USA, June 9th<br>
+Fairchild Chapel in Oberlin OH , USA, June 8th<br>
+Unitarian Universalist Church of Buffalo NY, April 29th</p>
+</div>
+<div class="paragraph">
+<div class="title">Ungehörte Ordnungen</div>
+<p>Marianne Schuppe, Stimme, Alfred Zimmerlin, Violoncello<br>
+Maison 44, Steinenring 44, 4051 Basel<br>
+23.  April, 2018</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - streifen, Improvisationen</div>
+<p>Stefanie Erni, Stimme, Marianne Schuppe, Stimme<br>
+Atelier Alemanengasse 44, 4018 Basel<br>
+ 22. April 2018</p>
+</div>
+<div class="paragraph">
+<div class="title">Aufbruch nach prrrr</div>
+<p>Ein Gesangsprojekt von Marianne Schuppe mit Schülerinnen des Gymnasiums Oberwil<br>
+Gare du Nord, Basel<br>
+ 2. März 2018</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - slow songs, nosongs</div>
+<p>Marianne Schuppe, Stimme, Laute, Uber-bows<br>
+Festival Zwei Tage Zeit<br>
+Theater Rigiblick, Germaniastrasse 99, CH - 8044 Zürich<br>
+20.  Januar 2018</p>
+</div>
+<div class="paragraph">
+<div class="title">Morton Feldman - Three Voices</div>
+<p>Marianne Schuppe, Stimme<br>
+Rheinisches Landesmuseum Bonn<br>
+13. Januar 2018</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - drei nosongs</div>
+<p>Marianne Schuppe, Stimme, Laute, Uber-bows<br>
+Musikwissenschaftliches Seminar der Universität Basel<br>
+18. Dezember 2017</p>
+</div>
+<div class="paragraph">
+<div class="title">Komponistinnengespräch im Musikwissenschaftlichen Seminar</div>
+<p>mit Marianne Schuppe<br>
+Musikwissenschaftliches Seminar der Universität Baael<br>
+6. November 2017</p>
+</div>
+<div class="paragraph">
+<div class="title">Selbdritt</div>
+<p>Marianne Schuppe, Stimme, Sylwia Zytynska, Perkussion, Alfred Zimmerlin, Cello<br>
+Exploratorium Berlin<br>
+19. Oktober 20 Uhr</p>
+</div>
+<div class="paragraph">
+<div class="title">workshop Stimmimprovisation im Masterstudiengang, Freie Improvisation FHNW Nordwestschweiz</div>
+<p>Hochschule für Musik Basel<br>
+9.-11. Dezember 2016<br>
+Werkstattkonzert 11. Dezember</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - halbhell (UA)</div>
+<p>Erik Carlson, violin<br>
+St. Diego, USA<br>
+December 9, 2016</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - slow songs</div>
+<p>for voice, lute, uber-bows<br>
+<a href="http://hcmf.co.uk/">Huddersfield Contemporary Music Festival</a><br>
+St. Paul&#8217;s Hall, Huddersfield, England<br>
+November 24, 2016</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - slow songs</div>
+<p>for voice, lute, uber-bows<br>
+Konzertreihe Pavillon Wels, Austria<br>
+November 16, 2016</p>
+</div>
+<div class="paragraph">
+<div class="title">Morton Feldman - Three Voices</div>
+<p>Marianne Schuppe, voice<br>
+Helsinki Tulkinnanvaraista Festival<br>
+Korjaamo Cultural Factory, Helsinki<br>
+November 6, 2016</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - notes from the hill</div>
+<p>Sarah Cranfield, soprano, Josten Myburgh, sine-tones<br>
+Perth, Australia<br>
+October 8, 2016</p>
+</div>
+<div class="paragraph">
+<div class="title">Interpretationsforum der Hochschule für Musik Basel mit Marianne Schuppe</div>
+<p><em>you and the tube</em> - Subjektive Positionen der Song-Interpretation zwischen den beiden Weltkriegen in ausgewählten Beispielen<br>
+Hochschule für Musik Basel<br>
+27.  September 2016</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - notes from the hill (UA)</div>
+<p>Antoine Beuger, voice, Josten Myburgh, sine-tones<br>
+Klangraum Düsseldorf 2016<br>
+August 21, 2016</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - ortlos über die Küste hinaus (UA)</div>
+<p>für Stimmensemble<br>
+RAUM, Palmenstr. 4, 4054 Basel<br>
+8.  Juni 2016</p>
+</div>
+<div class="paragraph">
+<div class="title">Hans-Jürg-Meier - les mots jaunes</div>
+<p>und andere Werke<br>
+Sarah Giger, Traversflöte, Marianne Schuppe, Stimme<br>
+Musikpodium Zürich, Alte Cigarettenfabrik, Sihlquai 268<br>
+27.  Mai 2016</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - slow songs</div>
+<p>101.  Atelierkonzert<br>
+Atelier Christoph Schiller, Klingentalstr. 72, 4057 Basel<br>
+10.  Mai 2016</p>
+</div>
+<div class="paragraph">
+<div class="title">Antoine Beuger - aus den liedern</div>
+<p>Marianne Schuppe, Stimme<br>
+Basel Sinfonietta<br>
+Leitung Jonathan Stockhammer<br>
+Stadtcasino Basel<br>
+24.  April 2016</p>
+</div>
+<div class="paragraph">
+<div class="title">Morton Feldman - Three Voices</div>
+<p>Marianne Schuppe, Stimme<br>
+Overbeckgesellschaft Lübeck, 22.  Januar 2016<br>
+Tinguely Museum Basel, 20. Januar 2016<br>
+Kunstraum Walcheturm Zürich, 10. Dezember 2015</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - Sapphosongs (UA)</div>
+<p>Zürcher Hochschule der Künste, 30. November 2015<br>
+Archäologische Universität Freiburg i.B., 24. November 2015<br>
+Mendelssohn Haus Leipzig, 13. November 2015<br>
+Skulpturhalle Basel, 1. November 2015</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - slow songs, Antoine Beuger - aus den liedern</div>
+<p>Marianne Schuppe, Stimme, Antoine Beuger, Flöte, Jürg Frey, Klarinette, Robyn Streb, Viola<br>
+Klangraum Düsseldorf<br>
+9. August 2015</p>
+</div>
+<div class="paragraph">
+<div class="title">Morton Feldman - Three Voices</div>
+<p>Marianne Schuppe, Stimme<br>
+Musikhochschule Zürich<br>
+5. Juni 2015</p>
+</div>
+<div class="paragraph">
+<div class="title">Laub</div>
+<p>Regula Konrad, Stimme, Marianne Schuppe, Stimme<br>
+GNOM Baden, Berufsfachschule Martinsberg, 23. April 2015<br>
+Centre PasqArt Biel/Bienne, 22. April 2015<br>
+Maison 44, Basel, 18. Januar 2015</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - slow songs</div>
+<p>Marianne Schuppe, Stimme, Laute und Uber-Bows<br>
+Atelier im Hof, Wilhelmsstr. 21, 42781 Haan<br>
+26. Februar 2015</p>
+</div>
+<div class="paragraph">
+<div class="title">Stirrings Still / Immer noch nicht mehr</div>
+<p>nach Samuel Beckett<br>
+mit Serena Wey und Marianne Schuppe<br>
+Theatergarage Basel<br>
+4. und 6. Dezember 2014<br>
+8., 9., 10. November 2013<br>
+30., 31. Oktober 2013</p>
+</div>
+<div class="paragraph">
+<div class="title">the crucial crux of words</div>
+<p>Marianne Schuppe, Stimme, Laute, Uber-Bows<br>
+Symposium <em>performing voice</em> Hochschule der Künste Bern<br>
+Dampfzentrale Bern<br>
+27. November 2014</p>
+</div>
+<div class="paragraph">
+<div class="title">Die Geschichte der Musik ist die Geschichte der Dissonanz</div>
+<p>Markus Eichenberger im Gespräch mit Thomas Meyer und Marianne Schuppe<br>
+Alte Spinnerei Suhr<br>
+26.  November 2014</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - things in singing</div>
+<p>Marianne Schuppe, Stimme, Laute, Uber-Bows<br>
+Theatergarage Basel, 4.,7.,8,November 2014<br>
+in the exhibition of Hanne Tyrmi, Haugar Verstfold Kunstmuseum, Tonsberg/Norway</p>
+</div>
+<div class="paragraph">
+<div class="title">Nicht bei Trost. Mikrologien. Lesung für 2 + 1 Stimme</div>
+<p>Marianne Schuppe und Franz Dodel<br>
+Maison 44 Basel<br>
+3. Mai 2014</p>
+</div>
+<div class="paragraph">
+<div class="title">Yonder</div>
+<p>Regula Konrad, Stimme, Marianne Schuppe, Stimme<br>
+Maison 44 Basel<br>
+11.  April 2014</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - am Fenster</div>
+<p>Marianne Schuppe, Stimme<br>
+Malzsilo, Werkraum Warteck Basel<br>
+10.  April 2014</p>
+</div>
+<div class="paragraph">
+<div class="title">Hitzewelle</div>
+<p>Andrea Wolfensberger (Bild) und Marianne Schuppe (Ton)<br>
+Kunstmuseum Solothurn Werkhofstrasse 30, 4500 Solothurn<br>
+22. 2.-27. 4. 2014</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - asunder</div>
+<p>eine Musik für Stimmen zum Stummfilm <em>La chute de la maison Usher</em> (Jean Epstein 1928)<br>
+Theatergarage Basel, 11. Februar 2014<br>
+Filmpodium Zürich Zürich, 5. November 2013</p>
+</div>
+<div class="paragraph">
+<div class="title">Markus Eichenbergers Domino Orchestra</div>
+<p>mit Ute Wassermann und Marianne Schuppe, Stimmen<br>
+Exploratorium Berlin<br>
+14.  Dezember 2013</p>
+</div>
+<div class="paragraph">
+<div class="title">Hoffnung - Vortrag und Musik</div>
+<p>Musik von Giacinto Scelsi und Hildegard von Bingen<br>
+Brigitte Hillmer, Wort, Marianne Schuppe, Gesang<br>
+Predigerkirche Basel<br>
+9. Dezember 2013</p>
+</div>
+<div class="paragraph">
+<div class="title">Amparo</div>
+<p>Marianne Schuppe, Stimmme, Dias&amp;Riedweg, Video<br>
+Villa de 25 de Agosto, Uruguay<br>
+August 25, 2013</p>
+</div>
+<div class="paragraph">
+<div class="title">beinah</div>
+<p>Regula Konrad und Marianne Schuppe, Stimmen<br>
+R.A.U.M, Palmenstr.4, 4054 Basel, 24. Mai 2013<br>
+Alte Papiermühle, Benkenstr.61, 5024 Küttigen, 25. Mai 2013</p>
+</div>
+<div class="paragraph">
+<div class="title">Luigi Nono - Guai Ai Gelidi Mostri</div>
+<p>Ensemble Diagonal für Zeitgenössische Musik der Hochschule Basel,<br>
+Leitung Jürg Henneberger<br>
+Ulrike Andersen und Marianne Schuppe, Stimmen<br>
+Cornelius Bohn, Live-Elektronik<br>
+Volkshaus Basel<br>
+19.  und 20. März 2013</p>
+</div>
+<div class="paragraph">
+<div class="title">Morton Feldman - Three Voices</div>
+<p>OPENING Festival für Aktuelle Klangkunst Trier<br>
+Kultur-und Kommunikationszentrum Trier, 1.  Februar 2013<br>
+<a href="http://www.logosfoundation.org/">Stichting Logos</a>, Gent (B), January 30, 2013</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe interpretiert Giacinto Scelsi</div>
+<p>Konzert und Lecture<br>
+Hochschule der Künste Bern<br>
+27. November 2012</p>
+</div>
+<div class="paragraph">
+<div class="title">Marianne Schuppe - solo</div>
+<p><em>zoom in</em> Festival für Improvisierte Musik<br>
+Berner Münster, Bern, 13.Oktober 2012<br>
+Kirche Deiderode, 7.Oktober 2012<br>
+Kirche Hubenrode / Witzenhausen, 6.  Oktober 2012<br>
+raum 22, Kilchberg BL<br>
+Soesterkirkene pa gran, Oslo, August 18, 2012<br>
+Villa Renata, Basel, 18. Mai 2012,<br>
+Moments musicaux, Aarau, Sonntag, 13. November 2011</p>
+</div>
+<div class="paragraph">
+<div class="title">GNOM Baden, Performance <em>MARTINSBERG I</em></div>
+<p>Hans Koch, Bassklarinette, Jonas Kocher, Akkordeon, Hans-Jürg Meier, akustische Installation<br>
+Dorothea Rust, Tanz, Marianne Schuppe, Stimme, Nadine Schwarz, Tanz, Ivan Wolfe, Tanz<br>
+GNOM Baden, Haus Martinsberg, Berufsfachschule Baden BBB,<br>
+17.  Juni 2012</p>
+</div>
+<div class="paragraph">
+<div class="title">Giacinto Scelsi</div>
+<p>Khoom for 7 Instruments and Voice<br>
+Pranam I for 12 Instruments, Voice and Tape<br>
+Ensemble Phönix Basel, Leitung Jürg Henneberger, Marianne Schuppe, Stimme<br>
+Musée d&#8217;Art moderne et contemporain Strassbourg<br>
+9. Februar 2012</p>
+</div>
+<div class="paragraph">
+<div class="title">Morton Feldman - Three Voices</div>
+<p>Marianne Schuppe, Stimme<br>
+Kunsthaus Wiesbaden<br>
+3. Dezember 2011</p>
+</div>
+<div class="paragraph">
+<p><span class="icon"><a class="image" href="pdf/arbeiten.pdf"><i class="fa fa-file"></i></a></span>
+Archiv ausgewählter Arbeiten 1986-2011 / selected works 1986 - 2011</p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
