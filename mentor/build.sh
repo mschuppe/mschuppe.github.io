@@ -1,16 +1,5 @@
 #!/bin/zsh
-cd archive
-./build.sh
-cd ..
-cd csl
-./build.sh
-cd ..
-cd int_essay
-./build.sh
-cd ..
-cd mentor
-./build.sh
-cd ..
+pwd
 asciidoctor -D . doc/index.adoc
 rsync -a --verbose --perms --times  --prune-empty-dirs --delete-after doc/images .
 rsync -a --verbose --perms --times  --prune-empty-dirs --delete-after doc/pdf .
