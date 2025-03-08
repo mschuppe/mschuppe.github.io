@@ -23,7 +23,7 @@ cd ..
 cd review
 ./build.sh
 cd ..
-cd work
+cd works
 ./build.sh
 cd ..
 asciidoctor -D . doc/index.adoc
