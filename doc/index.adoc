@@ -23,6 +23,7 @@ In this vein xref:index.adoc#colline[colline sur livre] is my most recent and on
 
 link:/archive/index.html[Archive] 
 link:/csl/index.html[Coline sur Livre] 
+link:/int_essay/index.html[Interviews & Essays] 
 
 {nbsp} +
 {nbsp} +
