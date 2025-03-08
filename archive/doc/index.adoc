@@ -9,10 +9,7 @@
 :figure-caption!:
 :sectnums!:
 
-
-
-[[archive]]
-== archive
+link:/../index.html[icon:home[]] 
 
 [%hardbreaks]
 .CD release Dante Boon - duos
@@ -37,7 +34,7 @@ Erscheinungsdatum der Buchveröffentlichung: colline en air; mit Zeichnungen von
 http://www.editionhoweg.ch/schuppe-marianne/[Edition Howeg Zürich]
 Photo: Vincent Hofmann
 
-image::nowthen/buch.jpg[width=30%, align="center",link=images/nowthen/buch.jpg]
+image::buch.jpg[width=30%, align="center",link=images/buch.jpg]
 {nbsp}
 {nbsp}
 
@@ -431,7 +428,7 @@ mit den Gästen Jürg Kienberger, Alla Poppersoni und Marianne Schuppe,
 11.{sp} - 20. Oktober 2019
 Cabaret Voltaire, Zürich
 
-image:archive/Hausen.jpg[width=40%,link=images/archive/Hausen.jpg]
+image:Hausen.jpg[width=40%,link=images/Hausen.jpg]
 
 .Die Summe 19 (UA)
 [%hardbreaks]
@@ -810,4 +807,6 @@ Kunsthaus Wiesbaden
 
 icon:file[link=pdf/arbeiten.pdf]
 Archiv ausgewählter Arbeiten 1986-2011 / selected works 1986 - 2011
+
+link:/../index.html[icon:home[]] 
 
