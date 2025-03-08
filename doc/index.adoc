@@ -6,14 +6,11 @@
 :sectnums:
 :figure-caption!:
 :sectnums!:
+:docinfo: shared
 
-[abstract]
 
 {nbsp} +
 {nbsp} +
-
-
-
 
 image:home-sand.jpg[Score, 300, 300, link=images/home-sand-cropped.jpg, float="right"] 
 
