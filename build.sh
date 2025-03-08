@@ -17,6 +17,15 @@ cd ..
 cd path
 ./build.sh
 cd ..
+cd recording
+./build.sh
+cd ..
+cd review
+./build.sh
+cd ..
+cd work
+./build.sh
+cd ..
 asciidoctor -D . doc/index.adoc
 rsync -a --verbose --perms --times  --prune-empty-dirs --delete-after doc/images .
 rsync -a --verbose --perms --times  --prune-empty-dirs --delete-after doc/pdf .

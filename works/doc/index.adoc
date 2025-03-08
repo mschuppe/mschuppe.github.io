@@ -1,0 +1,267 @@
+= works
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+
+link:/../index.html[icon:home[]] 
+
+Listening to a voice, one may hear sounds or words. Words are linked to a specific language and understanding. Sounds may hide the voice as a human source. Though sounds are not bound to a specific vocabulary, they are as well carrying meaning, intended or not.
+Words and sounds constitute the presence of voice and do not exist independently. Both have a specific physicality. They interact, within or outside language. Together they unfold the complexity of singing.
+
+My compositions are rooted in my practise as a singer, vocalist, writer and teacher.
+Steps throughout these interweaving acitivities were :
+song - movement - improvisation - sound - breath - word - song - extended. Find a selection of my pieces here:
+[%hardbreaks]
+{nbsp}
+{nbsp}
+
+== composer-performer
+
+.colline sur livre (2023-)
+Marianne Schuppe, voice, lute, e-ponts
+
+.Laconnex series (2022)
+[%hardbreaks]
+for instruments and voices
+composition and voice: Marianne Schuppe
+9 pieces unfolding a melody line.
+Played with rests in a time span of 7 hours from dusk to late night.
+Opaque transparent.
+https://insub.bandcamp.com/track/marianne-schuppe-laconnex-serie-insub8tet-1[Laconnex series auf bandcamp]
+
+.behind I-IV (2018/2020)
+[%hardbreaks]
+for voice and two instruments
+text: Marianne Schuppe
+_a ransong to be sung in trio or performed with solo voice and instruments_
+
+.distant shapes – ferne Formen (2019)
+for listeners and singers
+
+.nosongs (2017/18)
+[%hardbreaks]
+for voice, lute and uber-bows
+text: Marianne Schuppe
+_came in here from side-doors_
+_found in a landscape of some other game_
+
+.notes from the hill (2015/2019)
+[%hardbreaks]
+for voice and one instrument
+an ongoing songbook of short melodies performed solo with any instrument or in duo
+
+.Sapphosongs (2015)
+[%hardbreaks]
+for voice and one instrument
+referring to a small selection of words by Sappho, commissioned by Ute Stoecklin/ maison 44
+_das Licht zurückwerfen_
+
+.slow songs (2013-15)
+[%hardbreaks]
+for voice, lute, e-bows
+text: Marianne Schuppe
+_nor silent, kind or real are things in thinking_
+
+.am Fenster (2014)
+[%hardbreaks]
+for solo voice
+_where is the stage in a high-ceiled dark concrete-room ?_
+
+.tidstrand (2009)
+[%hardbreaks]
+for voice and instruments
+text: abgelauschte Sätze
+_written for the concert series moments musicaux in Aarau, named after a swedish woolen blanket_
+
+.Avers (2008)
+[%hardbreaks]
+for voice, lute, e-bows
+longsong in seven parts based on the transkription of a witch trial in the Swiss mountainvalley of Avers in the 17th century,
+commissioned by Ina Boesch und Corinne Holtz for the opening of their performance series “Die Bühne im Avers”.
+_346 Jahre später schickt mir jemand eine Postkarte_
+
+.Hitzewelle (2004)
+[%hardbreaks]
+music for videowork by Andrea Wolfensberger
+Multi-layered-tape-composition based on a conductus of Codex las Huelgas (13th century).
+_a many-voiced canon towards dissolution into wind_
+
+.stilleben (1997)
+[%hardbreaks]
+_fourteen almost wordless still-lifes for voice_
+
+.das imzu plaudern (1993)
+[%hardbreaks]
+for voice and tape
+text: Marianne Schuppe
+_Simultaneity of speaking and singing comes about by accident_
+
+.solo for voice (1988)
+[%hardbreaks]
+Kunsthaus Aarau
+{nbsp}
+{nbsp}
+
+== composing for voices
+
+
+.entrevoix
+[%hardbreaks]
+for two voices    
+With textfragments from _les chauses_  https://cdla.info/2022/10/27/marianne-schuppe-2/[cdla walking in air]
+https://soundcloud.com/marianne-schuppe/entrevoix-2022-fragment?si=3312bd1a0c1e49ed9f2801fca83d8398&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing[entrevoix]
+
+
+[[summe]]
+.die Summe 1 (2019), die Summe 2 (2021)
+[%hardbreaks]
+https://soundcloud.com/marianne-schuppe/summe[for choirs and more voices], icon:file[link=pdf/summe.pdf]
+commissioned by Basel Festival ZeitRäume
+_a fluid sculpture through the city of Basel formed by smaller and bigger groups of humming voices over a period of ten days_
+icon:file[link=pdf/IZ-ton.pdf] _Der Ton, die andern und ich_ von Isabel Zürcher.
+{nbsp}
+image:summe.jpg[width=50%,link=images/summe.jpg]
+{nbsp}
+{nbsp}
+
+
+.Salz, Lücke, Zelt (2018/2019)
+[%hardbreaks]
+for 8 voices
+text: 23 words from the Bible, translated by every singer in her mothertongue,
+commissioned by Basel based ensemble Voce for a programme reflecting Whitsuntide.
+photo: Yannick Badier
+{nbsp}
+image:voce.jpg[width=50%,link=images/voce.jpg]
+{nbsp}
+{nbsp}
+
+.Aufbruch nach prrr (2018)
+[%hardbreaks]
+for 10 voices and two saxophones
+_an imaginary journey with music-students of Gymnasium Oberwil reading, singing and dwelling through their favorite books._
+{nbsp}
+image:8806.jpg[width=50%,link=images/8806.jpg]
+{nbsp}
+{nbsp}
+
+.streifen (2018)
+[%hardbreaks]
+for 2-4 voices
+
+.der blumen (2017)
+[%hardbreaks]
+for any number of voices
+text: epitaph found on a gravestone in the Strassbourg convent (c.1470-1480).
+_o mensch zart_
+_bedenck der blumen art_
+https://sottovocevocalcollective.com/2018/08/10/der-blumen-striving-to-become/[Sotto Voce Vocal Collective]
+https://soundcloud.com/marianne-schuppe[listen on soundcloud]
+https://youtu.be/j8DA6RD_vAA[Youtube]
+
+.ortlos über die Küste hinaus (2016)
+[%hardbreaks]
+for voices
+
+
+.temps (1998)
+[%hardbreaks]
+for 8 different-rooted voices
+text: weather diaries and logbook-notes from 5 centuries in different languages
+commissioned by Schweizer Tonkünstlerverein
+
+.Fahrzeug (1996)
+[%hardbreaks]
+eighthour composition for 14 voices
+commissioned and performed from 10pm until 6am at Festival Performance Index Basel
+_a sound-line through the night sustained in changing quartetts under a light bulb_
+
+.Gefälle (1995)
+[%hardbreaks]
+for 12 reading voices in different languages, Sudhaus, Werkraum Warteck Basel.
+{nbsp}
+{nbsp}
+
+== collective and interdisciplinary works
+
+
+.Aus dem Zeltbuch (2023)
+[%hardbreaks]
+Marianne Schuppe, voice, text, composition Deborah Walker, cello, composition,
+_Aus dem Zeltbuch_ (2022/23) unfolds a surface of word-sound-textures on the edge of acoustic intelligibility. It refers to a few fragments of observations of a post second world war prisoner in the northafrican desert. Fragments of the text were rearranged and translated.
+
+
+.a day in july (2022)
+[%hardbreaks]
+Marianne Schuppe, voice, text
+Stefan Thut, cello, pipe, pencil, paper
+
+.Die Glocke (2022)
+[%hardbreaks]
+für Lesende, Zuhörende, Spielende
+Komposition: Lukas Huber und Marianne Schuppe
+Konzept: Vincent Hofmann und Simon Kindle
+Kloster Dornach
+
+.still light (2020)
+[%hardbreaks]
+Emmanuelle Waeckerlé & Marianne Schuppe, composition and voices
+Klangraum Düsseldorf
+texts: Emmanuelle Waeckerlé und Marianne Schuppe
+https://soundcloud.com/emmanuelle-waeckerle/still-light-5[on soundcloud]
+_a practise of difference after Luce Irigaray’s book “to be two”_
+
+.Laub (2014)
+[%hardbreaks]
+for two voices
+text: Marianne Schuppe
+developed in and for the duo with Regula Konrad, soprano
+
+[%hardbreaks]
+.asunder (2013/2014)
+for vocal-ensemble, live-music with the film The Fall of the House Usher, Theatergarage Basel and Filmpodium Zürich
+{nbsp}
+image:7782.jpg[width=50%,link=images/7782.jpg]
+{nbsp}
+{nbsp}
+
+.das Haus der Erinnerung (2010)
+[%hardbreaks]
+a project with students of Gymnasium Oberwil and Musikschule Basel in cooperation Sylwia Zytynska and Fritz Hauser, Gare des enfants/Gare du Nord Basel.
+text: made up by the students recalling and describing their routes to school and their childrens' bedrooms.
+
+.Die Tarnung (1998)
+[%hardbreaks]
+for two voices
+text: Dorothea Schürch
+developed with and for duo with Dorothea Schürch
+commissioned by Schweizer Tonkünstlerverein and performed on the high rack in the sportsground in Festival neue Musik Rümlingen
+
+.wandern (1995)
+[%hardbreaks]
+Invention for Sampling and Speaking Voice
+text and recording: Marianne Schuppe, sampling and mastering : Willy Daum
+open air performance and commission by Festival Auau Ziegelei Oberwil
+_kleines Kreisen mittleres Kreisen großes Kreisen_
+_ins inländisch Ausländische hinein_
+_ins ausländisch Inländische hinaus_
+
+.Winterreise (1994)
+[%hardbreaks]
+a performative approach to Franz Schubert’s Winterreise with Dorothea Schürch, Walter Stefan Riedweg and Christoph Schiller, Roxy Birsfelden
+Mediathek FHNW
+_vom Herbeiführen des Affekts zur geeigneten Zeit_
+
+.Es ist bloß die Schnur, die den Blumenstrauss umgibt (1992)
+[%hardbreaks]
+chamberopera with Dorothea Schürch (voice), Thomas Eiffler (video), Christoph Schiller (piano)
+Werkraum Schlotterbeck
+Mediathek FHNW
+
+link:/../index.html[icon:home[]] 

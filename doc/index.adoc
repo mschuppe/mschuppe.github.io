@@ -27,6 +27,9 @@ link:/int_essay/index.html[Interviews & Essays]
 link:/mentor/index.html[Voice & Words - mentoring for composer-performers] 
 link:/now/index.html[Now & Then] 
 link:/path/index.html[path] 
+link:/recording/index.html[recordings] 
+link:/review/index.html[reviews] 
+link:/works/index.html[work] 
 
 {nbsp} +
 {nbsp} +
