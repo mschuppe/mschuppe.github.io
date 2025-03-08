@@ -25,6 +25,8 @@ link:/archive/index.html[Archive]
 link:/csl/index.html[Coline sur Livre] 
 link:/int_essay/index.html[Interviews & Essays] 
 link:/mentor/index.html[Voice & Words - mentoring for composer-performers] 
+link:/now/index.html[Now & Then] 
+link:/path/index.html[path] 
 
 {nbsp} +
 {nbsp} +

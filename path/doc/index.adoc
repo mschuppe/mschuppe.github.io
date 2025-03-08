@@ -1,0 +1,70 @@
+= Path
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+
+link:/../index.html[icon:home[]] 
+
+.Portrait von Stefan Drees
+icon:file[link=pdf/sd.pdf,label="Neue Zeitschrift für Musik März 2017"] Marianne Schuppes vokale Kunst der feinen Übergänge
+
+.Portrait von Thomas Meyer
+https://jazznmore.ch/archiv/[Jazzn'more, Ausgabe 05-2023, Seite 54]
+
+.english
+Marianne Schuppe is a German/Swiss composer - performer of music for voices, based in Basel,
+Switzerland. +
+Her work takes place in the borderlands between music and language.
+She studied visual arts and music at Hochschule Hildesheim between 1979 and 1982 and continued her
+vocal studies in Carnatic Music in the South of India (1983), with Jolanda Rodio in Switzerland (1984-86)
+and Michiko Hirayama in Italy (1988-2003). +
+Since the mideightees she has performed internationally as a singer and vocalist of contemporary music.
+
+Until 2010 she was known for her recordings of vocal music by Giacinto Scelsi and Morton Feldman and
+for her activities as an improviser. +
+Since 2008 she is developing a solo-work for voice and sparse
+accompanyment by lute and a miniset of cableless electronics, a device called e-ponts.
+In slow songs (2015) and nosongs (2918) she is reweighing the traditional ingredients of song.
+Beyond that her works include text scores, poems, essays and ensemble pieces and have been released
+with Col Legno, New Albion, Edition Wandelweiser, Telos Records, Akademie Verlag Berlin, Edition
+Howeg, Zürich a.o. +
+For many years she has been a teacher and lecturer for voice and improvisation in Switzerland, Germany
+and Japan in various institutions.
+
+{nbsp}
+{nbsp}
+{nbsp}
+{nbsp}
+{nbsp}
+
+
+.deutsch
+Sängerin und Komponistin, lebt in Basel und arbeitet an den Übergängen von Musik und Sprache. +
+Studierte Bildende Kunst und Musik in einem interdisziplinären Modellstudiengang an der Hochschule Hildesheim (1979-82) und setzte ihre Gesangsstudien in Südindien (1983 in Carnatic Music), bei Jolanda Rodio (1984-86) in der Schweiz und Michiko Hirayama (1988-2003) in Italien fort. +
+Seit Mitte der achtziger Jahre international tätig als Sängerin und Vokalistin mit Arbeitsfeld zeitgenössische Musik, Uraufführungen, solistische Tätigkeit, Improvisation und interdisziplinäre Projekte. 
+
+Bis etwa 2010 wurde sie vor allem durch ihre Veröffentlichungen der Vokalmusik Giacinto Scelsis, Morton Feldmans und als Improvisatorin bekannt. +
+Seit 2008 Entwicklung einer solistischen Arbeit für Stimme mit sparsamer Begleitung von Laute und E-Ponts : slow songs (2015) und nosongs (2018) als CDs in der Edition Wandelweiser erschienen. +
+Ihre Arbeiten umfassen Text-Partituren, Gedichte, Essays und Kompositionen für Stimmen. Letztere entstehen aus der Erfahrung und Praxis als Sängerin und Lehrende und werden von Ensembles mit unterschiedlichem musikalischen und vokalen Hintergrund aufgeführt. +
+Langjährige Lehrtätigkeit in der Schweiz, Deutschland und Japan an diversen Institutionen. 
+
+
+image::2715.jpg[width=50%,link=images/2715.jpg]
+image::3878.jpg[width=50%,link=images/3878.jpg]
+image::3818.jpg[width=50%,link=images/3818.jpg]
+
+
+photos: copyright Ute Schendel
+
+
+image::erni-1.jpg[width=50%,link=images/erni-1.jpg]
+
+photo: copyright Samuel Erni
+
+link:/../index.html[icon:home[]] 

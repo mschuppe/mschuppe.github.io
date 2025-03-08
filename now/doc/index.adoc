@@ -1,0 +1,109 @@
+= now & then @ 2025
+:includedir: _includes
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums:
+:figure-caption!:
+:sectnums!:
+
+link:/../index.html[icon:home[]] 
+
+[%hardbreaks]
+.Aus dem Zeltbuch
+Marianne Schuppe, voice
+Deborah Walker, cello 
+Doppelkonzert mit Yannick Guédon, solo voice
+11. Februar 20h30
+KM 28
+Karl-Marx-Straße 28 12043 Berlin
+
+[%hardbreaks]
+.wippe
+neue Textpublikation im Verlag Klingenthal
+Lesung
+25. Januar 19.30
+Klingentalstr. 72, 4057 Basel
+
+
+[%hardbreaks]
+.occam river XXIX / Aus dem Zeltbuch
+Eliane Radigue / Walker/Schuppe 
+Marianne Schuppe, voice
+Deborah Walker, Cello
+November 2
+Festival https://zoominfestival.ch/html/2024/[Zoom in]
+Große Reithalle Bern
+
+[%hardbreaks]
+.a day in july
+https://www.gmea.net/artistes/article/marianne-schuppe[Residenz GMEA]
+with Stefan Thut
+October 20-25
+Albi, France
+
+[%hardbreaks]
+.colline en air
+solo, 27.September
+https://www.literatursommer.de/de/auftakt-des-lautpoesie-festivals-2024[Lautpoesiefestival Literaturhaus Freiburg]
+
+[%hardbreaks]
+.colline sur livre
+solo, 21. September, 17 Uhr
+Maison 44, Steinenring 44, 4051 Basel
+
+[%hardbreaks]
+.Salz, Lücke, Zelt (2018)
+Ensemble Voce
+22. September, 17h00
+Predigerkirche, Basel
+
+[%hardbreaks]
+.Salz, Lücke, Zelt (2018)
+Ensemble Voce
+15. September 16h00
+Klosterkirche, Ilanz CH
+
+[%hardbreaks]
+.entrevoix
+Stefanie Erni, voice
+Marianne Schuppe, voice
+21. Juni, 20h
+Atelierkonzert Alemannengasse 44 4058 Basel
+
+[%hardbreaks]
+.Salz, Lücke, Zelt (2018)
+Ensemble Voce
+26. Mai 17h00
+Kirche Ligerz, CH
+
+[%hardbreaks]
+.Cornelius Cardew - The Great Learning
+Performance of all 7 parts with 7 choirs and soloists
+May 26,10am - 10 pm
+Pauluskirche Basel 
+https://www.ignm-basel.ch/[ignm Basel]
+
+[%hardbreaks]
+.entrevoix
+Stefanie Erni and Marianne Schuppe, Schuppe, voices
+Festival https://archipel.org/fr/program/entrevoix[Archipel], Genève
+April 21, 7 pm, 2024
+Théâtre Pitoeff, Genève
+
+[%hardbreaks]
+.coline sur livre - we need change she says
+premiered and commissioned by Festival https://archipel.org/fr/program/marianne-schuppe[Archipel], Genève
+April 14, 7 pm, 2024
+Théâtre Pitoeff, Genève
+{nbsp}
+image:nowthen/archipel.jpg[link=images/nowthen/archipel.jpg, width=50%]
+{nbsp}
+{nbsp}
+
+
+previous performances can be found in the link:/../archive/index.html[archive] 
+
+link:/../index.html[icon:home[]] 
