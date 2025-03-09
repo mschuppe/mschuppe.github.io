@@ -14,7 +14,6 @@
 
 image:home-sand.jpg[Score, 300, 300, link=images/home-sand-cropped.jpg, float="right"] 
 
-[verse]
 [.big]#*My interest in voice draws me into the area between music and language. 
 An area which I see as the coast between words and music, where the grain of language and the fluidity of sound converge.
 This suspense is guiding my commitment since the eightees, when I began to delve
