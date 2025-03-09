@@ -100,7 +100,7 @@ premiered and commissioned by Festival https://archipel.org/fr/program/marianne-
 April 14, 7 pm, 2024
 Théâtre Pitoeff, Genève
 {nbsp}
-image:nowthen/archipel.jpg[link=images/nowthen/archipel.jpg, width=50%]
+image:archipel.jpg[link=images/archipel.jpg, width=50%]
 {nbsp}
 {nbsp}
 

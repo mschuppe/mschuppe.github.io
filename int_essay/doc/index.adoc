@@ -1,4 +1,4 @@
-= Interviews & Essays
+= Essays & Interviews
 :includedir: _includes
 :imagesdir: ./images
 :icons: font
@@ -11,31 +11,6 @@
 :docinfo: shared
 
 link:/../index.html[icon:home[]] 
-
-== interviews
-
-.DIE SUMME Neun Fragen an Marianne Schuppe
-icon:file[link=pdf/summe.pdf], Zeiträume Basel 2019
-
-.Die Indianer kommen näher
-icon:file[link=pdf/dissonanz106.pdf]
-Ein Gespräch in Emails mit Michael Kunkel +
-dissonanz # 106 Juni 2009
-
-.Potentiale des Vergessens
-Ein Gespräch mit Aleida Assmann, André Blum, Wolfgang Knapp, Theresa Georgen, Marianne Schuppe und Veronika Sellier +
-du magazin, Januar/Februar 2011
-
-.podcast by Krzysztof Dziuba
-Polish Radio about Slow Songs
-
-.Radio SRF: Corinne Holtz im Gespräch mit Marianne Schuppe, April 2007
-audio::reflexe.mp3[Reflexe DRS 2]
-
-.Radio SRF: Genie oder Scharlatan, G. Scelsi zum 100. Geburtstag, 2008
-audio::scelsi1.mp3[Teil 1]
-audio::scelsi2.mp3[Teil 2]
-Schweizer Radio DRS 2, Corinne Holtz im Gespräch mit Fred van der Kooij und Marianne Schuppe
 
 == essays
 
@@ -76,5 +51,30 @@ icon:file[link=pdf/arbeitsweise.pdf] Programmnotiz zu _Hochland- Übersetzungen_
 
 .Der Wohnwagen, Die Vorbereitung der Musik
 icon:file[link=pdf/Dieter-Nanz-Aspekte-der-freien-Improvisation.pdf] _Aspekte der freien Improvisation_ in der Musik, Hrsg. Dieter Nanz, Wolke Verlag, 2011
+
+== interviews
+
+.DIE SUMME Neun Fragen an Marianne Schuppe
+icon:file[link=pdf/summe.pdf], Zeiträume Basel 2019
+
+.Die Indianer kommen näher
+icon:file[link=pdf/dissonanz106.pdf]
+Ein Gespräch in Emails mit Michael Kunkel +
+dissonanz # 106 Juni 2009
+
+.Potentiale des Vergessens
+Ein Gespräch mit Aleida Assmann, André Blum, Wolfgang Knapp, Theresa Georgen, Marianne Schuppe und Veronika Sellier +
+du magazin, Januar/Februar 2011
+
+.podcast by Krzysztof Dziuba
+Polish Radio about Slow Songs
+
+.Radio SRF: Corinne Holtz im Gespräch mit Marianne Schuppe, April 2007
+audio::reflexe.mp3[Reflexe DRS 2]
+
+.Radio SRF: Genie oder Scharlatan, G. Scelsi zum 100. Geburtstag, 2008
+audio::scelsi1.mp3[Teil 1]
+audio::scelsi2.mp3[Teil 2]
+Schweizer Radio DRS 2, Corinne Holtz im Gespräch mit Fred van der Kooij und Marianne Schuppe
 
 link:/../index.html[icon:home[]] 

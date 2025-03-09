@@ -12,26 +12,26 @@
 {nbsp} +
 {nbsp} +
 
-image:home-sand.jpg[Score, 300, 300, link=images/home-sand-cropped.jpg, float="right"] 
+image:home-sand-white-top.png[Score, 260, 200, link=images/home-sand-cropped.jpg, float="right"] 
 
 [.big]#*My interest in voice draws me into the area between music and language. 
 An area which I see as the coast between words and music, where the grain of language and the fluidity of sound converge.
 This suspense is guiding my commitment since the eightees, when I began to delve
 into the music link:/recording/index.html#scelsi[Giacinto Scelsi] and link:/recording/index.html#feldman[Morton Feldman], in various ways and collaborations: link:/recording/index.html#selbdritt[improvisation], interpretation, reweighing the traditional ingredients of link:/recording/index.html#nosongs[song], developing
 projects with and link:/works/index.html#summe[for voices], link:/mentor/index.html#summe[teaching, mentoring], writing.
-In recent years I have more specifically moved in the borderlands where music extends into link:/archive/index.html#buch[poetry] and speaking voice, multilingual.
+In recent years I have more specifically moved in the borderlands where music extends into link:/archive/index.html#buch[poetry].
 In this vein link:/csl/index.html[colline sur livre] is my most recent and ongoing work.*#
 
 
 
-* link:/mentor/index.html[Voice & Words - mentoring for composer-performers] 
+* link:/mentor/index.html[Voice & Words - Mentoring] 
 * link:/csl/index.html[Coline sur Livre] 
 * link:/now/index.html[Now & Then] 
-* link:/path/index.html[path] 
-* link:/recording/index.html[recordings] 
-* link:/int_essay/index.html[Interviews & Essays] 
-* link:/works/index.html[work] 
-* link:/review/index.html[reviews] 
+* link:/path/index.html[Path] 
+* link:/recording/index.html[Recordings] 
+* link:/int_essay/index.html[Essays & Interviews] 
+* link:/works/index.html[Works] 
+* link:/review/index.html[Reviews] 
 * link:/archive/index.html[Archive] 
 
 {nbsp} +
