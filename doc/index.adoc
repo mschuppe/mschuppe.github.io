@@ -22,21 +22,35 @@ projects with and link:/works/index.html#summe[for voices], link:/mentor/index.h
 In recent years I have more specifically moved in the borderlands where music extends into link:/archive/index.html#buch[poetry].
 In this vein link:/csl/index.html[colline sur livre] is my most recent and ongoing work.*#
 
+{nbsp} +
 
+[cols="1,1,1,1", frame=none, grid=none]
+|===
+|link:/csl/index.html[Colline sur Livre] 
+|link:/now/index.html[Now & Then] 
+|link:/path/index.html[Path] 
+|link:/mentor/index.html[Voice & Words - Mentoring] 
 
-* link:/mentor/index.html[Voice & Words - Mentoring] 
-* link:/csl/index.html[Coline sur Livre] 
-* link:/now/index.html[Now & Then] 
-* link:/path/index.html[Path] 
-* link:/recording/index.html[Recordings] 
-* link:/int_essay/index.html[Essays & Interviews] 
-* link:/works/index.html[Works] 
-* link:/review/index.html[Reviews] 
-* link:/archive/index.html[Archive] 
+|link:/recording/index.html[Recordings] 
+|link:/int_essay/index.html[Essays & Interviews] 
+|link:/works/index.html[Works] 
+|link:/review/index.html[Reviews] 
+|===
 
 {nbsp} +
 {nbsp} +
 
+[[contact]]
+contact: image:img2.png[]
 
-include::{includedir}/contact.adoc[]
+[%hardbreaks]
+© Copyright 1985-2025 by Marianne Schuppe.  All Rights Reserved.  
+Marianne Schuppe Weidenweg 1 CH-4127 Birsfelden Switzerland
+
+
+
+
+
+
+
 

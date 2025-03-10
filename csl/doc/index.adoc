@@ -1,4 +1,4 @@
-= Coline sur Livre
+= Colline sur Livre
 :includedir: _includes
 :imagesdir: ./images
 :icons: font
