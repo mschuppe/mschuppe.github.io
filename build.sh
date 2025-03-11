@@ -1,7 +1,4 @@
 #!/bin/zsh
-cd archive
-./build.sh
-cd ..
 cd csl
 ./build.sh
 cd ..
