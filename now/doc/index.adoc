@@ -12,6 +12,8 @@
 
 link:/../index.html[icon:home[]] 
 
+== 2025
+
 [%hardbreaks]
 .Aus dem Zeltbuch
 Marianne Schuppe, voice
@@ -28,6 +30,7 @@ Lesung
 25. Januar 19.30
 Klingentalstr. 72, 4057 Basel
 
+== 2024
 
 [%hardbreaks]
 .occam river XXIX / Aus dem Zeltbuch
@@ -104,6 +107,8 @@ image:archipel.jpg[link=images/archipel.jpg, width=50%]
 {nbsp}
 {nbsp}
 
+== 2023
+
 [%hardbreaks]
 .CD release Dante Boon - duos
 _ruht nicht aus_,
@@ -179,6 +184,8 @@ Marianne Schuppe, Stimme
 Theater Delly, Gerberngasse 11, Solothurn
 Doppelkonzert mit Tao Vrhovec Sambolec
 Margins of listening (2015)
+
+== 2022
 
 [%hardbreaks]
 .entrevoix
@@ -430,6 +437,8 @@ Stefanie Erni, Marianne Schuppe
 Atelier Judith Eckert
 Kirchgasse 7, 4118 Rodersdorf
 
+== 2021
+
 [%hardbreaks]
 .Die Summe 21, für Chöre und Einzelstimmen
 8.-19. September 21, Festival ZeitRäume, Basel
@@ -467,6 +476,8 @@ Marianne Schuppe, voice +
 Stefan Thut, cello +
 Marc Kilchenmann, bassoon and microtonal chimes +
 
+== 2020
+
 [%hardbreaks]
 November 5  http://www.serenawey.ch/index.php?id=2[Theatergarage Basel]
 September 3  https://www.walcheturm.ch/agenda/trio-thut-schuppe-kilchenmann-afore-inner-core-behind[Kunstraum Walcheturm Zürich]
@@ -493,6 +504,8 @@ Klangraum Düsseldorf,  Himmelsgeisterstr.107, 40225 Düsseldorf
 Stefanie Erni, Voice, Marianne Schuppe, Voice
 https://klangbang.wordpress.com/[Klangbang], Solothurnerstr.4, 4053 Basel
 {sp}14. Februar 2020
+
+== until 2019
 
 .Giacinto Scelsi (Hô) and a new work by myself
 [%hardbreaks]
