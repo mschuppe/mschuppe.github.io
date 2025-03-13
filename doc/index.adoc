@@ -33,7 +33,7 @@ In this vein link:/csl/index.html[colline sur livre] is my most recent and ongoi
 |link:/recording/index.html[Recordings] 
 |link:/int_essay/index.html[Essays & Interviews] 
 |link:/works/index.html[Works] 
-|link:/review/index.html[Reviews] 
+|link:/review/index.html[Selected Reviews] 
 |===
 
 {nbsp} +

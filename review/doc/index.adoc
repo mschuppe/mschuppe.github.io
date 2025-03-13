@@ -1,4 +1,4 @@
-= reviews
+= Selected Reviews
 :includedir: _includes
 :imagesdir: ./images
 :icons: font
@@ -103,7 +103,7 @@ Un chant aussi subtil qu'apaisé, magnifiquement rendu par la voix de Marianne S
 
 == Morton Feldmann - ThreeVoices
 
-.oorgetuige,Gent 23. Januar 2013
+.oorgetuige, Gent 23. Januar 2013
 Three Voices is, in short, pure hypnotic stillness.
 For the performer a real challenge for you as concertgoers a must hear.
 Implementation is provided by the versatile Swiss singer Marianne Schuppe.
@@ -111,7 +111,7 @@ Schuppe is anything but a LaBarbara-clone, and from an individualistic reflex gi
 
 {nbsp} +
 
-.dissonanz #99,Stefan Drees  September 2007
+.dissonanz #99, Stefan Drees  September 2007
 Nicht allzu häufig kommt es vor, dass ich mir nach dem Anhören einer CD die Scheibe gleich noch einmal von vorn anhöre. Mit der neuesten Produktion von Marianne Schuppe ist es mir jedoch so ergangen : nach ihrer Auseinandersetzung mit den archaischen Klängen Giacinto Scelsis hat sich die Sängerin dem gleichsam abstrakten Gebilde von Morton Feldman Three Voices (1982) angenommen und damit neue Massstäbe gesetzt : Im Zusammenwirken von Live-Vortrag und aufgezeichneten Stimmparts leuchtet Schuppe die introvertierte Klangwelt der Komposition aus und erreicht bei der Wiedergabe der unvorhersehbaren Texturänderungen Wirkungen, die unter die Haut gehen. Da werden Augenblicke des minimalen Umschwungs zum grossen Ereignis, etwa dort, wo sich aus den engen Clusterbewegungen des Beginns erstmals die Stimme steil aufsteigend und im Legato in ein höheres Register aufschwingt, aber auch in jenem Moment, wenn nach rund 20 Minuten erstmals der Text "Who'd have thought that snow falls" in die Klänge hineingewoben wird. Die Dichte und intonatorische Exaktheit, aber auch die feinen Wandlungen im Timbre der Stimme und die musikalische Präsenz, mit der Schuppe die zarten Gesten von Feldmans Musik realisiert, sind einfach erstaunlich. Die Sängerin dringt in die Musik ein, bringt Tonhöhenbewegungen und Clusterschichtungen förmlich zum Strahlen, wahrt aber dennoch eine gewisse emotionale Distanz und schafft so das Paradoxon eines sachlich wirkenden Klangbildes von grosser Intensität und Schönheit, das den Hörer nicht kalt lässt.
 
 {nbsp} +
@@ -125,10 +125,6 @@ Marianne Schuppe könnte ,Three Voices’ kontemplativ singen, nach innen gerich
 Zur wohl intensivsten Tonkünstlerfeststunde geriet Musik am Bau mit Marianne Schuppe und Peter Vittali: Schuppe entliess Feldmans "Three Voices" aus seinem Kammerkonzertsaaldasein, als sie das Werk von der Dachkante des Théâtre du Chrochetan aus ins Städtchen hinein sang, die Feldman-Intimität sich mit der freitagabendlichen Monthey-Musik paaren liess.
 
 {nbsp} +
-
-
-.Basellandschaftliche Zeitung, N.Cybynski 7. April 2004
-"in der Gare du Nord Feldmans geniales "Three Voices". M.S. sang ihren Part in höchster Konzentration...langer Beifall für die ausgezeichnete Sängerin.
 
 == Giacinto Scelsi
 
@@ -224,13 +220,6 @@ Schuppe setzt ihre Fähigkeiten bei der feinen Modulation von Stimmenklängen au
 
 {nbsp} +
 
-.Westfälische Nachrichten, 1.12. 2006
-mit der faszinierenden Sängerin Marianne Schuppe aus Basel.
-Es geht Schuppe offenbar um Studien zur Artikulation, höchst virtuose zumal.
-Das zeitigt Respekt.
-
-{nbsp} +
-
 .Basler Zeitung,Benjamin Herzog 22. Mai 2001
 Wirkliche Freiheit indessen vernahm man in der Improvisation von Marianne Schuppe (Stimme), Sylwia Zytynska (Perkussion) und Alfred Zimmerlin (Violoncello). Das eingespielte Trio schuf konzis umrissene Stimmungs- und Aktionsbilder, demonstrierte Spiellust und die Ueberraschungsgabe blitzschnellen Reagierens. Ihre Musik hatte Delikatesse, Charakter, Groove.
 
@@ -241,16 +230,6 @@ Es gibt noch ungewöhnliche Positionierungen neben der Bühne, die unverbraucht 
 
 {nbsp} +
 
-.Tages Anzeiger, Thomas Meyer 9.September 1996
-Hoch oben auf den Balkongeländern bei den Fenstern (man bekommt fast Angst, sie könnten abstürzen) sitzen zwei Frauen, singen, rezitieren; sie lallen, korrigieren dabei das Programmheft, skandieren, deklamieren. Und es ist eine Freude ihnen zuzuhören, weil sie mit Phantasie und Witz dahintergehen...
-
-{nbsp} +
-
-.Basler Zeitung, David Wohnlich 27.August 1996
-"...in Rümlingen, gerade wie bei den an der Reckstange kopfüberhängenden Frauen Marianne Schuppe und Dorothea Schürch, die in ihrem köstlichen Kabinettstück "Wellen" vordemonstrierten, dass man (oder frau) etwas Verkehrtes auch andersrum sagen kann.
-
-{nbsp} +
-
 .Badische Zeitung, 24. März 1993
 Die Sopranstimme gleitet in sphärische Höhen, schwebt sirenengleich. Oder sie vollführt abenteuerliche Intervallsprünge, geht auch ins Geräuschhafte über. Sie beherrscht bewundernswert die Gesangstechniken der Neuen Musik und die Praktiken des Avantgarde-Jazz, der improvisierten Musik....Dieses Trio um die Basler Sängerin Marianne Schuppe gehörte sicher zu den Höhepunkten der"off lines two".....
 
@@ -258,11 +237,6 @@ Die Sopranstimme gleitet in sphärische Höhen, schwebt sirenengleich. Oder sie 
 
 .Jazzpodium, Mai 1993
 ...wie die sensationelle Stimme der Baslerin Marianne Schuppe. Mit flirrenden Vokalisen durchschreitet ihre Stimme ungeahnte Gefühlswelten. Ihr beachtliches Sopran, unterstrichen durch gewagte Intervallsprünge, geht fliessend in Geräuschhaftes über.
-
-{nbsp} +
-
-.Trierischer Volksfreund, 22. Juli 1993
-Bei Marianne Schuppe, "nur" die Stimme, als Instrument benutzt, elementare Kraft und intelligenter Einsatz, so prägt ihr Gesangsvolumen die Interpretationen in einer beeindruckenden Dichte.
 
 {nbsp} +
 
