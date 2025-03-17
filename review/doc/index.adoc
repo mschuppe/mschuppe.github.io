@@ -1,4 +1,4 @@
-= Selected Reviews
+= Reviews
 :includedir: _includes
 :imagesdir: ./images
 :icons: font
@@ -82,11 +82,6 @@ Mais c’est sans doute quand elle envisage la distance à respecter entre sa vo
 
 .Jazz'N'More,Thomas Meyer Jan/Febr. 2016
 Eine Frauenstimme, allein, gestützt nur von feinen liegenden Klängen, geschützt nur von der englischen Sprache, eine Stimme und elf Lieder: „slow songs“, schlicht, unmittelbar, Enkelinnen jener „Wonderful Widow of Eighteen Springs“ von John Cage. Jener ruhige Song auf drei Tonhöhen aus dem Jahr 1942 mag hier als Vorbild gedient haben, aber Marianne Schuppe, die in Basel lebende Vokalistin, Improvisatorin und Komponistin, geht einen Schritt weiter, dreht die Lieder allmählich aus der Beschränkung auf Weniges heraus, hin auf Weiteres, singt mutig vorwärts, ganz sicher, aber auch so, dass wir spüren, wo sie abwägt, überlegt, vom Wege abkommt, um anderes Terrain zu betreten, alles bedacht und bedachtsam, ohne Eile, ohne Hast, wunderbar, berührend.
-
-{nbsp} +
-
-.The Wire, soundcheck A-Z issue 338
-Beautiful and eerie...
 
 {nbsp} +
 
