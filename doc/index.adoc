@@ -1,4 +1,6 @@
 = Marianne Schuppe
+:toc: left
+:toc-title: 
 :includedir: _includes
 :imagesdir: ./images
 :icons: font
@@ -18,10 +20,25 @@ An area which I see as the coast between words and music, where the grain of lan
 This suspense is guiding my commitment since the eightees, when I began to delve
 into the music link:/recording/index.html#scelsi[Giacinto Scelsi] and link:/recording/index.html#feldman[Morton Feldman], in various ways and collaborations: link:/recording/index.html#selbdritt[improvisation], interpretation, reweighing the traditional ingredients of link:/recording/index.html#nosongs[song], developing
 projects with and link:/works/index.html#summe[for voices], link:/mentor/index.html#summe[teaching, mentoring], writing. +
-In recent years I have more specifically explored the borderlands where music extends into link:/archive/index.html#buch[poetry].
+In recent years I have more specifically explored the borderlands where music extends into link:/now/index.html#buch[poetry].
 In this vein link:/csl/index.html[colline sur livre] is my most recent and ongoing work.#
 
-{nbsp} +
+
+[cols="a,a,a"]
+|===
+| Bridging music and poetry | Extending the idea of concert | Sharing experiences in mentoring
+
+| image::bridge-luth-epont.png[]
+| image::extend-basel.png[]
+.2+| image::mentor-hoch.jpg[]
+
+| image::bridge-buch.jpg[]
+| image::extend-laconex.png[]
+
+| image::bridge-ms.jpg[]
+| image::extend-prrr.png[]
+| image::mentor-quer.jpg[]
+|===
 
 [cols="1,1,1,1", frame=none, grid=none]
 |===
