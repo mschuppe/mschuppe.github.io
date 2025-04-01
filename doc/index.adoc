@@ -28,16 +28,16 @@ In this vein link:/csl/index.html[colline sur livre] is my most recent and ongoi
 |===
 | Bridging music and poetry | Extending the idea of concert | Sharing experiences in mentoring
 
-| image::bridge-luth-epont.png[]
-| image::extend-basel.png[]
-.2+| image::mentor-hoch.jpg[]
+| image::bridge-luth-epont.png[link="../bridge/index.html"[Briding music and poetry]]
+| image::extend-basel.png[link="../extend/index.html"[Extending the idea of concert]]
+.2+| image::mentor-hoch.jpg[link="../mentor/index.html"[Sharing experiences in mentoring]]
 
-| image::bridge-buch.jpg[]
-| image::extend-laconex.png[]
+| image::bridge-buch.jpg[link="../bridge/index.html"[Briding music and poetry]]
+| image::extend-laconex.png[link="../extend/index.html"[Extending the idea of concert]]
 
-| image::bridge-ms.jpg[]
-| image::extend-prrr.png[]
-| image::mentor-quer.jpg[]
+| image::bridge-ms.jpg[link="../bridge/index.html"[Briding music and poetry]]
+| image::extend-prrr.png[link="../extend/index.html"[Extending the idea of concert]]
+| image::mentor-quer.jpg[link="../mentor/index.html"[Sharing experiences in mentoring]]
 |===
 
 [cols="1,1,1,1", frame=none, grid=none]
