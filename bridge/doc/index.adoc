@@ -1,4 +1,4 @@
-= Bridging music and poetry
+= Bridging words and music
 :includedir: _includes
 :imagesdir: ./images
 :icons: font
@@ -12,3 +12,7 @@
 
 link:/../index.html[icon:home[]] 
 
+
+== colline sur livre
+
+link:/../csl/index.html[colline sur livre] 
