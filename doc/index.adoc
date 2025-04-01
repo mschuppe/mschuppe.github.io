@@ -25,31 +25,25 @@ In this vein link:/csl/index.html[colline sur livre] is my most recent and ongoi
 {nbsp} +
 {nbsp} +
 
-[cols="a,a,a"]
+[cols="^a,^a,^a"]
 |===
 | Bridging words and music | Extending the idea of concert | Sharing experiences in mentoring
 
-| image::bridge-luth-epont.png[link="../bridge/index.html"[Briding music and poetry]]
-| image::extend-basel.png[link="../extend/index.html"[Extending the idea of concert]]
-.2+| image::mentor-hoch.jpg[link="../mentor/index.html"[Sharing experiences in mentoring]]
+.^| image::bridge-ms.jpg[bridge, 300,250,link="../bridge/index.html"[Briding music and poetry]]
+.^| image::extend-basel-2.png[basel, 300,250, link="../extend/index.html"[Extending the idea of concert]]
+| image::mentor-quer.jpg[mentor, 200,250, link="../mentor/index.html"[Sharing experiences in mentoring]]
 
-| image::bridge-buch.jpg[link="../bridge/index.html"[Briding music and poetry]]
-| image::extend-laconex.png[link="../extend/index.html"[Extending the idea of concert]]
-
-| image::bridge-ms.jpg[link="../bridge/index.html"[Briding music and poetry]]
-| image::extend-prrr.png[link="../extend/index.html"[Extending the idea of concert]]
-| image::mentor-quer.jpg[link="../mentor/index.html"[Sharing experiences in mentoring]]
 |===
 
-[cols="1,1,1,1", frame=none, grid=none]
+{nbsp} +
+{nbsp} +
+[cols="1,1,1,1,1,1", frame=none, grid=none]
 |===
-|link:/csl/index.html[Colline sur Livre] 
+
 |link:/now/index.html[Now & Then] 
 |link:/path/index.html[Path] 
-|link:/mentor/index.html[Voice & Words - Mentoring] 
-
 |link:/recording/index.html[Recordings] 
-|link:/int_essay/index.html[Essays & Interviews] 
+|link:/int_essay/index.html[Comments] 
 |link:/works/index.html[Works] 
 |link:/review/index.html[Reviews] 
 |===

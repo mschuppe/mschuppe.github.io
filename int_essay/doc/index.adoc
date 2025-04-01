@@ -1,4 +1,4 @@
-= Essays & Interviews
+= Comments
 :includedir: _includes
 :imagesdir: ./images
 :icons: font

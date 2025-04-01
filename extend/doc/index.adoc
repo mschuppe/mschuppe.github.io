@@ -164,9 +164,6 @@ https://insub.bandcamp.com/track/marianne-schuppe-laconnex-serie-insub8tet-1[Lab
 
 '''
 
-
-
-
 {nbsp} +
 {nbsp} +
 {nbsp} +
@@ -203,9 +200,10 @@ Sie stellen Fragen, sie tauchen in wundersame Klangfelder, sie wissen nicht weit
 
 image:pr4.png[link=images/pr4.png]
 
-Text : Joana Trosi, Gymnasium Oberwil Klasse 3B, für die Schulzeitung _Blickfeld_ 
+{nbsp} +
 
 *Aufbruch nach Prrrr*
+
 _Ich war noch nicht überall, aber es steht definitiv auf meiner Liste. Als dann aber der
 Aufbruch nach Prrrr immer näher kam, war ich mehrmals kurz davor, dieses Ziel von meiner
 Liste zu streichen. Ich wusste nicht, was mich dort und auf dieser Reise erwarten würde.
@@ -235,6 +233,10 @@ erforderte. Ich bin mir nicht sicher, ob wir Prrrr wirklich gefunden haben und s
 Reiseziel gekommen sind. Dies wird wohl eine Frage sein, die jeder für sich selbst
 beantworten sollte. Für mich war Prrrr das Einlassen auf etwas Neues, auf ein Abenteuer.
 Für mich war diese Reise das Ziel und die neu gewonnene Erfahrung der Erfolg._
+
+Text : Joana Trosi, Gymnasium Oberwil Klasse 3B, für die Schulzeitung _Blickfeld_ 
+
+{nbsp} +
 
 image:pr5.png[link=images/pr5.png]
 
