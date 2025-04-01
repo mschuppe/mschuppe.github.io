@@ -25,7 +25,7 @@ In this vein link:/csl/index.html[colline sur livre] is my most recent and ongoi
 {nbsp} +
 {nbsp} +
 
-[cols="^a,^a,^a"]
+[cols="^a,^a,^a",  frame=none, grid=none]
 |===
 | Bridging words and music | Extending the idea of concert | Sharing experiences in mentoring
 
