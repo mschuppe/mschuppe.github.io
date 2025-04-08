@@ -43,7 +43,7 @@ In this vein link:/csl/index.html[colline sur livre] is my most recent and ongoi
 |link:/now/index.html[Now & Then] 
 |link:/path/index.html[Path] 
 |link:/recording/index.html[Recordings] 
-|link:/int_essay/index.html[Comments] 
+|link:/int_essay/index.html[Conversations] 
 |link:/works/index.html[Works] 
 |link:/review/index.html[Reviews] 
 |===

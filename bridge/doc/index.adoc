@@ -12,7 +12,65 @@
 
 link:/../index.html[icon:home[]] 
 
+[Abstract]
+My interest in voice draws me into the area between music and language. An area which I see as the coast between words and music, where the grain of language and the fluidity of sound converge. I have wandered in this area since 1995 and my interest has been:
 
-== colline sur livre
+- exploring the simultaneity of sound and meaning within the words in text only works like colline
+sur livre. Here sound and meaning are inextricable interwoven.
+- exploring the intersections of sound and meaning in the interplay with an instrument. Here the
+e-pont serves as a bridge between pure sound and voice, allowing shades of
+transparency and occlusion of one or the other.
+- exploring the relation between words and music through text-scores and oral transmission.
+Here words serve as a medium to convert ideas that can not be described otherwise.
 
-link:/../csl/index.html[colline sur livre] 
+== {nbsp}
+
+=== colline sur livre (2023 - )
+
+link:/../csl/index.html[_Colline sur livre_] is an ongoing work to observe and suss the intersections, overlays and dimensions between words and music on the
+basis of the growing text-corpus _colline sur livre_. 
+This process is facilitated by a lute and cableless mini-set of electronics, a device that I call e-pont, because it serves as a bridge between words and music.
+
+=== wippe (2025)
+text-publication with Verlag Klingental, Basel, an editor, that features works in the intersection between
+words and music.
+
+=== Aus dem Zeltbuch (2023)
+was created in co-authorship with cellist Deborah Walker as a related counterpart and to be played in a
+programme with Eliane Radigue‘s OCCAM RIVER XXIV. +
+In the area between music and langage _Aus dem Zeltbuch_ is the incarnation of langage in speaking voice. +
+The piece unfolds a surface of words-sounds textures in low dynamics on the edge of acoustic
+intelligibility. This work is questioning the perception of language in a musical context by creating
+bilingual areas of sound. As words and sounds are superimposed they may unclose a sounding path
+through narration, meaning and understandibility. https://soundcloud.com/marianne-schuppe/aus-dem-zeltbuch-extrait1[extract]
+
+
+=== a day in july (2023)
+co-composition with Stefan Thut +
+Marianne Schuppe, voice & text +
+Stefan Thut, cello, pipe, pencil and paper
+
+=== entrevoix I (2024)
+was developed for the duo with singer Stefanie Erni. A list of words in german, english and french serves
+as a subterrainian element shaping the sounds of the singers without becoming intelligible.
+
+=== Salz, Lücke, Zelt (2019)
+for 8 mixed voices +
+commissioned by Ensemble Voce, Basel,
+
+=== slow songs - nosongs (2015 / 2018)
+solo voice with lute and e-ponts
+
+
+=== der blumen ( 2017)
+for any number of voices
+
+=== notes from the hill (2015/2019)
+for voice and one instrument
+
+=== temps ( 1998)
+commissioned by Schweizer Tonkünsterverein
+
+=== wandern (1995)
+co- composition with Willy Daum
+
