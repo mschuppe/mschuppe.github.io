@@ -191,13 +191,19 @@ Dauer : 50 Minuten
 image:pr2.png[link=images/pr2.png]
 
 
-Mit Spaß und Skepsis machen sich neun junge Frauen unter der Leitung von Marianne Schuppe 
-ins Unbekannte an den Rändern der Wörter auf. Abreiseort sind Chorprojekt und Gesangsunterricht, wie sie es aus der Schule kennen. Jetzt aber geht es woanders hin, jetzt werden Fragen gestellt. 
-Jetzt geht es dahin, wo wir noch nicht wissen, was wir singen werden und selbst Entscheidungen treffen.
+Eine Gruppe junger mehr oder weniger unausgebildeter Stimmen tritt in einen professionellen
+zeitgenössischen Musikkontext. Jedoch nicht mit einem bekannten Komponist*innennamen, sondern mit
+einem gemeinsam entwickelten Stück. Die von den Sängerinnen selbst gewählten unterschiedlichen Texte
+wurden in einem halbjährigen Prozess zu einem polyphonen Sprech- und Gesangsstück verwoben, in dem
+die Stimmen periodisch von zwei Saxophonen getragen wurden.
+
 
 image:pr3.png[link=images/pr3.png]
 
 
+Mit Spaß und Skepsis machen sich neun junge Frauen unter der Leitung von Marianne Schuppe 
+ins Unbekannte an den Rändern der Wörter auf. Abreiseort sind Chorprojekt und Gesangsunterricht, wie sie es aus der Schule kennen. Jetzt aber geht es woanders hin, jetzt werden Fragen gestellt. 
+Jetzt geht es dahin, wo wir noch nicht wissen, was wir singen werden und selbst Entscheidungen treffen.
 Die neun jungen Frauen sind abfahrtsbereit, sitzen - sagen wir -  im Warteraum eines Bahnhofs. 
 Sie stellen Fragen, sie tauchen in wundersame Klangfelder, sie wissen nicht weiter, es bleiben Leerstellen und es entstehen Antworten, neue Ordnungen und Inseln, im Chor, zu dritt, zu zweit, und manchmal sogar ganz allein. Begleitet werden sie von zwei Saxophonen und ihren eigenen Sprech- und Singstimmen.
 
@@ -207,7 +213,8 @@ image:pr4.png[link=images/pr4.png]
 
 *Aufbruch nach Prrrr*
 
-_Ich war noch nicht überall, aber es steht definitiv auf meiner Liste. Als dann aber der
+----
+Ich war noch nicht überall, aber es steht definitiv auf meiner Liste. Als dann aber der
 Aufbruch nach Prrrr immer näher kam, war ich mehrmals kurz davor, dieses Ziel von meiner
 Liste zu streichen. Ich wusste nicht, was mich dort und auf dieser Reise erwarten würde.
 Als unsere Reiseführerin hatte Marianne Schuppe keine leichte Aufgabe. Sie wollte uns
@@ -235,7 +242,8 @@ Gemeinsam waren wir auf einer unvergesslichen Reise, die viel Konzentration und 
 erforderte. Ich bin mir nicht sicher, ob wir Prrrr wirklich gefunden haben und somit an unser
 Reiseziel gekommen sind. Dies wird wohl eine Frage sein, die jeder für sich selbst
 beantworten sollte. Für mich war Prrrr das Einlassen auf etwas Neues, auf ein Abenteuer.
-Für mich war diese Reise das Ziel und die neu gewonnene Erfahrung der Erfolg._
+Für mich war diese Reise das Ziel und die neu gewonnene Erfahrung der Erfolg.
+----
 
 Text : Joana Trosi, Gymnasium Oberwil Klasse 3B, für die Schulzeitung _Blickfeld_ 
 
@@ -257,10 +265,49 @@ Saxophones : Remo Schnyder and Tobias Huber
 
 Duration : 50 minutes 
 
+A group of young, more or less untrained voices enter a professional contemporary music context. Not
+with a well-known composer's name, however, but with a jointly developed piece. In a six-month process,
+the various texts chosen by the singers themselves were woven into a polyphonic spoken and sung piece
+in which the voices are periodically carried by two saxophones.
 
 With enthusiasm and scepticism, nine young women set off into the unknown at the edge of words. The departure point is a choir project and singing lessons, as they know it from school. But now we are going somewhere else, now we are asking questions. Now we are going somewhere where we don't yet know what we are going to sing and are making our own decisions.
 The nine young women are ready to start, sitting - shall we say - in the waiting room of a railway station. They ask questions, they dive into wondrous fields of sound, they don't know how to continue, facing gaps and answers. New orders and islands emerge, in the choir, in threes, in twos, and sometimes even completely alone. Accompanied by two saxophones and their own speaking and singing voices they encounter the edges of words.
 
 
+
 Fotos : Ute Schendel
 
+'''
+
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+== fahrzeug
+
+[%hardbreaks]
+for 14 voices
+{nbsp}
+fahrzeug was commissioned by Festival Performance Index, Basel 1995, curated by Heinrich Lüber
+{nbsp}
+an 8 hour performance from 10pm to 6am the next morning,
+Werkraum Warteck, Basel, September 9, 1995
+----
+der ton könnte die zeit sein
+der raum könnte das fahrzeug sein
+die insassen wären die gefährten
+die zuhörer die fahrzeugen
+----
+
+[%hardbreaks]
+4 people are sitting around a table under a lamp in a slightly lit room.
+A continuous soft frequency is heard. It is unclear from where that sound comes, but one might discover
+that it is just the sound of voices.
+Listeners come and go, stay, wake, sleep.
+{nbsp}
+With Christoph Schiller, Anne Schmid, Georgette Maag, Henk Tinga, Eugen Imhoff, Marianne Schuppe
+a.o.
+
+image:fahrzeug.jpg[link=images/fahrzeug.jpg, width=100%]
+
+Foto : Georg Anderhub
