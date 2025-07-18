@@ -15,13 +15,14 @@ link:/../index.html[icon:home[]]
 [Abstract]
 My interest in voice draws me into the area between music and language. An area which I see as the coast between words and music, where the grain of language and the fluidity of sound converge. I have wandered in this area since 1995 and my interest has been:
 
-- exploring the simultaneity of sound and meaning within the words in text only works like colline
+- discovering the simultaneity of sound and meaning within the words in text only works like colline
 sur livre. Here sound and meaning are inextricable interwoven.
-- exploring the intersections of sound and meaning in the interplay with an instrument. Here the
+- learning about the intersections of sound and meaning in the interplay with an instrument. Here the
 e-pont serves as a bridge between pure sound and voice, allowing shades of
 transparency and occlusion of one or the other.
-- exploring the relation between words and music through text-scores and oral transmission.
+- finding out about the relation between words and music through text-scores and oral transmission.
 Here words serve as a medium to convert ideas that can not be described otherwise.
+
 
 == {nbsp}
 
@@ -36,7 +37,8 @@ text-publication with Verlag Klingental, Basel, an editor, that features works i
 words and music.
 
 === Aus dem Zeltbuch (2023)
-was created in co-authorship with cellist Deborah Walker as a related counterpart and to be played in a
+
+was developed together with cellist Deborah Walker as a related counterpart and to be played in a
 programme with Eliane Radigue‘s OCCAM RIVER XXIV. +
 In the area between music and langage _Aus dem Zeltbuch_ is the incarnation of langage in speaking voice. +
 The piece unfolds a surface of words-sounds textures in low dynamics on the edge of acoustic
@@ -53,11 +55,13 @@ Developed and conducted with cellist and composer Stefan Thut +
 
 In _a day in July_, words and sounds alternate and overlap in certain dependencies. Decisions are made by
 listening to the decisions and sounds of the partner. One triggers the next in an act of translation. And that
-in turn triggers the next and so on.
+in turn triggers the next and so on. +
 The words could be seen as a collection from the particular place of each playing. As each realization of
 the piece takes place in a new place, the words also change. And so do the pitches and harmonies of the
 cello, because they relate to each other.
-The trace of each performance is a score, which will never be played again. The next time a day in July
+
+What is left behind is a list of words and numbers, a score that will never be played again.
+The next time a day in July
 continues with the same plan in a yet unknown direction filtered through a new place and time. +
 
 Duration : 45‘-60‘ +
@@ -69,16 +73,49 @@ It was recorded in October 2024 during a residency at GMEA, Albi in the Temple P
 In _a day in july_ folgen und überlagern sich Wörter und Klänge in bestimmten Abhängigkeiten.
 Entscheidungen werden in Konsequenz zu den Entscheidungen und Klängen des Mitspielers getroffen.
 Das eine löst das nächste in einem Akt der Übersetzung aus. Und das wiederum löst das nächste aus und
-so weiter.
+so weiter. +
 Die Worte könnten als eine Sammlung des jeweiligen Spielorts gesehen werden. Jede Umsetzung des
 Stücks an einem neuen Ort führt zu neuen Worten. Das gilt auch für die Tonhöhen und Harmonien des
 Cellos, denn sie stehen in Beziehung zu den Wörtern.
-Die Spur jeder Aufführung ist eine Partitur, die nie wieder gespielt wird. Beim nächstn Mal geht _a day in
+
+Was zurückbleibt, ist eine Liste von Wörtern und Zahlen, eine Partitur, die nie wieder gespielt wird.
+Beim nächstn Mal geht _a day in
 july_ mit demselben Plan in eine noch unbekannte, von Ort und Zeit gefärbte Richtung weiter.
 
-=== entrevoix I (2024)
-was developed for the duo with singer Stefanie Erni. A list of words in german, english and french serves
-as a subterrainian element shaping the sounds of the singers without becoming intelligible.
+=== entrevoix I (2022-2024)
+
+Was developed for the duo with singer Stefanie Erni. +
+Words are extremly salient as soon as they are there. One possibility to meet that dominance is to reduce
+the number of words and balance them with non-verbal sounds. +
+But are not all vocal utterings somehow linked to language ? I am wondering how far we can go in
+dissolving, drowning words in their own sound. How about just thinking the words while articulating only
+the vowels they contain ? +
+Entrevoix is a step in that direction. The superimposition of the two voices is an act of liquefaction, in
+which a range of vocal colours is unfolded that could be heard as a more abstract vocal sound. +
+Entrevoix went through many stages of rehearsing, warping and adapting and has become a work in
+progress together with Stefanie Erni over more than 3 years. +
+In this process we rediscovered the music of Hildegard von Bingen as a point of reference and developed
+for some of her melodies an arrangement for 2 voices as a counterpart to entrevoix. +
+
+
+
+https://soundcloud.com/marianne-schuppe/entrevoix-2022-fragment/s-HEnXihoOfzW?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=78cd9ca7ad6f43a3a2487ae8dd4e8da4[Entrevoix (2022) chapelle st. claire excerpt]
+
+
+Worte ziehen die Aufmerksamkeit auf sich, sobald sie da sind. Eine Möglichkeit dieser Dominanz zu
+begegnen ist, die Antahl der Wörter zu reduzieren und sie mit nonverbalen Klängen in Schach zu halten.
+Aber sind nicht alle stimmlichen Äußerungen irgendwie Sprache ? +
+Ich frage mich, wie weit wir gehen können, wenn wir die Worte in ihrem eigenen Klang auflösen,
+ertrinken lassen. Wie wäre es, wenn wir die Wörter nur denken und dabei nur die Vokale artikulieren, die
+sie enthalten? +
+Entrevoix ist ein Schritt in diese Richtung. Die Überlagerung der beiden Stimmen ist ein Akt der
+Verflüssigung, durch dem sich ein Spektrum von Stimmfarben entfaltet, das als abstrakterer Vokalklang
+gehört werden könnte. +
+Entrevoix durchlief viele Stufen des Probens, Verwerfens und Anpassens und wurde gemeinsam mit
+Stefanie Erni über mehr als 3 Jahre hinweg zu einem work in progress. +
+In diesem Prozess haben wir die Musik Hildegard von Bingens als Orientierungspunkt wiederentdeckt
+und für einige ihrer Melodien eine zweistimmige Fassung als Counterpart zu entrevoix entwickelt.
+
 
 === Salz, Lücke, Zelt (2019)
 for 8 mixed voices +
@@ -94,9 +131,27 @@ for any number of voices
 === notes from the hill (2015/2019)
 for voice and one instrument
 
+=== Avers (2010)
+commissioned by Ina Bösch + Corinne Holtz
+Marianne Schuppe, Stimme, Laute, uber-bows
+
+=== Kärpf (2010)
+Marianne Schuppe, voice
+Hans Tamen, electric guitar
+Georg Wolf, doublebass
+Michael Vorfeld, percussion
+
 === temps ( 1998)
 commissioned by Schweizer Tonkünsterverein
+
+=== selbdritt - von hier (1996 )
+Marianne Schuppe, voice
+Sywya Zytynska, vibraphone
+Alfred Zimmerlin, violoncello
 
 === wandern (1995)
 co- composition with Willy Daum
 
+=== mundraub (1994 )
+Marianne Schuppe, voice
+Christoph Schiller, piano

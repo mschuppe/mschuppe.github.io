@@ -37,6 +37,9 @@ If you want to order the book or if you are interested in a conversation about t
 [[colline]]
 
 
+.Colline sur livre 18.07.2025
+audio::18-07-25.mp3[]
+
 .Colline sur livre 9.1.2025
 audio::9-1-25.mp3[]
 
