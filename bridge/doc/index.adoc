@@ -15,8 +15,8 @@ link:/../index.html[icon:home[]]
 [Abstract]
 My interest in voice draws me into the area between music and language. An area which I see as the coast between words and music, where the grain of language and the fluidity of sound converge. I have wandered in this area since 1995 and my interest has been:
 
-- discovering the simultaneity of sound and meaning within the words in text only works like colline
-sur livre. Here sound and meaning are inextricable interwoven.
+- discovering the simultaneity of sound and meaning through writing texts. 
+Here sound and meaning are inextricable interwoven.
 - learning about the intersections of sound and meaning in the interplay with an instrument. Here the
 e-pont serves as a bridge between pure sound and voice, allowing shades of
 transparency and occlusion of one or the other.
@@ -85,14 +85,16 @@ july_ mit demselben Plan in eine noch unbekannte, von Ort und Zeit gefärbte Ric
 === entrevoix I (2022-2024)
 
 Was developed for the duo with singer Stefanie Erni. +
+{nbsp} +
 Words are extremly salient as soon as they are there. One possibility to meet that dominance is to reduce
 the number of words and balance them with non-verbal sounds. +
-But are not all vocal utterings somehow linked to language ? I am wondering how far we can go in
+But are not all vocal utterings somehow linked to language ? +
+I am wondering how far we can go in
 dissolving, drowning words in their own sound. How about just thinking the words while articulating only
 the vowels they contain ? +
-Entrevoix is a step in that direction. The superimposition of the two voices is an act of liquefaction, in
+_Entrevoix_ is a step in that direction. The superimposition of the two voices is an act of liquefaction, in
 which a range of vocal colours is unfolded that could be heard as a more abstract vocal sound. +
-Entrevoix went through many stages of rehearsing, warping and adapting and has become a work in
+_Entrevoix_ went through many stages of rehearsing, warping and adapting and has become a work in
 progress together with Stefanie Erni over more than 3 years. +
 In this process we rediscovered the music of Hildegard von Bingen as a point of reference and developed
 for some of her melodies an arrangement for 2 voices as a counterpart to entrevoix. +
@@ -108,18 +110,31 @@ Aber sind nicht alle stimmlichen Äußerungen irgendwie Sprache ? +
 Ich frage mich, wie weit wir gehen können, wenn wir die Worte in ihrem eigenen Klang auflösen,
 ertrinken lassen. Wie wäre es, wenn wir die Wörter nur denken und dabei nur die Vokale artikulieren, die
 sie enthalten? +
-Entrevoix ist ein Schritt in diese Richtung. Die Überlagerung der beiden Stimmen ist ein Akt der
+_Entrevoix_ ist ein Schritt in diese Richtung. Die Überlagerung der beiden Stimmen ist ein Akt der
 Verflüssigung, durch dem sich ein Spektrum von Stimmfarben entfaltet, das als abstrakterer Vokalklang
 gehört werden könnte. +
-Entrevoix durchlief viele Stufen des Probens, Verwerfens und Anpassens und wurde gemeinsam mit
+_Entrevoix_ durchlief viele Stufen des Probens, Verwerfens und Anpassens und wurde gemeinsam mit
 Stefanie Erni über mehr als 3 Jahre hinweg zu einem work in progress. +
 In diesem Prozess haben wir die Musik Hildegard von Bingens als Orientierungspunkt wiederentdeckt
 und für einige ihrer Melodien eine zweistimmige Fassung als Counterpart zu entrevoix entwickelt.
 
 
 === Salz, Lücke, Zelt (2019)
-for 8 mixed voices +
-commissioned by Ensemble Voce, Basel,
+[%hardbreaks]
+for 8 mixed voices
+was commissoned by the Basel based Ensemble Voce
+[%hardbreaks]
+23 words in german are given
+the piece consists of parts with and without words, where only consonants are given
+in advance each singer makes her/his own choice of a minimum of 7 words
+and translates them into her/his native language
+the score indicates in which parts words are being sung
+the choice of words is up to the singers
+
+Duration : ~15‘
+
+=== behind I-IV (2018/2020)
+for voice and two instruments
 
 === slow songs - nosongs (2015 / 2018)
 solo voice with lute and e-ponts
@@ -132,10 +147,12 @@ for any number of voices
 for voice and one instrument
 
 === Avers (2010)
+[%hardbreaks]
 commissioned by Ina Bösch + Corinne Holtz
 Marianne Schuppe, Stimme, Laute, uber-bows
 
 === Kärpf (2010)
+[%hardbreaks]
 Marianne Schuppe, voice
 Hans Tamen, electric guitar
 Georg Wolf, doublebass
@@ -145,6 +162,7 @@ Michael Vorfeld, percussion
 commissioned by Schweizer Tonkünsterverein
 
 === selbdritt - von hier (1996 )
+[%hardbreaks]
 Marianne Schuppe, voice
 Sywya Zytynska, vibraphone
 Alfred Zimmerlin, violoncello
@@ -153,5 +171,6 @@ Alfred Zimmerlin, violoncello
 co- composition with Willy Daum
 
 === mundraub (1994 )
+[%hardbreaks]
 Marianne Schuppe, voice
 Christoph Schiller, piano
