@@ -244,7 +244,7 @@ not the spoken ones, easily imbue.
 
 '''
 
-ist meine erste Komposition für Gesang und Ensemble, die von Jürg Frey angeregt und in seiner
+_tidstrand_ ist meine erste Komposition für Gesang und Ensemble, die von Jürg Frey angeregt und in seiner
 Konzertreihe moments musicaux in Aarau uraufgeführt wurde. +
 Die Stimme hat einen gesprochenen Part mit einzelnen Sätzen und einen Refrain, bestehend
 aus zwei Noten, der auf das Wort _tidstrand_ gesungen wird - den Namen einer Wolldecke aus Schweden. +
