@@ -33,6 +33,7 @@ link:/../index.html[icon:home[]]
 * link:/../index.html#contact[order via email]
 * image:ewr1802.jpg[link=https://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1802.html]
 
+[[slowsongs]]
 .slow songs
 [none]
 * Marianne Schuppe, voice, lute, e-bows

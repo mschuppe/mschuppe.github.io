@@ -215,6 +215,33 @@ aufgeführt. Hier berichten Sänger:innen des Ensembles über den Prozess mit de
 === notes from the hill (2015/2019)
 for voice and one instrument
 
+
+=== erde - denken (2015)
+
+Originally called _sapphosongs_ , a solo piece commissioned by Ute Stoecklin, Basel, for her concert series at Maison 44, Basel, with
+financial support from the Department of Culture of Baselland. +
+It was part of a performance series entitled _The New Sappho_ and required an engagement with texts by
+Sappho. +
+The historical weight of these poems, their emotional intensity, and their fragmentary transmission – in
+parts heavily damaged or largely lost – posed a real challenge for me. +
+And yet, the sparseness of some of the texts attracted me. I selected a small number of extremely short
+fragments from Sappho’s poetry and placed the words between passages of silence and sparse lute sounds. +
+
+'''
+
+wurde als Solostück von Ute Stoecklin, Basel, für ihre Konzertreihe in der Maison 44, Basel, in Auftrag
+gegeben – mit finanzieller Unterstützung der Abteilung Kulturelles Baselland. +
+
+Es war Teil einer Aufführungsreihe mit dem Titel _Die Neue Sappho_ und verlangte die Auseinandersetzung
+mit Texten von Sappho. +
+Das historische Gewicht dieser Gedichte, ihre emotionale Intensität und die fragmentarische
+Überlieferung – teils stark beschädigt oder weitgehend verloren – stellten für mich eine echte
+Herausforderung dar. +
+Die Knappheit einiger Texte hatte dennoch Anziehungskraft. Ich wählte eine kleine Anzahl extrem kurzer
+Fragmente aus Sapphos Dichtung und setzte die Worte zwischen stille Passagen und einzelne
+Lautenklänge. +
+
+
 === Avers (2010)
 [%hardbreaks]
 commissioned by Ina Bösch + Corinne Holtz
@@ -252,8 +279,50 @@ Die Instrumente legen mit einzelnen Tönen ein durchlässiges Raster über die S
 gesungenen, aber nicht die gesprochenen Passagen, leicht hindurchdringen.
 
 
-=== temps (1998)
-commissioned by Schweizer Tonkünsterverein
+=== temps (1999)
+[%hardbreaks]
+for 8 voices
+was commissioned by Schweizer Tonkünstlerverein for their annual festival.
+
+"Temps" is the same word in French as for "time." +
+The piece was performed by eight speakers, each seated at a small table with their own lamp. Texts from
+weather diaries—from different parts of the world, in various languages, and from different time periods
+—overlapped and interwove. The sources included excerpts from Gerard Manley Hopkins, Virginia
+Woolf, Gertrude Stein, Ulrich Bräker, Captain George E. Tyson, S. A. Andrée, Jean Chacot, Johann Feuz,
+and Ernst. +
+The speakers formed a heterogeneous group of voices, with a wide range of age, accent, timbre, and
+tessitura, most of them without formal voice or speech training. +
+I was interested in how these different voices would intertwine with only a few basic instructions on when
+and how to read, and how their very specific qualities would blend and complement one another. From the
+individual rhythms and speech melodies, extended vocal fields emerged in combinations of two, three,
+and up to eight voices, with textures in many shades. +
+The score was a schedule according to which passages from the respective books were read in changing
+constellations, including solos and canons. Each speaker had spent several weeks engaging with their
+book prior to the performance. +
+
+'''
+
+_Temps_ wurde vom Schweizer Tonkünstlerverein für dessen jährliches Festival in Auftrag gegeben. +
+"Temps" ist auf Französisch dasselbe Wort wie für „Zeit“. +
+Aufgeführt wurde das Stück von acht Sprecher:innen, jede:r saß an einem kleinen Tisch mit einer eigenen
+Lampe. Texte aus Wettertagebüchern - aus verschiedenen Teilen der Welt, in unterschiedlichen Sprachen
+und aus unterschiedlichen Epochen - überlagerten und durchdrangen einander. Die Quellen umfassten
+Textauszüge von Gerard Manley Hopkins, Virginia Woolf, Gertrude Stein, Ulrich Bräker, Captain George
+E. Tyson, S. A. Andrée, Jean Chacot, Johann Feuz und Ernst. +
+Die Sprecher:innen bildeten eine heterogene Gruppe von Stimmen mit großer Bandbreite in Alter, Akzent,
+Timbre und Tessitur, die meisten ohne Stimm- oder Sprechausbildung. +
+Mich interessierte, wie sich diese unterschiedlichen Stimmen mit nur wenigen grundlegenden
+Anweisungen zum Wann und Wie des Lesens miteinander verweben und wie sich ihre sehr spezifischen
+Qualitäten vermischen und ergänzen würden. Aus den individuellen Rhythmen und Sprachmelodien
+entstanden in Kombinationen von zwei, drei und bis zu acht Stimmen ausgedehnte Sprachfelder mit
+Texturen in vielen Schattierungen. +
+Die Partitur war ein Zeitplan, nach dem Passagen aus den jeweiligen Büchern in wechselnden
+Konstellationen gelesen wurden, einschließlich Soli und Kanons. Jede:r Sprecher:in hatte sich mehrere
+Wochen lang vor der Aufführung mit ihrem/seinem Buch befasst. +
+
+Duration : 40‘
+
+
 
 === selbdritt - von hier (1996)
 [%hardbreaks]
@@ -319,3 +388,28 @@ co- composition with Willy Daum
 [%hardbreaks]
 Marianne Schuppe, voice
 Christoph Schiller, piano
+
+
+=== das imzu plaudern (1993)
+[%hardbreaks]
+for voice and tape
+
+a solo for two voices: one singing, live, and one speaking, on tape, performed by myself. +
+I had had a spell of writing short experimental texts. In parallel with my writing, I was looking for a way
+to give direction to my vocal improvisations. This led me to a simple concept that connected both
+activities: an overlay of my speaking and singing voice in a live performance, in which I improvised along
+with the taped track. There were some long silences on the tape, allowing my two voices to act both
+simultaneously and at different times. +
+
+'''
+
+ein Solo für zwei Stimmen: eine singende, live, und eine sprechende, ab Zuspielband, aufgeführt von mir
+selbst. +
+Ich hatte viele kurze experimentelle Texte geschrieben. Parallel zu meinem Schreiben suchte ich nach
+einer Möglichkeit, meinen Gesangsimprovisationen eine Richtung zu geben. Das führte mich zu einem
+einfachen Konzept, das beide Aktivitäten miteinander verband: eine Überlagerung meiner sprechenden
+und singenden Stimme in einer Live-Performance, in der ich zur Tonbandspur improvisierte. Auf dem
+Tonband gab es einige lange Pausen, so daß meine beiden Stimmen sowohl gleichzeitig als auch zeitlich
+getrennt agieren konnten. +
+
+Duration : 28‘
