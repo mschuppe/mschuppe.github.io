@@ -40,6 +40,8 @@ If you want to order the book or if you are interested in a conversation about t
 .Colline sur livre 18.07.2025
 audio::18-07-25.mp3[]
 
+image::30-07-25.jpg[link=images/30-07-25.jpg,width=50%, align="center"]
+
 .Colline sur livre 9.1.2025
 audio::9-1-25.mp3[]
 

@@ -64,7 +64,6 @@ What is left behind is a list of words and numbers, a score that will never be p
 The next time a day in July
 continues with the same plan in a yet unknown direction filtered through a new place and time. +
 
-Duration : 45‘-60‘ +
 
 a _day in july_ was first performed in Orgelpark Amsterdam in 2023 in the Wandelweiser Festival.
 It was recorded in October 2024 during a residency at GMEA, Albi in the Temple Protestante.
@@ -119,6 +118,46 @@ In diesem Prozess haben wir die Musik Hildegard von Bingens als Orientierungspun
 und für einige ihrer Melodien eine zweistimmige Fassung als Counterpart zu entrevoix entwickelt.
 
 
+
+=== two songs and one (2020)
+
+solo for voice, lute, uber-bows +
+{nbsp} +
+During the Covid lockdown, Café Oto in London invited me to release a work on their digital label,
+Takuroku. +
+At that time, when the days were unusually unstructured by external factors, my sense of time changed
+noticeably. It's probably no coincidence that I responded to Café Oto’s invitation with two long, repetitive
+pieces. Both are based on the same bilingual text, written during that period. What is in English in the first
+piece is in German in the second – and vice versa. And in a kind of playful exuberance, I added – as a
+third piece – a short English folk song I had come across at the time. +
+Traditions of "longsongs" such as the Irish Sean-nós or the Mongolian Urtiin Duu have interested me
+since long time and expanded my understanding of song. The two songs deux and un from the Takuroku
+release are a step forward into such broader temporal spaces. It‘s the instrumentation, voice and lute, that
+leads me to call them songs. +
+Technically it‘s a very simple home recording without a single person besides myself in the room,
+incidental and journal-like. +
+
+'''
+
+Während des Covid-Lockdowns, als die Tage wenig von äußeren Faktoren strukturiert waren, veränderte
+sich mein Zeitempfinden deutlich. Es ist vermutlich kein Zufall, dass ich auf die Einladung von Café Oto
+mit zwei langen, repetitiven Stücken reagierte. Beide basieren auf demselben zweisprachigen Text, der in
+diesen Tagen entstanden ist. Was im ersten Stück auf Englisch ist, ist im zweiten auf Deutsch – und
+umgekehrt. Und in einer Art Übermut fügte ich – als drittes Stück – ein kurzes englisches Volkslied hinzu,
+auf das ich in damals gerade gestoßen war. +
+Traditionen von „longsongs“ wie das irische Sean-nós oder das mongolische Urtiin Duu interessieren
+mich seit vielen Jahren. Die beiden Stücke deux und un der Takuroku-Veröffentlichung sind ein Schritt in
+solche größeren Zeiträume. +
+Technisch ist es eine sehr einfache Heimaufnahme ohne einzige andere Person im Raum, beiläufig und
+journalartig.
+
+[%hardbreaks]
+https://www.cafeoto.co.uk/shop/marianne-schuppe-two-songs-and-one/[cafe oto, takuroku]
+https://soundcloud.com/cafeoto/tr024-marianne-schuppe-deux?in=cafeoto/sets/takuroku[cafe oto on soundcloud]
+https://soundcloud.com/marianne-schuppe/un-two-songs-of-one?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=1fa3e0b2a1a1492590f2c20d5bcff2d7[Marianne Schuppe on soundcloud]
+
+
+
 === Salz, Lücke, Zelt (2019)
 [%hardbreaks]
 for 8 mixed voices
@@ -142,7 +181,6 @@ münden in Mehrsprachigkeit, da die Sängerinnen und Sänger ihre Worte aus eine
 in ihre Muttersprachen übersetzen. Wenn die Sängerinnen und Sänger im Ensemble wechseln, ändert sich
 auch der Text.
 
-Duration : ~15‘
 
 https://soundcloud.com/marianne-schuppe/ausschnitt-aufbruch-amsoldingen-16619?si=6582cbf59de9400f93987fc0048e03c5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing[soundcloud]
 
@@ -185,7 +223,7 @@ link:/recording/index.html#slowsongs[slow songs] +
 http://www.wandelweiser.de/_e-w-records/_ewr-catalogue/ewr1509.html[edition wandelweiser (2016)]
 
 === der blumen (2017)
-{nbsp} +
+
 for any number of voices
 {nbsp} +
 I wrote der _blumen_ for my student ensemble. It could be considered an exercise in body resonance in
@@ -320,9 +358,6 @@ Die Partitur war ein Zeitplan, nach dem Passagen aus den jeweiligen Büchern in 
 Konstellationen gelesen wurden, einschließlich Soli und Kanons. Jede:r Sprecher:in hatte sich mehrere
 Wochen lang vor der Aufführung mit ihrem/seinem Buch befasst. +
 
-Duration : 40‘
-
-
 
 === selbdritt - von hier (1996)
 [%hardbreaks]
@@ -412,4 +447,3 @@ und singenden Stimme in einer Live-Performance, in der ich zur Tonbandspur impro
 Tonband gab es einige lange Pausen, so daß meine beiden Stimmen sowohl gleichzeitig als auch zeitlich
 getrennt agieren konnten. +
 
-Duration : 28‘

@@ -23,7 +23,6 @@ In recent years I have more specifically explored the borderlands where music ex
 In this vein link:/csl/index.html[colline sur livre] is my most recent and ongoing work.
 
 {nbsp} +
-{nbsp} +
 
 [cols="^a,^a,^a",  frame=none, grid=none]
 |===
@@ -35,8 +34,6 @@ In this vein link:/csl/index.html[colline sur livre] is my most recent and ongoi
 
 |===
 
-{nbsp} +
-{nbsp} +
 [cols="1,1,1,1,1,1", frame=none, grid=none]
 |===
 
