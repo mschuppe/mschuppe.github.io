@@ -36,6 +36,49 @@ This process is facilitated by a lute and cableless mini-set of electronics, a d
 text-publication with Verlag Klingental, Basel, an editor, that features works in the intersection between
 words and music.
 
+
+=== we need change she says (2024)
+[%hardbreaks]
+solo for voice, lute, e-ponts
+
+The Geneva Festival Archipel invited me to realize a piece, and I took this opportunity to further develop
+and present my solo work – based on my growing multilingual text corpus _colline sur livre_. +
+I wanted to
+deepen my exploration of the “longsong,” and a new generation set of e-ponts, developed by engineer
+Peter Vittali, was already in progress. +
+_we need change she says_ consists of two parts: the first spoken, the second sung. The journal-like gesture
+of two songs and one is maintained. However, while in _two songs and one_ spoken and sung passages
+alternate, in _we need change she says_ they are clearly separated, connected by a hummed passage which –
+in reference to the image of the coastline – can be heard as a “drift line” or tidal edge between word and
+music. Although the two parts are clearly distinct, I consider this piece to be a single song. +
+In both parts, including the drift line, the lute sounds are richer and more present than in my earlier works.
+I also oscillate between languages in relatively short intervals, which reveals the collage-like character of
+the text line. The multilingual nature of the text leads to a surface that shifts at times abruptly in sound,
+color, texture, and rhythm, where different layers of meaning and semantics emerge.
+
+''' 
+
+Auf eine Einladung des Genfer Festivals Archipel reagierte ich mit einer neuen Soloarbeit, basierend auf
+meinem wachsenden mehrsprachigen Textkorpus _colline sur livre_. Ich wollte meine Auseinandersetzung
+mit „longsongs“ vertiefen, und ein neuer Generationensatz von e-ponts, entwickelt vom Ingenieur Peter
+Vittali, war bereits in Arbeit. +
+_we need change she says_ besteht aus zwei Teilen: Der erste ist gesprochen, der zweite gesungen. Die
+tagebuchartige Geste von _two songs and one_ bleibt bestehen. Während sich in _two songs and one_ 
+gesprochene und gesungene Passagen abwechseln, sind sie in _we need change she says_ klar voneinander
+getrennt, verbunden durch eine gesummte Passage, die – in Anlehnung an das Bild der Küstenlinie – als
+„Driftlinie“ oder Spülsaum zwischen Wort und Musik gehört werden kann. Obwohl die beiden Teile
+deutlich unterscheidbar sind, betrachte ich dieses Stück als ein einziges Lied. +
+In beiden Teilen, einschließlich der Driftlinie, sind die Lautenklänge reicher und präsenter als in meinen
+früheren Arbeiten. Zudem oszilliere ich zwischen den Sprachen in relativ kurzen Intervallen, was den
+Collage-Charakter der Textspur hörbar macht. Die Mehrsprachigkeit des Textes führt zu einer sich
+mitunter abrupt verändernden Oberfläche aus Klang, Farbe, Textur und Rhythmus, in der verschiedene
+Bedeutungsebenen und semantische Schichten aufscheinen. +
+
+
+https://soundcloud.com/marianne-schuppe/we-need-change-she-says-excerpt?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=0b29b8f8ccc94b2a89649851dcd787d9[Excerpts from the performance April 14, 2024, Théâtre Pitoëff, Festival Archipel, Geneva]
+
+
+
 === Aus dem Zeltbuch (2023)
 
 was developed together with cellist Deborah Walker as a related counterpart and to be played in a
@@ -68,6 +111,7 @@ continues with the same plan in a yet unknown direction filtered through a new p
 a _day in july_ was first performed in Orgelpark Amsterdam in 2023 in the Wandelweiser Festival.
 It was recorded in October 2024 during a residency at GMEA, Albi in the Temple Protestante.
 
+'''
 
 In _a day in july_ folgen und überlagern sich Wörter und Klänge in bestimmten Abhängigkeiten.
 Entscheidungen werden in Konsequenz zu den Entscheidungen und Klängen des Mitspielers getroffen.
@@ -98,10 +142,7 @@ progress together with Stefanie Erni over more than 3 years. +
 In this process we rediscovered the music of Hildegard von Bingen as a point of reference and developed
 for some of her melodies an arrangement for 2 voices as a counterpart to entrevoix. +
 
-
-
-https://soundcloud.com/marianne-schuppe/entrevoix-2022-fragment/s-HEnXihoOfzW?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=78cd9ca7ad6f43a3a2487ae8dd4e8da4[Entrevoix (2022) chapelle st. claire excerpt]
-
+'''
 
 Worte ziehen die Aufmerksamkeit auf sich, sobald sie da sind. Eine Möglichkeit dieser Dominanz zu
 begegnen ist, die Antahl der Wörter zu reduzieren und sie mit nonverbalen Klängen in Schach zu halten.
@@ -118,6 +159,7 @@ In diesem Prozess haben wir die Musik Hildegard von Bingens als Orientierungspun
 und für einige ihrer Melodien eine zweistimmige Fassung als Counterpart zu entrevoix entwickelt.
 
 
+https://soundcloud.com/marianne-schuppe/entrevoix-2022-fragment/s-HEnXihoOfzW?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=78cd9ca7ad6f43a3a2487ae8dd4e8da4[Entrevoix (2022) chapelle st. claire excerpt]
 
 === two songs and one (2020)
 
@@ -315,6 +357,29 @@ Die Stimme hat einen gesprochenen Part mit einzelnen Sätzen und einen Refrain, 
 aus zwei Noten, der auf das Wort _tidstrand_ gesungen wird - den Namen einer Wolldecke aus Schweden. +
 Die Instrumente legen mit einzelnen Tönen ein durchlässiges Raster über die Stimme, durch welches die
 gesungenen, aber nicht die gesprochenen Passagen, leicht hindurchdringen.
+
+
+=== Hochlandübersetzungen (2007/2008)
+[%hardbreaks]
+Sarah Giger, flute travers
+Marianne Schuppe, voice
+Hans-Jürg Meier, composition
+
+In 2006, the traverso flutist Sarah Giger approached me about a project with composer Hans-Jürg Meier (1964–2015) and herself. As a starting point, she had discovered the collection _Airs_ et _Brunettes_ by Jacques Hotteterre (1674–1763). These melodies for traverso flute were provided with texts by Hotteterre, not to be sung, but as a guide for precise articulation of the flute tone. In addition, each basic melody was accompanied by a double – an ornamented version of the original. +
+
+Together, we developed the project _Hochland Übersetzungen_ ("Highland Translations"). I wrote loosely associated reinterpretations in german of the texts in ancient french, which functioned as spoken intermezzi between the sung and played melodies, or were even retranslated into modern French by me and newly set to music by Hans-Jürg Meier. Furthermore, we layered the basic melody (sung) with the composed double (played on traverso) in a duo version – a technique that created interference patterns and dissonances. +
+
+Later, we expanded the program and the ensemble to include percussionist Balts Nill and a solo piece that Sarah Giger composed for herself. +
+
+'''
+
+Im Jahr 2006 trat die Traversflötistin Sarah Giger mit der Idee eines Projekts an mich heran, das sie gemeinsam mit dem Komponisten Hans-Jürg Meier (1964–2015) und mir realisieren wollte. Als Ausgangspunkt hatte sie die Sammlung _Airs_ et _Brunettes_ von Jacques Hotteterre (1674–1763) entdeckt. Diese Melodien für Traversflöte waren von Hotteterre mit Texten versehen worden – jedoch nicht zum Singen, sondern als Anleitung zur präzisen Artikulation des Flötentons. Zudem war jeder Grundmelodie eine sogenanntes Double beigefügt – eine verzierte Version der Originalmelodie. +
+
+Gemeinsam entwickelten wir das Projekt _Hochland Übersetzungen_. Ich schrieb frei assoziierte Nachdichtungen in deutscher Sprache zu den altfranzösischen Texten, die als gesprochene Intermezzi zwischen den gesungenen und gespielten Melodien fungierten, oder von mir ins moderne Französisch rückübersetzt und von Hans-Jürg Meier neu vertont wurden. Darüber hinaus überlagerten wir die Grundmelodie (Gesang) mit der komponierten Double (Traversflöte) in einer Duoversion, eine Technik, die Schwebungen und Dissonanzen erzeugte. +
+
+Später erweiterten wir das Programm und die Besetzung um den Perkussionisten Balts Nill sowie um ein Solostück, das Sarah Giger für sich selbst komponierte. +
+
+
 
 
 === temps (1999)

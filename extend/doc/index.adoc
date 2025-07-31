@@ -36,9 +36,9 @@ Garten des Staatsarchiv, Rappazhof,  Rathaus Innenhof, Markthalle, Pauluskirche
 mit : Chor Gymnasium Oberwil, Chor Gymnasium Leonhard, Cantate Chor, Chor Kultur&Volk,  Fassnachtsclique Seibi Mysli, Ensemble Millefleurs, ChorBasel, kor., Sündicats, Junger Kammerchor Basel, pour Choeur, Jugendchor A'Tempo!, Chor Vivo, Neuer Basler Kammerchor, Alpha Singers Basiliensis, Musikklasse des Wirtschaftsgymnasiums, Musikklase des Gymnasiums Kirschgarten
 
 
-*Für die Basler Biennale ZeitRäume entstand 2019 das Stimmenprojekt Die Summe. An zehn öffentlichen Orten in Basel versammelten sich in einem Zeitraum von 10 Tage zu unterschiedlichen Tageszeiten größere und kleinere Menschengruppen. Sie bildeten jeweils 9 Minuten lang einen klingenden Corpus, indem sie einen einzigen Ton summten, der sich als leise tragende Klangfläche  mit den Geräuschen der Stadt mischte. Die Summe dieser 10 Töne ergab eine Melodie, die sich als fluide Skulptur punktuell durch die Stadt Basel zog.*
+Für die Basler Biennale ZeitRäume entstand 2019 das Stimmenprojekt _Die Summe_. An zehn öffentlichen Orten in Basel versammelten sich in einem Zeitraum von 10 Tage zu unterschiedlichen Tageszeiten größere und kleinere Menschengruppen. Sie bildeten jeweils 9 Minuten lang einen klingenden Corpus, indem sie einen einzigen Ton summten, der sich als leise tragende Klangfläche  mit den Geräuschen der Stadt mischte. Die Summe dieser 10 Töne ergab eine Melodie, die sich als fluide Skulptur punktuell durch die Stadt Basel zog.
 
-_The voice project Die Summe was created for the Basel Biennale ZeitRäume in 2019. Over a period of 10 days large and small groups of people gathered in ten public spaces in Basel at different times of day. They formed a sounding corpus for 9 minutes by humming a single note, blending into the sounds of the city as a quietly carrying sound surface. The sum of these 10 tones resulted in a melody that travelled through the city of Basel as an ephemeral sculpture._
+The voice project _Die Summe_ was created for the Basel Biennale ZeitRäume in 2019. Over a period of 10 days large and small groups of people gathered in ten public spaces in Basel at different times of day. They formed a sounding corpus for 9 minutes by humming a single note, blending into the sounds of the city as a quietly carrying sound surface. The sum of these 10 tones resulted in a melody that travelled through the city of Basel as an ephemeral sculpture.
 
 
 image:summe2.png[link=images/summe2.png]
@@ -61,13 +61,17 @@ image:summe4.png[link=images/summe4.png]
 9 Minuten lang lag der Ton in der Luft und verschwand dann so plötzlich wie er aufgetaucht war. 
 Ein gemeinschaftlicher Akt, der sich vielen Beteiligten so stark einprägte, daß Die Summe an der nächsten Biennale 2021 an weiteren Orten und mit einer integralen 90minütigen Aufführung der Melodie in der Basler Pauluskirche fortgesetzt wurde. 
 
-_The sound lingered in the air for 9 minutes and then disappeared as suddenly as it had appeared. 
-A collaborative act that was so memorable for many of those involved that Die Summe was continued at the next Biennale in 2021 in other locations and with an integral 90-minute performance of the melody in St Paul's Church in Basel._
+'''
+
+The sound lingered in the air for 9 minutes and then disappeared as suddenly as it had appeared. 
+A collaborative act that was so memorable for many of those involved that Die Summe was continued at the next Biennale in 2021 in other locations and with an integral 90-minute performance of the melody in St Paul's Church in Basel.
 
 image:summe5.png[link=images/summe5.png]
 
 
 Als eine Praxis des “scaling down” lädt Die Summe mitten in der Stadt zu einer musikalischen Erfahrung ein, die mit einfachsten Mitteln realisiert werden kann und einen Gegenpol zum aufwändigen Konzertbetrieb markiert.
+
+'''
 
 As a practice of ‘scaling down’ offers Die Summe a musical experience that can be realised with the simplest of means and marks an antithesis to the elaborate concert business.
 

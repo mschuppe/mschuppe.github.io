@@ -63,6 +63,8 @@ image::18-11-24.jpg[link=images/18-11-24.jpg,width=50%, align="center"]
 .Colline sur livre 15.10.2024
 audio::15-10-24.mp3[]
 
+image::31-07-24.jpg[link=images/31-07-24.jpg,width=50%, align="center"]
+
 .Colline sur livre 3.9.2024
 audio::3-9-24.mp3[]
 
