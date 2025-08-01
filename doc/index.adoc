@@ -24,17 +24,19 @@ In this vein link:/csl/index.html[colline sur livre] is my most recent and ongoi
 
 {nbsp} +
 
-[cols="^a,^a,^a",  frame=none, grid=none]
-|===
-| Bridging words and music | Extending the idea of concert | Sharing experiences in mentoring
-
-.^| image::bridge-ms.jpg[bridge, 300,250,link="../bridge/index.html"[Briding music and poetry]]
-.^| image::extend-basel-2.png[basel, 300,250, link="../extend/index.html"[Extending the idea of concert]]
-| image::mentor-quer.jpg[mentor, 200,250, link="../mentor/index.html"[Sharing experiences in mentoring]]
-
+[cols="<a,<a,<a",  frame=none, grid=none]
 |===
 
-[cols="1,1,1,1,1,1", frame=none, grid=none]
+| image::bridging.png[bridge, link="../bridge/index.html"[Briding music and poetry]]
+| image::extending.png[basel, link="../extend/index.html"[Extending the idea of concert]]
+| image::sharing.png[mentor, link="../mentor/index.html"[Sharing experiences in mentoring]]
+
+|===
+
+{nbsp} +
+{nbsp} +
+
+[cols=">1", frame=none, grid=none]
 |===
 
 |link:/now/index.html[Now & Then] 
