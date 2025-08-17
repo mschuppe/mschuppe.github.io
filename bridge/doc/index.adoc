@@ -26,7 +26,7 @@ Here words serve as a medium to convert ideas that can not be described otherwis
 
 == {nbsp}
 
-=== colline sur livre (2023- )
+=== colline sur livre (2022- )
 
 link:/../csl/index.html[_Colline sur livre_] is an ongoing work to observe and suss the intersections, overlays and dimensions between words and music on the
 basis of the growing text-corpus _colline sur livre_. 
@@ -81,16 +81,32 @@ https://soundcloud.com/marianne-schuppe/we-need-change-she-says-excerpt?utm_sour
 
 === Aus dem Zeltbuch (2023)
 
-was developed together with cellist Deborah Walker as a related counterpart and to be played in a
-programme with Eliane Radigue‘s OCCAM RIVER XXIV. +
-In the area between music and langage _Aus dem Zeltbuch_ is the incarnation of langage in speaking voice. +
-The piece unfolds a surface of words-sounds textures in low dynamics on the edge of acoustic
-intelligibility. This work is questioning the perception of language in a musical context by creating
-bilingual areas of sound. As words and sounds are superimposed they may unclose a sounding path
-through narration, meaning and understandibility. https://soundcloud.com/marianne-schuppe/aus-dem-zeltbuch-extrait1[extract]
+_Aus dem Zeltbuch_ was developed together with cellist Deborah Walker to be performed in a programme
+with Éliane Radigue’s OCCAM RIVER XXIV. While Radigue’s music focuses on developments and
+structures of partial tones, _Aus dem Zeltbuch_ centres on text and speaking voice. +
+The piece unfolds a surface of word–sound textures, continuing ideas from _wandern_ (1995).
+But instead of a tape, the voice enters into an interplay with a live cello – in low dynamics and on the
+edge of acoustic intelligibility. +
+_Aus dem Zeltbuch_ questions the perception of language in a musical context by creating bilingual spaces
+of sound. The text is related to a few extracts from Erhart Kästner’s _Zeltbuch_ von Tumilat, written in 1949. +
+
+'''
+
+_Aus dem Zeltbuch_ wurde gemeinsam mit der Cellistin Deborah Walker entwickelt, um in einem
+Programm mit Éliane Radigues OCCAM RIVER XXIV aufgeführt zu werden. Während es in der Musik
+Radigues um Entwicklungen von Partialtonstrukturen geht, steht in _Aus dem Zeltbuch_ die Arbeit mit Text
+und Sprechstimme im Mittelpunkt. +
+Das Stück entfaltet eine Oberfläche aus Wort–Klang-Texturen und knüpft dabei an Erfahrungen aus
+_wandern_ (1995) an. Aber anstelle eines Zuspielbands tritt die Stimme hier in Dialog mit einem Live-Cello
+– in leiser Dynamik und am Rande akustischer Verständlichkeit. +
+_Aus dem Zeltbuch_ hinterfragt die Wahrnehmung von Sprache in einem musikalischen Kontext, indem es
+zweisprachige Klangräume schafft. Der Text basiert auf Fragmenten von Erhart Kästners Zeltbuch von
+Tumilat aus dem Jahr 1949. +
+
+https://soundcloud.com/marianne-schuppe/aus-dem-zeltbuch-extrait1[extract on soundcloud]
 
 
-=== a day in july (2023)
+=== a day in july (2022)
 Marianne Schuppe, voice & text +
 Stefan Thut, cello, pipe, pencil and paper
 
