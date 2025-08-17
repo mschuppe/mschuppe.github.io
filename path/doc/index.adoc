@@ -12,63 +12,60 @@
 
 link:/../index.html[icon:home[]] 
 
-image::2715.jpg[width=50%,link=images/2715.jpg]
+
+
+.english
+Marianne Schuppe is a German/Swiss performer and composer of music for voice, based in Basel. +
+Her work unfolds in the borderlands between music and language, drawing on her studies in visual arts
+and music (Hochschule Hildesheim, DE, 1979–82), Carnatic music in South India (1984), and
+contemporary vocal music with Jolanda Rodio (CH, 1984-86) and Michiko Hirayama (IT, 1988-2003). +
+Since the mid-1980s she has performed internationally as a singer of contemporary music – focussing on
+the music of Giacinto Scelsi and Morton Feldman - appearing as a soloist with ensembles such as
+Klangforum Wien and Basel Sinfonietta, and collaborating with composers including Caroline Wilkins,
+Antoine Beuger, and most recently with Éliane Radigue. +
+As a composer, she develops projects for voices, often expanding the traditional concert format.
+Her ongoing solo work for voice, lute, and a minimal set of wireless electronics ( a device called e-ponts)
+explores since 2010 a rebalancing of the ingrediants of song : slow songs (2015), nosongs (2018) and
+colline sur livre (since 2020). +
+Her catalogue includes text scores, poems, essays, and ensemble pieces, published by Col Legno, New
+Albion, Edition Wandelweiser, Telos Records, Akademie Verlag Berlin, and Edition Howeg Zürich. +
+For many years she has taught and lectured on voice and improvisation in Switzerland, Germany, and
+Japan, and was the president of IGNM Basel. +
+
+'''
+
+.deutsch
+Marianne Schuppe ist eine deutsch/schweizerische Sängerin und Komponistin mit Wohnsitz in Basel. +
+Ihr Arbeitsgebiet sind die Übergänge von Musik und Sprache. Sie studierte Bildende Kunst und Musik
+(Hochschule Hildesheim, DE, 1979–82), Karnatische Musik in Südindien (1983) sowie zeitgenössische
+Vokalmusik bei Jolanda Rodio (CH, 1984-8) und Michiko Hirayama (IT, 1988-2003). +
+Seit Mitte der 1980er Jahre tritt sie international als Sängerin zeitgenössischer Musik auf – mit einem
+Schwerpunkt auf den Werken Giacinto Scelsis und Morton Feldmans – und war als Solistin mit
+Ensembles wie dem Klangforum Wien und der Basel Sinfonietta zu hören. Außerdem arbeitete sie mit
+Komponist*innen wie Caroline Wilkins, Antoine Beuger und in den letzten Jahren mit Éliane Radigue
+zusammen. +
+Als Komponistin entwickelt sie Projekte für Stimmen, oft unter Erweiterung des traditionellen
+Konzertformats. +
+Seit 2010 entwickelt sie eine solistische Arbeit mit Stimme, Laute und einem minimalen Set kabelloser
+Elektronik (ein Gerät namens e-ponts) : slow songs (2015), nosongs (2018) und colline sur livre (seit
+2020). +
+Ihre Arbeiten umfassen Textpartituren, Gedichte, Essays und Ensemblewerke, veröffentlicht bei Col
+Legno, New Albion, Edition Wandelweiser, Telos Records, Akademie Verlag Berlin und Edition Howeg
+Zürich. +
+Über viele Jahre war sie Dozentin für Stimme und Improvisation in der Schweiz, Deutschland und Japan,
+sowie Präsidentin der IGNM Basel. +
+
+
+image::2715-as.jpg[width=60%,link=images/2715-as.jpg]
+
+image::erni-1-as.jpg[width=60%,link=images/erni-1-as.jpg]
+
+photo: copyright Ute Schendel/Samuel Erni
 
 .Portrait von Stefan Drees
 icon:file[link=pdf/sd.pdf,label="Neue Zeitschrift für Musik März 2017"] Marianne Schuppes vokale Kunst der feinen Übergänge
 
 .Portrait von Thomas Meyer
 https://jazznmore.ch/archiv/[Jazzn'more, Ausgabe 05-2023, Seite 54]
-
-
-image::3878.jpg[width=50%,link=images/3878.jpg]
-
-.english
-Marianne Schuppe is a German/Swiss composer - performer of music for voices, based in Basel,
-Switzerland. +
-Her work takes place in the borderlands between music and language.
-She studied visual arts and music at Hochschule Hildesheim between 1979 and 1982 and continued her
-vocal studies in Carnatic Music in the South of India (1983), with Jolanda Rodio in Switzerland (1984-86)
-and Michiko Hirayama in Italy (1988-2003). +
-Since the mideightees she has performed internationally as a singer and vocalist of contemporary music. +
-She has been a soloist with ensembles such as Klangforum Wien and Basel Sinfonietta. As a composer she developed projects with trained and untrained voices in public spaces, outdoors and indoors, often extending traditional concert format.
-
-Until 2010 she was known for her recordings of vocal music by Giacinto Scelsi and Morton Feldman and
-for her activities as an improviser. +
-Since 2008 she is developing a solo-work for voice and sparse
-accompanyment by lute and a miniset of cableless electronics, a device called e-ponts.
-In slow songs (2015) and nosongs (2918) she is reweighing the traditional ingredients of song.
-Beyond that her works include text scores, poems, essays and ensemble pieces and have been released
-with Col Legno, New Albion, Edition Wandelweiser, Telos Records, Akademie Verlag Berlin, Edition
-Howeg, Zürich a.o. +
-For many years she has been a teacher and lecturer for voice and improvisation in Switzerland, Germany
-and Japan in various institutions.
-
-image::3818.jpg[width=50%,link=images/3818.jpg]
-
-
-photos: copyright Ute Schendel
-
-
-.deutsch
-Sängerin und Komponistin, lebt in Basel und arbeitet an den Übergängen von Musik und Sprache. +
-Studierte Bildende Kunst und Musik in einem interdisziplinären Modellstudiengang an der Hochschule Hildesheim (1979-82) und setzte ihre Gesangsstudien in Südindien (1983 in Carnatic Music), bei Jolanda Rodio (1984-86) in der Schweiz und Michiko Hirayama (1988-2003) in Italien fort. +
-Seit Mitte der achtziger Jahre international tätig als Sängerin und Vokalistin mit Arbeitsfeld zeitgenössische Musik, Uraufführungen, solistische Tätigkeit (Klangforum Wien, Basel Sinfonietta, u.a.), Improvisation und interdisziplinäre Projekte. Als Komponistin
-entwickelt sie Projekte mit Stimmen in öffentlichen Räumen, die oftmals das traditionelle Konzertformat erweitern.
-
-Bis etwa 2010 wurde sie vor allem durch ihre Veröffentlichungen der Vokalmusik Giacinto Scelsis, Morton Feldmans und als Improvisatorin bekannt. +
-Seit 2008 Entwicklung einer solistischen Arbeit für Stimme mit sparsamer Begleitung von Laute und E-Ponts : slow songs (2015) und nosongs (2018) als CDs in der Edition Wandelweiser erschienen. +
-Ihre Arbeiten umfassen Text-Partituren, Gedichte, Essays und Kompositionen für Stimmen. Letztere entstehen aus der Erfahrung und Praxis als Sängerin und Lehrende und werden von Ensembles mit unterschiedlichem musikalischen und vokalen Hintergrund aufgeführt. +
-Langjährige Lehrtätigkeit in der Schweiz, Deutschland und Japan an diversen Institutionen. 
-
-
-
-
-
-
-
-image::erni-1.jpg[width=50%,link=images/erni-1.jpg]
-
-photo: copyright Samuel Erni
 
 link:/../index.html[icon:home[]] 

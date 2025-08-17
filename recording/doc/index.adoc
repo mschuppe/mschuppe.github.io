@@ -102,7 +102,8 @@ link:/../index.html[icon:home[]]
 * link:/../index.html#contact[order via email]
 * image:selbdrittCD.jpg[link=images/selbdrittCD.jpg]
 
-.wandern - Invention für Sampling und Sprechstimme
+[[wandern]]
+.wandern
 [none]
 * Marianne Schuppe, Stimme und Text, Willy Daum, Tonband
 * Audio CD (1996)
