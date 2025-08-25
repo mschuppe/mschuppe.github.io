@@ -66,6 +66,11 @@ dissonanz # 106 Juni 2009
 Ein Gespräch mit Aleida Assmann, André Blum, Wolfgang Knapp, Theresa Georgen, Marianne Schuppe und Veronika Sellier +
 du magazin, Januar/Februar 2011
 
+.Zwischen Wildnis und Zivilisation
+icon:file[link=pdf/Wildnis.pdf]
+Marianne Schuppe im Gespräch mit Corinne Holtz.
+
+
 .podcast by Krzysztof Dziuba
 Polish Radio about Slow Songs
 

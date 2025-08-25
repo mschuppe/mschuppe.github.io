@@ -90,6 +90,18 @@ edge of acoustic intelligibility. +
 _Aus dem Zeltbuch_ questions the perception of language in a musical context by creating bilingual spaces
 of sound. The text is related to a few extracts from Erhart Kästner’s _Zeltbuch_ von Tumilat, written in 1949. +
 
+I am asking myself how subtle the meaning of words can become when acoustic intelligibility is absent or
+only partially given. My interest lies in the instability of understanding. The speaking voice traverses
+layers of instrumental sounds, being covered and uncovered, without ever entering a dynamically stable
+situation. +
+Several questions that have preoccupied me for some time resurface in _Aus dem Zeltbuch_:
+Which part, which level of language disappears when understanding is fragmentary? What arises when
+semantic comprehensibility vanishes ? 
+What is understanding, and how does it take place ? 
+What vanishes without vanishing ? +
+In my speaking I try to remain at the surface of language so as not to disturb the semantic spaces of the
+words.
+
 '''
 
 _Aus dem Zeltbuch_ wurde gemeinsam mit der Cellistin Deborah Walker entwickelt, um in einem
@@ -103,7 +115,31 @@ _Aus dem Zeltbuch_ hinterfragt die Wahrnehmung von Sprache in einem musikalische
 zweisprachige Klangräume schafft. Der Text basiert auf Fragmenten von Erhart Kästners Zeltbuch von
 Tumilat aus dem Jahr 1949. +
 
+Ich frage mich, wie subtil die Bedeutung von Worten wirken kann, wenn akustische Verständlichkeit fehlt
+oder nur teilweise gegeben ist. Mich interessiert die Instabilität des Verstehens. Die Sprechstimme bewegt
+sich durch Schichten instrumentaler Klänge, wird verdeckt und wieder freigelegt, ohne jemals in eine
+dynamisch stabile Situation zu gelangen. +
+Mehrere Fragen, die mich seit geraumer Zeit beschäftigen, tauchen in _Aus dem Zeltbuch_ wieder auf:
+Welcher Teil, welche Ebene der Sprache verschwindet, wenn das Verstehen fragmentarisch ist? Was
+entsteht, wenn semantische Verständlichkeit verschwindet ? 
+Was ist Verstehen, und wie findet es statt? 
+Was verschwindet, ohne wirklich zu verschwinden ? +
+In meinem Sprechen versuche ich an der Oberfläche der Sprache zu bleiben, um die Bedeutungsräume der
+Worte nicht zu stören. +
+
 https://soundcloud.com/marianne-schuppe/aus-dem-zeltbuch-extrait1[extract on soundcloud]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 === a day in july (2022)
@@ -340,8 +376,38 @@ Lautenklänge. +
 
 === Avers (2010)
 [%hardbreaks]
-commissioned by Ina Bösch + Corinne Holtz
-Marianne Schuppe, Stimme, Laute, uber-bows
+voice, lute, uber-bows
+text : witch trial protocol from 1664
+
+_Avers_ was commissioned by Ina Boesch and Corinne Holtz for the opening of their concert series
+Hexperimente in the mountainvillage Avers, Graubünden, Switzerland. +
+The commission was based on the decipherement and translation of an ancient text, a protocol of one of
+the witch-processes, which took place in that valley in the 17th century. +
+I contrasted in my work to the strong and insistent expressions and descriptions of this text with a
+selection of short and inconspicuous words taken from the same source, and from just a few words I built
+a cycle of songs. Most helpful in my research was the book _Traumzeit_. Über die Grenze zwischen
+Wildnis und Zivilisation“ von Hans-Peter Duerr. +
+The complete ‘Early New High German’ text of the witch trial protocol was heard in the first part of the
+evening, read by the actor Wolfram Berger from Vienna. +
+
+'''
+
+_Avers_ wurde von Ina Boesch und Corinne Holtz für die Eröffnung ihrer Konzertreihe Hexperimente im
+Bergdorf Avers, Graubünden, Schweiz, in Auftrag gegeben. +
+Der Auftrag basierte auf der Entzifferung und Übersetzung eines historischen Textes, dem Verhörprotokoll eines
+der Hexenprozesse, die im 17. Jahrhundert in diesem Tal stattfanden. +
+Den starken und eindringlichen Ausdrücken und Schilderungen dieses Textes stellte ich in meiner Arbeit
+eine Auswahl kurzer und schwach wirkender Worte aus demselben Quellentext gegenüber und baute
+daraus einen Lieder - Zyklus. Hilfreich bei meinen Recherchen war das Buch Traumzeit. Über die Grenze
+zwischen Wildnis und Zivilisation von Hans-Peter Duerr. +
+Der vollständige „frühneuhochdeutsche“ Text aus den Hexenprozessakten war im ersten Teil des Abends
+zu hören, gelesen vom Schauspieler Wolfram Berger aus Wien. +
+
+
+[%hardbreaks]
+link:/recording/index.html#hexperiment[recording]
+https://www.hexperimente.ch/hexperiment-1[hexperimente]
+icon:file[link=../int_essay/pdf/Wildnis.pdf] Interview
 
 === Kärpf (2010)
 [%hardbreaks]
