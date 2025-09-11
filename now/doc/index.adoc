@@ -15,6 +15,16 @@ link:/../index.html[icon:home[]]
 == 2025
 
 [%hardbreaks]
+.symposion 'shared authorship'
+August 28-31
+Yannick Guédon (BE)
+Sébastien Roux (F)
+Marianne Schuppe (CH)
+Stefan Thut (CH)
+Deborah Walker (D)
+Le Puid, France
+
+[%hardbreaks]
 .only 
 Samstag, 24.5.25, 20h
 Fachwerk Allschwil
