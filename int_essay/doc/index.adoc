@@ -82,4 +82,6 @@ audio::scelsi1.mp3[Teil 1]
 audio::scelsi2.mp3[Teil 2]
 Schweizer Radio DRS 2, Corinne Holtz im Gespräch mit Fred van der Kooij und Marianne Schuppe
 
+
+© Copyright 1985-2025 by Marianne Schuppe.  All Rights Reserved. +
 link:/../index.html[icon:home[]] 
