@@ -40,7 +40,7 @@ If you want to order the book or if you are interested in a conversation about t
 [[colline]]
 
 
-.Colline sur livre 12.10.2025
+.12.10.2025
 
 audio::12-10-25.mp3[]
 
@@ -69,7 +69,7 @@ through listening and noting.
 
 
 
-.Colline sur livre 11.10.2025
+.11.10.2025
 
 audio::11-10-25.mp3[]
 
@@ -104,7 +104,7 @@ Mein Sprechen ist hier dem Singen absolut ebenbürtig, es ist eine Form des Sing
 ----
 
 
-.Colline sur livre 11.09.2025
+.11.09.2025
 
 ----
 In the early 1980s, I spent several summers studying with the sculptor Albrecht Klauer-Simonis in the Eifel, carving stone. From a sphere, I shaped a gently twisted form that rose from a small base and, despite its weight, seemed to float. One day, an elderly sculptor stopped, contemplated the piece for a while, and finally remarked: “dat is musicke.”
@@ -117,12 +117,12 @@ Es war ein flash: Musik muß nicht an akustische Ereignisse gebunden sein und ka
 ----
 
 
-.Colline sur livre 18.07.2025
+.18.07.2025
 audio::18-07-25.mp3[]
 
 image::30-07-25.jpg[link=images/30-07-25.jpg,width=50%, align="center"]
 
-.Colline sur livre 9.1.2025
+.9.1.2025
 audio::9-1-25.mp3[]
 
 ----
@@ -135,28 +135,28 @@ Some people say that words are a garment for voice. Maybe they are. But this gar
 
 ----
 
-.Colline sur livre 18.11.2024
+.18.11.2024
 audio::18-11-24.mp3[]
 
 image::18-11-24.jpg[link=images/18-11-24.jpg,width=50%, align="center"]
 
-.Colline sur livre 15.10.2024
+.15.10.2024
 audio::15-10-24.mp3[]
 
 image::31-07-24.jpg[link=images/31-07-24.jpg,width=50%, align="center"]
 
-.Colline sur livre 3.9.2024
+.3.9.2024
 audio::3-9-24.mp3[]
 
-.Colline sur livre 14.8.2024
+.14.8.2024
 audio::14-08-24.mp3[]
 
 image::14-08-24.jpg[link=images/14-08-24.jpg,width=25%, align="center"]
 
-.Colline sur livre 13.8.2024
+.13.8.2024
 audio::13-08-24.mp3[]
 
-.Colline sur livre 31.12.2023
+.31.12.2023
 audio::31-12-23.mp3[]
 
 ----
@@ -181,12 +181,12 @@ mehr verstehe, schimmern und wirken sie aus dem Hintergrund oder unter der Oberf
 ----
 
 
-.Colline sur livre 15.08.2023
+.15.08.2023
 audio::15-08-23.mp3[]
 
 
 
-.Colline sur livre 31.07.2023
+.31.07.2023
 audio::31-07-23.mp3[]
 
 
@@ -203,7 +203,7 @@ Wehrmut nicht vergangen -
 Nebenfenster offen
 ----
 
-.Colline sur livre 31.12.2022
+.31.12.2022
 audio::31-12-22.mp3[]
 
 
@@ -246,7 +246,7 @@ The traces of words in this letter of my very aged mother are - in my eyes – v
 Some growing in air itself, others beyond the rims.
 ----
 
-.Colline sur livre 15.10.2022 (please adjust volume before listening)
+.15.10.2022 (please adjust volume before listening)
 audio::15-10-22.mp3[]
 
 
@@ -278,7 +278,7 @@ Geräuschpegels im Raum fanden die Melodien offenbar ihren Weg in die Küche ohn
 die Sängerin um besondere Aufmerksamkeit gebeten hätte.
 ----
 
-.Colline sur livre 28.7.2022 (please adjust volume before listening)
+.28.7.2022 (please adjust volume before listening)
 audio::28-7-22.mp3[]
 
 
@@ -318,7 +318,7 @@ pitch, duration and texture, allows distance, opening, dissolution, abstraction 
 In colline sur livre I am tracing the entanglement of those movements in an ongoing process.
 ----
 
-.Colline sur livre 12.4.2022 (please adjust volume before listening)
+.12.4.2022 (please adjust volume before listening)
 audio::12-4-22.mp3[]
 
 
@@ -390,7 +390,7 @@ a window here into this ongoing process.
 
 
 [#audio]
-.Colline sur livre 2.3.2022 (please adjust volume before listening)
+.2.3.2022 (please adjust volume before listening)
 audio::2-3-22.mp3[]
 
 link:/../index.html[icon:home[]] 

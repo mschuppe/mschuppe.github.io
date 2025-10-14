@@ -14,6 +14,14 @@ link:/../index.html[icon:home[]]
 
 == 2025
 
+
+[%hardbreaks]
+.little luggage
+neue Textveröffentlichung im Klingental Verlag
+Lesung Sonntag, 7.12. 19h
+Klingentalstrasse 72, 4057 Basel
+
+
 [%hardbreaks]
 .only
 Samstag, 15.11.25, 20h30

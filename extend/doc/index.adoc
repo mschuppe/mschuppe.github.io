@@ -36,7 +36,7 @@ Garten des Staatsarchiv, Rappazhof,  Rathaus Innenhof, Markthalle, Pauluskirche
 mit : Chor Gymnasium Oberwil, Chor Gymnasium Leonhard, Cantate Chor, Chor Kultur&Volk,  Fassnachtsclique Seibi Mysli, Ensemble Millefleurs, ChorBasel, kor., Sündicats, Junger Kammerchor Basel, pour Choeur, Jugendchor A'Tempo!, Chor Vivo, Neuer Basler Kammerchor, Alpha Singers Basiliensis, Musikklasse des Wirtschaftsgymnasiums, Musikklase des Gymnasiums Kirschgarten
 
 
-Für die Basler Biennale ZeitRäume entstand 2019 das Stimmenprojekt _Die Summe_. An zehn öffentlichen Orten in Basel versammelten sich in einem Zeitraum von 10 Tage zu unterschiedlichen Tageszeiten größere und kleinere Menschengruppen. Sie bildeten jeweils 9 Minuten lang einen klingenden Corpus, indem sie einen einzigen Ton summten, der sich als leise tragende Klangfläche  mit den Geräuschen der Stadt mischte. Die Summe dieser 10 Töne ergab eine Melodie, die sich als fluide Skulptur punktuell durch die Stadt Basel zog.
+Für die Basler Biennale ZeitRäume entstand 2019 das Stimmenprojekt _Die Summe_. An zehn öffentlichen Orten in Basel versammelten sich in einem Zeitraum von 10 Tagen zu unterschiedlichen Tageszeiten größere und kleinere Menschengruppen. Sie bildeten jeweils 9 Minuten lang einen klingenden Corpus, indem sie einen einzigen Ton summten, der sich als leise tragende Klangfläche  mit den Geräuschen der Stadt mischte. Die Summe dieser 10 Töne ergab eine Melodie, die sich als fluide Skulptur punktuell durch die Stadt Basel zog.
 
 The voice project _Die Summe_ was created for the Basel Biennale ZeitRäume in 2019. Over a period of 10 days large and small groups of people gathered in ten public spaces in Basel at different times of day. They formed a sounding corpus for 9 minutes by humming a single note, blending into the sounds of the city as a quietly carrying sound surface. The sum of these 10 tones resulted in a melody that travelled through the city of Basel as an ephemeral sculpture.
 
@@ -77,11 +77,47 @@ As a practice of ‘scaling down’ offers Die Summe a musical experience that c
 
 image:summe6.png[link=images/summe6.png]
 
-Partitur
+.Partitur
 
 
-image:summe7.png[link=images/summe7.png]
+image:summe8.png[link=images/summe8.png, width=50% ]
+image:summe7.png[link=images/summe7.png, width=50%]
 
+
+.Reaktionen
+Welche Wirkungen Die Summe 2019 an der Bienale ZeitRäume hinterliess, beschreibt die
+Kulturwissenschaftlerin Anja Wernicke wie folgt [1]:
+
+_Die Menschen waren berührt von der Flüchtigkeit des Summens, dem ebenso flüchtigen Gruppen-gefühl und
+der veränderten, poetischen Wahrnehmung des jeweiligen Ortes. Viele nahmen mehrfach teil, um die
+Entwicklung der Performance zu verfolgen (mal mit nur 30, mal mit 200 Summenden). Das Summen hat bei
+Mitwirkenden wie bei Zuhörenden jeweils zu einem Innehalten geführt, einem plötzlich ästhetischen Erleben
+eines ansonsten profanen Alltagsortes. Das Summen an der Grenze des Hörbaren hat etwas Zerbrechliches,
+Verletzliches, sehr Zartes transportiert und so zu einer gesteigerten Aufmerksamkeit geführt._ +
+
+{nbsp}
+Die Teilnehmerin und Kunsthistorikerin Isabel Zürcher schreibt in ihrem Rückblick auf Die Summe 2019 “Der
+Ton, die anderen und ich” [2]:
+
+_...da war kein Auditorium, unter uns Summerinnen und Summern die Grenze zwischen Mitwirken und
+Zuhören aufgehoben. Eine Meditation? Ein Selbstversuch? Die situative Komposition zur Erkundung eines
+neuen Begriffs von Gemeinschaft? Wir probten ein introvertiertes Teilen, wir summten antikonzertant, wir
+waren für ganze neun Minuten ein Bündel unauffälliger, friedfertiger Einmischung....
+Konzentriertes Innehalten überstimmt dabei den Takt zielstrebiger Tagespläne. Wann war ich
+zuletzt in der Stadt, nur so?..._ +
+
+
+Es liegt doch tatsächlich ein Widerstand im geschlossenen Mund – und im wortlos klingenden Atem zugleich
+ein Stück Gemeinschaft, die nur scheinbar stärkeren Kräften trotzt.
+
+1. Anja Wernicke - Die Summe in : Neue Musik zwischen Kuhweide und Stadtpalais S. 183-185
+in : Das Konzertpublikum der Zukunft, Hrsg. Irena Müller-Brozovic, Barbara Balba Weber.
+
+2. https://zeitraeumebasel.com/produktionen[Zeiträume]
+3. https://zeitraeumebasel.com/sites/default/files/2021-09/ZeitRa%CC%88ume%20Basel%20Katalog%202019_Innen.pdf[Katalog] S. 42-43
+4. Isabel Zürcher - Der Ton, die anderen und ich - ZeitRäume Festivalmagazin 2021 +
+icon:file[link=../works/pdf/IZ-ton.pdf] _Der Ton, die andern und ich_ von Isabel Zürcher.
+5. https://soundcloud.com/marianne-schuppe/summe?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=ba18a486ec7c4baa94898ad6447c3473[soundcloud]
 
 {nbsp} +
 {nbsp} +
