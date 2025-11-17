@@ -324,6 +324,40 @@ Fotos : Ute Schendel
 {nbsp} +
 {nbsp} +
 
+
+== En plein champs
+
+_Three Voices_ - Théâtre du Crochetan, Monthey, Switzerland (2004)
+
+For the annual festival of the Swiss Composers’Association, I set the performance of _Three Voices_ into
+the evening atmosphere of a small town. While the festival programme was taking place in the concert
+hall of the Théâtre du Crochetan in Monthey, I positioned myself on the roof of the theater. When the
+programme had ended and the audience left the building and stepped out into the surrounding park, I
+began to sing _Three Voices_ from above. The speakers were placed directly below the spot where I was
+sitting. A few chairs invited people to sit down, others wandered through the park or listened from a bench
+farther away. Dusk had just begun to fall, and the sounds of the town drifted in from the distance,
+blending with my three voices.
+
+
+image:monthey.jpg[link=images/monthey.jpg, width=100%]
+
+
+Für das Jahresfestival des Schweizer Komponistenverbands versetzte ich die Aufführung von _Three
+Voices_ in die abendliche Atmosphäre einer Kleinstadt. Während das Festivalprogramm im Konzertsaal des
+Théâtre du Crochetan in Monthey stattfand, richtete ich mich auf dem Dach des Theaters ein. Als das
+Programm beendet war und das Publikum das Gebäude verließ und in den umliegenden Park hinaustrat,
+begann ich vom Dach aus _Three Voices_ zu singen. Die Lautsprecher waren unter dem Punkt platziert, an
+dem ich saß. Einige Stühle luden die Menschen zum Sitzen ein, andere gingen im Park umher oder hörten
+von einer weiter entfernten Parkbank aus zu. Die Dämmerung hatte gerade eingesetzt, und die Geräusche
+der Stadt mischten sich mit meinen drei Stimmen.
+
+
+icon:file[link=pdf/monthey.pdf] _Three Voices_ - Théâtre du Crochetan, Monthey.
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+
 == fahrzeug
 
 [%hardbreaks]
