@@ -13,7 +13,7 @@
 link:/../index.html[icon:home[]] 
 
 [Abstract]
-My interest in voice draws me into the area between music and language. An area which I see as the coast between words and music, where the grain of language and the fluidity of sound converge. I have wandered in this area since 1995 and my interest has been:
+My interest in voice draws me into the area between music and language. An area which I see as the coast between words and music, where the grain of language and the fluidity of sound converge. I have wandered in this area since the late '80s and my interest has been:
 
 - discovering the simultaneity of sound and meaning through writing texts. 
 Here sound and meaning are inextricable interwoven.
@@ -23,8 +23,28 @@ transparency and occlusion of one or the other.
 - finding out about the relation between words and music through text-scores and oral transmission.
 Here words serve as a medium to convert ideas that can not be described otherwise.
 
+'''
+
+Mein Interesse für Stimme zieht mich in das Gelände zwischen Musik und Sprache. Ein Gelände, das ich
+als Küstenlinie zwischen Wort und Musik verstehe, an der das Körnige der Sprache und das Fluide der
+Klänge zusammen treffen. Seit Ende der 80er Jahre bewege ich mich in diesem Gebiet, und mein
+Interesse gilt:
+
+- der Gleichzeitigkeit von Klang und Bedeutung beim Schreiben von Texten. Hier sind Klang und
+Bedeutung untrennbar miteinander verwoben.
+- den Schnittstellen von Klang und Bedeutung im Zusammenspiel mit einem Instrument. Hier
+dient der e-pont als Brücke zwischen reinem Klang und Stimme und ermöglicht Abstufungen von
+Transparenz.
+- der Relation von Wort und Musik in Textpartituren und mündlicher Überlieferungspraxis. Hier
+dienen Worte als Medium, um Ideen zu vermittelen, die sich anders nicht beschreiben lassen.
 
 == {nbsp}
+
+=== little luggage (2025)
+[%hardbreaks]
+_poem scores_
+text-publication with Verlag Klingental, Basel, an editor, that features works in the intersection between words and music.
+
 
 === colline sur livre (2022- )
 
