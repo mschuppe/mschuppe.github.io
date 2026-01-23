@@ -8,7 +8,7 @@
 :sectnums!:
 :docinfo: shared
 
-==== Singer Composer Writer
+=== Singer Composer Writer
 {nbsp} +
 
 
