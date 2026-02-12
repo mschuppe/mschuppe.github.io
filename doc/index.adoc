@@ -7,6 +7,10 @@
 :figure-caption!:
 :sectnums!:
 :docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
 
 === Singer Composer Writer
 {nbsp} +

@@ -9,6 +9,10 @@
 :figure-caption!:
 :sectnums!:
 :docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
 
 link:/../index.html[icon:home[]] 
 
@@ -26,13 +30,6 @@ Recent parts of _colline sur livre_ have been published as a book by http://www.
 If you want to order the book or if you are interested in a conversation about this work, just link:/../index.html#contact[write] me.
 
 
-++++
-<style>
-  .imageblock > .title {
-    text-align: inherit;
-  }
-</style>
-++++
 
 
 {nbsp} +

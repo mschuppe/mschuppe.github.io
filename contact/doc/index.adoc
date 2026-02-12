@@ -10,6 +10,10 @@
 :figure-caption!:
 :sectnums!:
 :docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
 
 link:/../index.html[icon:home[]] 
 

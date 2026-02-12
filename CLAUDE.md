@@ -1,0 +1,82 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## What This Is
+
+Website for artist Marianne Schuppe (www.marianneschuppe.com) — a text-heavy, literature-like site about voice, music, and poetry. Hosted on GitHub Pages (see CNAME). Built with Asciidoctor, no framework or package manager.
+
+## Build Commands
+
+```bash
+# Build entire site (all sections + home page)
+./build.sh
+
+# Build only the home page
+./build-top.sh
+
+# Build a single section (e.g. csl, recording, works, etc.)
+cd <section> && ./build.sh
+
+# Propagate shared docinfo files to all sections
+./propagate-style.sh
+
+# Switch active theme (then rebuild)
+./switch-theme.sh <theme-name>
+```
+
+All build scripts use `zsh`. Each runs `asciidoctor -D . doc/index.adoc` and rsyncs images/pdf assets from `doc/` to the section root.
+
+## Architecture
+
+### Section Structure
+
+Every section follows this pattern:
+```
+<section>/
+  doc/
+    index.adoc      # Source content (Asciidoctor markup)
+    docinfo.html     # Shared style overrides injected via :docinfo: shared
+    images/          # Section-specific images
+  build.sh           # Section build script
+  index.html         # Generated output (do not hand-edit)
+```
+
+Sections: `bridge`, `contact`, `csl`, `extend`, `int_essay`, `mentor`, `now`, `path`, `recording`, `review`, `works`
+
+The home page follows the same pattern but at root level (`doc/index.adoc` → `index.html`).
+
+### Styling & Theme System
+
+- Each `.adoc` file uses `:linkcss:`, `:copycss!:`, `:stylesheet: theme.css`, `:stylesdir: /current-theme` to link an external CSS file instead of embedding Asciidoctor's default styles
+- `current-theme/theme.css` is the active theme (a copy of one of the files in `themes/`)
+- `themes/` contains 4 complete CSS themes: `shore` (warm cream, default), `manuscript` (ink-on-paper), `silence` (monochrome), `dusk` (dark mode)
+- Switch themes: `./switch-theme.sh <theme-name>` then rebuild
+- `doc/docinfo.html` is kept for docinfo compatibility (empty of styles)
+- `doc/docinfo-footer.html` contains the cross-section navigation footer
+- `propagate-style.sh` copies both `docinfo.html` and `docinfo-footer.html` to each section's `doc/` directory
+- The `:docinfo: shared` attribute in each `.adoc` file injects both head and footer docinfo files
+
+### Content Conventions
+
+- Bilingual content (English/German) is intentionally mixed within pages — this is an artistic choice, not a bug. Never separate languages into distinct pages or add language selectors.
+- Audio files are embedded inline with `audio::filename.mp3[]`
+- Inter-section links use absolute paths like `link:/recording/index.html#anchor[text]`
+- The home page links to three thematic axes via images: bridging (music/poetry), extending (concerts), sharing (mentoring)
+
+## Theme System
+
+Four themes are available in `themes/`:
+
+- **shore** (default) — Warm cream `#f7f3ee`, Lora + Raleway fonts, ochre links, 42em column
+- **manuscript** — Near-white `#fffef9`, Crimson Text + Source Sans 3, small-caps headings, 44em column
+- **silence** — Pure white, system fonts, gray tones, extreme whitespace, 38em column
+- **dusk** — Dark `#1c1917`, EB Garamond + Inter, muted gold links, 42em column
+
+To switch: `./switch-theme.sh manuscript` then `./build.sh`
+
+## Design Principles
+
+- Keep the site sober, calm, and minimal — reflecting quiet, lyrical music performed at low volume
+- Text-heavy with few images, some audio players, many external links
+- Visual changes should preserve the literary character
