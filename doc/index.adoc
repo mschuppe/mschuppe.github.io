@@ -28,23 +28,26 @@ In this vein link:/csl/index.html[colline sur livre] is since 2022 an ongoing wo
 
 {nbsp} +
 
-[cols="<a,<a,<a",  frame=none, grid=none]
+[.axis-row,cols="<a,<a,<a", frame=none, grid=none]
 |===
 
-| image::bridging.png[bridge, link="../bridge/index.html"[Briding music and poetry]]
-| image::extending.png[basel, link="../extend/index.html"[Extending the idea of concert]]
-| image::sharing.png[mentor, link="../mentor/index.html"[Sharing experiences in mentoring]]
+| [.axis]#link:/bridge/index.html[Bridging]# +
+words and music
+| [.axis]#link:/extend/index.html[Extending]# +
+the idea of concert
+| [.axis]#link:/mentor/index.html[Sharing]# +
+experiences in mentoring
 |===
 
 {nbsp} +
 
-[cols="6,>1", frame=none, grid=none]
+[cols="3,>1", frame=none, grid=none]
 |===
 
 | |link:/now/index.html[Now & Then] 
 | _Diese Musik klingt so, als hätte sie gesagt: Gib mir ein paar Worte zum Singen,_ | link:/path/index.html[Path] 
 | _ein paar Töne zum Drunterlegen und die Ruhe, diese Worte und Töne in die Zeit zu legen._   | link:/recording/index.html[Recordings] 
-| link:/review/index.html#Meyer[SRF 2 Kultur] Kulturtipp 17/2018, Thomas Meyer 02.08.2018 | link:/int_essay/index.html[Conversations] 
+| link:/review/index.html#Meyer[SRF 2 Kultur] Kulturtipp 17/2018, Thomas Meyer | link:/int_essay/index.html[Conversations]
 | | link:/works/index.html[Works] 
 |  |link:/review/index.html[Reviews] 
 | | link:/contact/index.html[Contact] 

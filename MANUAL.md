@@ -105,6 +105,15 @@ image::filename.jpg[link=images/filename.jpg, width=50%, align="center"]
 
 Keep images under 1400px on the longest side and JPEGs at quality 80 to avoid bloating the site.
 
+## Responsive Design
+
+The site targets two reference screen sizes:
+
+- **Desktop**: 16" laptop — navigation footer is fixed at the bottom with all links visible
+- **Mobile**: 6.56" smartphone — navigation footer collapses behind a hamburger menu icon (pure CSS, no JavaScript)
+
+The mobile breakpoint is 767px. The hamburger toggle uses a checkbox hack for CSS-only interactivity.
+
 ## Navigation Footer
 
 Every page has a footer with links to all sections. To edit the links, modify `doc/docinfo-footer.html`, then:

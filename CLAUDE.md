@@ -80,3 +80,4 @@ To switch: `./switch-theme.sh manuscript` then `./build.sh`
 - Keep the site sober, calm, and minimal — reflecting quiet, lyrical music performed at low volume
 - Text-heavy with few images, some audio players, many external links
 - Visual changes should preserve the literary character
+- Reference media sizes: 16" laptop (desktop), 6.56" smartphone (mobile)

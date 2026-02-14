@@ -394,22 +394,49 @@ div.unbreakable { page-break-inside: avoid; }
 em em { font-style: normal; }
 strong strong { font-weight: 400; }
 
+/* === Axis links (home page) === */
+.axis { font-size: 2em; font-weight: 300; letter-spacing: .01em; }
+.axis a { color: #4a4a4a; }
+.axis a:hover { color: #555; }
+
 /* === Site navigation footer === */
+body { padding-bottom: 3.5em; }
 .site-nav {
-  max-width: 38em; margin: 4em auto 2em; padding: 1.5em 1.5em 1em;
+  position: fixed; bottom: 0; left: 0; right: 0;
+  z-index: 1000;
+  background: #ffffff;
   border-top: 1px solid #f0f0f0;
   text-align: center;
+  padding: .6em .9375em .5em;
   font-family: inherit;
   font-size: .85rem; letter-spacing: .02em; line-height: 2;
 }
 .site-nav a { color: #888; text-decoration: none; white-space: nowrap; }
 .site-nav a:hover { color: #555; }
-body.toc2 .site-nav { margin-left: 0; }
+.nav-toggle { position: absolute; opacity: 0; pointer-events: none; }
+.nav-hamburger { display: none; }
+body.toc2 .site-nav { left: 0; }
 @media screen and (min-width: 768px) {
   body.toc2 .site-nav { margin-left: 15em; }
 }
 @media screen and (min-width: 1280px) {
   body.toc2 .site-nav { margin-left: 20em; }
+}
+@media screen and (max-width: 767px) {
+  .nav-hamburger {
+    display: block; position: fixed; bottom: .5em; right: .75em;
+    z-index: 1001; font-size: 1.5rem; cursor: pointer;
+    color: #888; background: none; border: none; line-height: 1;
+  }
+  .site-nav { padding: .4em .5em; }
+  .site-nav-inner { display: none; }
+  .nav-toggle:checked ~ .site-nav-inner {
+    display: block;
+    position: fixed; bottom: 2.5em; left: 0; right: 0;
+    background: #ffffff;
+    padding: 1em;
+    border-top: 1px solid #f0f0f0;
+  }
 }
 
 /* === Print === */
