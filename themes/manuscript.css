@@ -420,7 +420,7 @@ body { padding-bottom: 3.5em; }
 }
 .site-nav a { color: #2a6464; text-decoration: none; white-space: nowrap; }
 .site-nav a:hover { color: #1e4a4a; }
-.nav-toggle { position: absolute; opacity: 0; pointer-events: none; }
+.nav-toggle { position: absolute; left: -9999px; width: 0; height: 0; opacity: 0; pointer-events: none; }
 .nav-hamburger { display: none; }
 body.toc2 .site-nav { left: 0; }
 @media screen and (min-width: 768px) {
