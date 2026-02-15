@@ -60,8 +60,8 @@ img, object, svg { display: inline-block; vertical-align: middle; }
 :not(pre).pre-wrap { white-space: pre-wrap; }
 
 /* === Typography === */
-a { color: #2a6464; text-decoration: none; line-height: inherit; }
-a:hover, a:focus { color: #1e4a4a; }
+a { color: #1a7070; text-decoration: none; line-height: inherit; }
+a:hover, a:focus { color: #135858; }
 a:visited { text-decoration: none; }
 a img { border: 0; }
 
@@ -78,10 +78,10 @@ h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6 {
   letter-spacing: .08em;
   font-variant: small-caps;
 }
-h1 { font-size: 1.875em; }
-h2 { font-size: 1.5em; }
-h3, #toctitle, .sidebarblock > .content > .title { font-size: 1.25em; }
-h4, h5 { font-size: 1.0625em; }
+h1 { font-size: 1.375em; }
+h2 { font-size: 1.25em; }
+h3, #toctitle, .sidebarblock > .content > .title { font-size: 1.125em; }
+h4, h5 { font-size: 1em; }
 h6 { font-size: 1em; }
 h1 strong, h2 strong, h3 strong, #toctitle strong, .sidebarblock > .content > .title strong,
 h4 strong, h5 strong, h6 strong { font-weight: 400; }
@@ -89,10 +89,10 @@ h1 small, h2 small, h3 small, #toctitle small, .sidebarblock > .content > .title
 h4 small, h5 small, h6 small { font-size: 60%; color: #888; line-height: 0; }
 @media screen and (min-width: 768px) {
   h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6 { line-height: 1.2; }
-  h1 { font-size: 2.375em; }
-  h2 { font-size: 2em; }
-  h3, #toctitle, .sidebarblock > .content > .title { font-size: 1.5em; }
-  h4 { font-size: 1.25em; }
+  h1 { font-size: 1.75em; }
+  h2 { font-size: 1.5em; }
+  h3, #toctitle, .sidebarblock > .content > .title { font-size: 1.25em; }
+  h4 { font-size: 1.125em; }
 }
 em, i { font-style: italic; line-height: inherit; }
 strong, b { font-weight: bold; line-height: inherit; }
@@ -313,6 +313,20 @@ pre.nowrap, pre.nowrap pre { white-space: pre; word-wrap: normal; }
 .listingblock code[data-lang]::before { display: none; content: attr(data-lang); position: absolute; font-size: .75em; top: .425rem; right: .5rem; line-height: 1; text-transform: uppercase; color: inherit; opacity: .5; }
 .listingblock:hover code[data-lang]::before { display: block; }
 
+/* === Listing blocks as literary prose (used for bilingual text) === */
+.listingblock:not([class*="highlight"]) > .content > pre:not(.highlight) {
+  font-family: "Crimson Text", "Noto Serif", "DejaVu Serif", serif;
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  white-space: pre-wrap;
+  background: transparent;
+  border-radius: 0;
+  padding: .75em 0 .75em 1.5em;
+  border-left: 2px solid #e2e0d8;
+  color: rgba(26,26,26,.85);
+  letter-spacing: -.01em;
+}
+
 /* === Admonition === */
 .admonitionblock > table { border-collapse: separate; border: 0; background: none; width: 100%; }
 .admonitionblock > table td.icon { text-align: center; width: 80px; }
@@ -404,7 +418,7 @@ strong strong { font-weight: 400; }
 /* === Axis links (home page) === */
 .axis { font-size: 2em; font-weight: 300; letter-spacing: .01em; text-transform: none; font-variant: normal; }
 .axis a { color: #2a6464; }
-.axis a:hover { color: #1e4a4a; }
+.axis a:hover { color: #135858; }
 
 /* === Site navigation footer === */
 body { padding-bottom: 3.5em; }
@@ -419,7 +433,7 @@ body { padding-bottom: 3.5em; }
   font-size: .85rem; letter-spacing: .02em; line-height: 2;
 }
 .site-nav a { color: #2a6464; text-decoration: none; white-space: nowrap; }
-.site-nav a:hover { color: #1e4a4a; }
+.site-nav a:hover { color: #135858; }
 .nav-toggle { position: absolute; left: -9999px; width: 0; height: 0; opacity: 0; pointer-events: none; }
 .nav-hamburger { display: none; }
 body.toc2 .site-nav { left: 0; }

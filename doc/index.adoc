@@ -19,11 +19,10 @@
 My interest in voice draws me toward the space between music and language.
 An area where the grain of words merges with the fluidity of sound. +
 This tension has shaped my work since the eighties, when I began exploring the music of link:/recording/index.html#scelsi[Giacinto Scelsi] and link:/recording/index.html#feldman[Morton Feldman].
-I have pursued it through many forms and collaborations:
+I have pursued it through various forms and collaborations:
 link:/recording/index.html#selbdritt[improvisation], interpretation,
                                                          reweighing the traditional ingredients of link:/recording/index.html#nosongs[song], developing
-                                                         projects with and link:/works/index.html#summe[for voices], link:/mentor/index.html#summe[teaching], writing. +
-
+                                                         projects with and link:/works/index.html#summe[for voices], link:/mentor/index.html#summe[teaching] and writing.
 In recent years, I have turned more specifically to the borderlands where music passes into link:/now/index.html#buch[poetry].
 In this vein,  link:/csl/index.html[colline sur livre]  has been an ongoing work since 2022.
 
@@ -43,18 +42,17 @@ the idea of concert
 experiences in mentoring
 |===
 
-{nbsp} +
 
 [cols="3,>1", frame=none, grid=none]
 |===
 
-| |link:/now/index.html[Now & Then] 
-| _Diese Musik klingt so, als hätte sie gesagt: Gib mir ein paar Worte zum Singen,_ | link:/path/index.html[Path] 
-| _ein paar Töne zum Drunterlegen und die Ruhe, diese Worte und Töne in die Zeit zu legen._   | link:/recording/index.html[Recordings] 
-| link:/review/index.html#Meyer[SRF 2 Kultur] Kulturtipp 17/2018, Thomas Meyer | link:/int_essay/index.html[Conversations]
-| | link:/works/index.html[Works] 
-|  |link:/review/index.html[Reviews] 
-| | link:/contact/index.html[Contact] 
+| | link:/now/index.html[Now & Then]
+| | link:/path/index.html[Path]
+| | link:/recording/index.html[Recordings]
+| _Diese Musik klingt so, als hätte sie gesagt: Gib mir ein paar Worte zum Singen,_ | link:/int_essay/index.html[Conversations]
+| _ein paar Töne zum Drunterlegen und die Ruhe, diese Worte und Töne in die Zeit zu legen._   | link:/works/index.html[Works]
+| pass:[<small>]link:/review/index.html#Meyer[SRF 2 Kultur] Kulturtipp 17/2018, Thomas Meyerpass:[</small>] | link:/review/index.html[Reviews]
+| | link:/contact/index.html[Contact]
 |===
 
 {nbsp} +

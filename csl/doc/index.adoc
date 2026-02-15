@@ -56,7 +56,7 @@ Und der Fluß, an dem der Hügel liegt,
 ist das Buch, das in der täglichen Begegung mit dem Hügel, 
 dem Zuhören und Notieren geschrieben wird.
 
----
+·  ·  ·
 
 From my house, I see a hill.
 I see it every day and I see this text as a hill as well.
@@ -89,7 +89,7 @@ consistencies, two different states of matter, touch, one flooding or uncovering
 A line, a terrain, a threshold in continual dissolution and renewal.
 My speaking here stands on equal ground with singing. It is a form of singing.
 
----
+·  ·  ·
 
 Oft habe ich den Eindruck, daß meine Wörter sich dagegen sträuben gesungen zu werden.
 Das bleibt auch nach Jahren der Auseinandersetzung rätselhaft für mich.
@@ -112,7 +112,7 @@ Mein Sprechen ist hier dem Singen absolut ebenbürtig, es ist eine Form des Sing
 In the early 1980s, I spent several summers studying with the sculptor Albrecht Klauer-Simonis in the Eifel, carving stone. From a sphere, I shaped a gently twisted form that rose from a small base and, despite its weight, seemed to float. One day, an elderly sculptor stopped, contemplated the piece for a while, and finally remarked: “dat is musicke.”
 It was a flash : music need not be bound to acoustic events alone, it can just as well unfold between other materials, or within the space of words.
 
----
+·  ·  ·
 
 In den frühen 1980-ger Jahren war ich während mehrerer Sommer Schülerin des Bildhauers Albrecht Klauer-Simonis in der Eifel und arbeite am Stein. Ich hatte aus einer Kugel eine leicht gedrehte Form entwickelt, die auf ihrer kleinsten Fläche stand und trotz ihres Gewichtes zu schweben schien. Ein alter Bildhauer kam vorbei, betrachtete die Form eine Weile und bemerkte „dat is musicke“. 
 Es war ein flash: Musik muß nicht an akustische Ereignisse gebunden sein und kann ebenso in der Spannung zwischen anderen Materialien oder Worten stattfinden.
@@ -131,7 +131,7 @@ audio::9-1-25.mp3[]
 
 Es gibt die Vorstellung, daß Wörter ein Kleid für die Stimme seien. Vielleicht stimmt es. Aber dies Kleid ist transparent.
 
----
+·  ·  ·
 
 Some people say that words are a garment for voice. Maybe they are. But this garment is transparent.
 
@@ -171,7 +171,7 @@ which is middle-, which is background as they are shifting. Even when words are 
 disappearing beyond understanding, they are shimmering through the surface and have an 
 effect from below.
 
----
+·  ·  ·
 
 Von weitem, aus einem Abstand gehörte Stimmen ziehen meine Aufmerksamkeit an. Die Präsenz 
 dieser Stimmen und Wörter ist flüchtig und beiläufig. Ich werde nur ihre Oberfläche, 
@@ -229,7 +229,7 @@ Unlesbarkeiten, Unverständlichkeiten bleiben bestehen, überlagern und durchdri
 Die Wortspuren in diesem Brief meiner sehr alten Mutter sind in meinen Augen eigentlich Farne.
 Manche davon wachsen in der Luft selbst, andere über die Ränder hinaus.
 
----
+·  ·  ·
 
 Words – standing alone or in groups are traces of movements.
 Not-writing lies as a space between them. Fermatas of different durations and consistencies.
@@ -266,7 +266,7 @@ unstressed in midst the busy hour and people coming and going. In spite of the n
 level in the room the melodies apparently found their way into the kitchen without the
 singer asking for special attention.
 
----
+·  ·  ·
 
 Eine Situation in einem Restaurant in Tokyo fällt mir ein. Bald nach meinem Eintreten
 bemerkte ich eine Singstimme, deren Melodie sich in Variationen und Wiederholungen
@@ -303,7 +303,7 @@ Abstraktion der Bedeutungen.
 
 In colline sur livre gehe ich der Verschränkung dieser Bewegungen nach.
 
----
+·  ·  ·
 
 Speaking and singing are two movements, which are saturating eachother.
 (Similar to drawing and painting) one is within and concurrant with the other. There is only a
@@ -330,9 +330,6 @@ image::3-22-2.jpg[link=images/3-22-2.jpg,width=50%, align="center"]
 ----
 Viele Fragen, Versuche, Erfahrungen und Widerstände
 münden in Colline sur livre. Colline sur livre ist ein Journal.
-Vor vielen Jahren habe ich es am Dorfrand in den Vogesen zu
-schreiben begonnen und setze es seitdem mit fast
-täglichen kurzen Notaten fort.
 
 Aus naheliegenden, aufgelesenen, gehörten und erinnerten
 Wörtern ist eine Textspur gewachsen, die als eigenständige
@@ -359,13 +356,11 @@ Seit 2020 entwickle ich eine Praxis des Sprechens und Singens
 von langen Passagen aus colline sur livre. Begleitend
 zu dieser Praxis öffne ich hier ein Fenster in diesen Prozess.
 
----
+·  ·  ·
 
 Many records, questions, oppositions and experiments have
 been leading into colline sur livre. Colline sur livre is an ongoing
-journal, which I began writing many years ago in the Vosges hills
-and have been carrying on with these notes there and elsewhere
-since then.
+journal.
 
 Obvious, picked up, found and remembered words have generated
 a text, which began as a self-contained parallel track with my musical
