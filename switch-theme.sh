@@ -1,7 +1,7 @@
 #!/bin/zsh
 if [ -z "$1" ]; then
   echo "Usage: ./switch-theme.sh <theme-name>"
-  echo "Available themes: shore, manuscript, silence, dusk"
+  echo "Available themes: manuscript, warmth"
   exit 1
 fi
 if [ ! -f "themes/$1.css" ]; then

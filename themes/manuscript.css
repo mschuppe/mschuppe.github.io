@@ -96,7 +96,7 @@ h4 small, h5 small, h6 small { font-size: 60%; color: #888; line-height: 0; }
 }
 em, i { font-style: italic; line-height: inherit; }
 strong, b { font-weight: bold; line-height: inherit; }
-small { font-size: 60%; line-height: inherit; }
+small { font-size: 0.85em; line-height: inherit; }
 hr { border: solid #e2e2e2; border-width: 1px 0 0; clear: both; margin: 1.25em 0 1.1875em; }
 b, strong { font-weight: bold; }
 abbr { font-size: .9em; }
@@ -408,7 +408,7 @@ p { margin-bottom: 1.25rem; }
 .sidebarblock p, .sidebarblock dt, .sidebarblock td.content, p.tableblock { font-size: 1em; }
 div.unbreakable { page-break-inside: avoid; }
 .big { font-size: larger; }
-.small { font-size: smaller; }
+.small { font-size: 0.9em; }
 .underline { text-decoration: underline; }
 .overline { text-decoration: overline; }
 .line-through { text-decoration: line-through; }
