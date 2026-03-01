@@ -18,6 +18,8 @@ link:/../index.html[icon:home[]]
 
 == essays
 
+
+
 .words-music-words / Wörter-Musik-Wörter
 [%hardbreaks]
 _words music words_: icon:file[link=pdf/words-music-words.pdf]
@@ -58,8 +60,11 @@ icon:file[link=pdf/Dieter-Nanz-Aspekte-der-freien-Improvisation.pdf] _Aspekte de
 
 == interviews
 
+.Interview with Yuko Zama and Deborah Walker about
+https://www.elsewheremusic.net/qa-with-marianne-schuppe-and-deborah-walker.html[Two Paths], Januar 2026
+
 .DIE SUMME Neun Fragen an Marianne Schuppe
-icon:file[link=pdf/summe.pdf], Zeiträume Basel 2019
+icon:file[link=pdf/summe.pdf] Zeiträume Basel 2019
 
 .Die Indianer kommen näher
 icon:file[link=pdf/dissonanz106.pdf]
