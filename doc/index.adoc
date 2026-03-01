@@ -1,4 +1,4 @@
-= Marianne Schuppe 
+= Marianne Schuppe
 :includedir: _includes
 :imagesdir: ./images
 :icons: font
@@ -11,6 +11,24 @@
 :copycss!:
 :stylesheet: theme.css
 :stylesdir: /current-theme
+
+++++
+<style>
+.score-fragment {
+  text-align: center;
+  margin: 2em 0;
+  line-height: 0;
+}
+.score-fragment img {
+  max-width: 14em;
+  max-height: 7em;
+  object-fit: contain;
+  object-position: top center;
+  opacity: 0.45;
+  display: inline-block;
+}
+</style>
+++++
 
 === Singer Composer Writer
 {nbsp} +
@@ -30,6 +48,12 @@ In this vein,  link:/csl/index.html[colline sur livre]  has been an ongoing work
 
 
 {nbsp} +
+
+++++
+<div class="score-fragment" aria-hidden="true">
+  <img src="/inkscape/3-22-1.svg" alt="" loading="lazy">
+</div>
+++++
 
 [.axis-row,cols="<a,<a,<a", frame=none, grid=none]
 |===
