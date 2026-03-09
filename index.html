@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.16">
+<meta name="generator" content="Asciidoctor 2.0.20">
 <title>Marianne Schuppe</title>
 <link rel="stylesheet" href="/current-theme/theme.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -28,27 +28,23 @@ body {
 <div id="preamble">
 <div class="sectionbody">
 <style>
-.score-fragment {
-  text-align: center;
-  margin: 2em 0;
-  line-height: 0;
-}
-.score-fragment img {
-  max-width: 14em;
-  max-height: 7em;
-  object-fit: contain;
-  object-position: top center;
-  opacity: 0.45;
-  display: inline-block;
+/* Home page: tighten vertical spacing to fit ~768px viewport */
+#header > h1:first-child { margin-top: 1.25rem; }
+#content { margin-top: 0.5em; }
+/* Home page: add upper-left watermark beside title, keep right-bottom one */
+body {
+  background:
+    linear-gradient(rgba(255,254,249,0.95), rgba(255,254,249,0.95)),
+    url(/inkscape/3-22-1.svg) calc(50% - 26em) 3.5em / 12em auto no-repeat,
+    url(/inkscape/3-22-1.svg) right bottom / 30em auto no-repeat,
+    #fffef9;
+  background-attachment: fixed, fixed, fixed;
 }
 </style>
 </div>
 </div>
 <div class="sect2">
 <h3 id="_singer_composer_writer">Singer Composer Writer</h3>
-<div class="paragraph">
-<p>&#160;<br></p>
-</div>
 <div class="paragraph">
 <p>My interest in voice draws me toward the space between music and language.
 An area where the grain of words merges with the fluidity of sound.<br>
@@ -59,12 +55,6 @@ I have pursued it through various forms and collaborations:
                                                          projects with and <a href="/works/index.html#summe">for voices</a>, <a href="/mentor/index.html#summe">teaching</a> and writing.
 In recent years, I have turned more specifically to the borderlands where music passes into <a href="/now/index.html#buch">poetry</a>.
 In this vein,  <a href="/csl/index.html">colline sur livre</a>  has been an ongoing work since 2022.</p>
-</div>
-<div class="paragraph">
-<p>&#160;<br></p>
-</div>
-<div class="score-fragment" aria-hidden="true">
-  <img src="/inkscape/3-22-1.svg" alt="" loading="lazy">
 </div>
 <table class="tableblock frame-none grid-none stretch axis-row">
 <colgroup>
