@@ -20,8 +20,8 @@
 /* Home page: add upper-left watermark beside title, keep right-bottom one */
 body {
   background:
-    linear-gradient(rgba(255,254,249,0.95), rgba(255,254,249,0.95)),
-    url(/inkscape/3-22-1.svg) calc(50% - 26em) 3.5em / 12em auto no-repeat,
+    radial-gradient(ellipse 14em 9em at calc(50% - 30em) 7em, rgba(255,254,249,0.50) 0%, rgba(255,254,249,0.95) 100%),
+    url(/inkscape/3-22-1.svg) calc(50% - 36em) 3.5em / 12em auto no-repeat,
     url(/inkscape/3-22-1.svg) right bottom / 30em auto no-repeat,
     #fffef9;
   background-attachment: fixed, fixed, fixed;
