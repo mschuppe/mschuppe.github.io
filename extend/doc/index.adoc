@@ -52,7 +52,7 @@ fahren
 == Die Summe
 
 
-image:summe1.png[link=images/summe1.png]
+image:summe1.jpg[link=images/summe1.jpg]
 
 
 *Die Summe (2019 / 2021)* +
@@ -76,7 +76,7 @@ Für die Basler Biennale ZeitRäume entstand 2019 das Stimmenprojekt _Die Summe_
 The voice project _Die Summe_ was created for the Basel Biennale ZeitRäume in 2019. Over a period of 10 days large and small groups of people gathered in ten public spaces in Basel at different times of day. They formed a sounding corpus for 9 minutes by humming a single note, blending into the sounds of the city as a quietly carrying sound surface. The sum of these 10 tones resulted in a melody that travelled through the city of Basel as an ephemeral sculpture.
 
 
-image:summe2.png[link=images/summe2.png]
+
 
 Insgesamt waren mehrere hundert Menschen an dieser Melodie beteiligt. 
 Basler Chöre und Ensembles, Schülerinnen und Schüler, eine Fassnachtsclique,
