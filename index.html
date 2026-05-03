@@ -4,34 +4,10 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.16">
 <title>Marianne Schuppe</title>
 <link rel="stylesheet" href="/current-theme/theme.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<!-- Custom styles now in /current-theme/theme.css -->
-<!-- Site-wide visual softener: faint score-fragment watermark -->
 <style>
-body {
-  background:
-    linear-gradient(rgba(255,254,249,0.95), rgba(255,254,249,0.95)),
-    url(/inkscape/3-22-1.svg) right bottom / 30em auto no-repeat,
-    #fffef9;
-  background-attachment: fixed, fixed;
-}
-</style>
-</head>
-<body class="article">
-<div id="header">
-<h1>Marianne Schuppe</h1>
-</div>
-<div id="content">
-<div id="preamble">
-<div class="sectionbody">
-<style>
-/* Home page: tighten vertical spacing to fit ~768px viewport */
-#header > h1:first-child { margin-top: 1.25rem; }
-#content { margin-top: 0.5em; }
-/* Home page: add upper-left watermark beside title, keep right-bottom one */
+/* Watermark */
 body {
   background:
     radial-gradient(ellipse 14em 9em at calc(50% - 30em) 7em, rgba(255,254,249,0.50) 0%, rgba(255,254,249,0.95) 100%),
@@ -40,88 +16,233 @@ body {
     #fffef9;
   background-attachment: fixed, fixed, fixed;
 }
+
+/* Layout */
+.page {
+  max-width: 42em;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* Block 1 — Statement */
+.site-name {
+  font-family: "Source Sans 3", "Noto Sans", sans-serif;
+  font-size: 0.95rem;
+  font-weight: 400;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #333;
+  margin-top: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.statement {
+  font-family: "Crimson Text", "Noto Serif", serif;
+  font-size: 1.8rem;
+  line-height: 1.4;
+  color: #1a1a1a;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+.tagline {
+  font-family: "Source Sans 3", "Noto Sans", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  color: #333;
+  margin-bottom: 3rem;
+}
+
+/* Block 2 — Audio */
+.audio-block {
+  margin-bottom: 3rem;
+}
+
+.audio-label {
+  font-family: "Source Sans 3", "Noto Sans", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+audio {
+  width: 100%;
+  max-width: 28em;
+  display: block;
+}
+
+/* Block 3 — Axes */
+.axes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-bottom: 3.5rem;
+}
+
+.axis-item a {
+  text-decoration: none;
+  display: block;
+}
+
+.axis-label {
+  font-family: "Source Sans 3", "Noto Sans", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #2a6464;
+}
+
+.axis-item a:hover .axis-label {
+  color: #135858;
+}
+
+.axis-sub {
+  font-family: "Crimson Text", "Noto Serif", serif;
+  font-size: 1.1rem;
+  color: #333;
+  margin-top: 0.25rem;
+}
+
+/* Block 4 — Works */
+.works {
+  margin-bottom: 3.5rem;
+  border-top: 1px solid #e0dbd3;
+  padding-top: 2rem;
+}
+
+.works-heading {
+  font-family: "Source Sans 3", "Noto Sans", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 400;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #444;
+  margin-bottom: 1.5rem;
+}
+
+.work {
+  margin-bottom: 1.75rem;
+}
+
+.work-title {
+  font-family: "Crimson Text", "Noto Serif", serif;
+  font-size: 1.3rem;
+  font-style: italic;
+}
+
+.work-title a {
+  color: #2a6464;
+  text-decoration: none;
+}
+
+.work-title a:hover {
+  color: #135858;
+}
+
+.work-year {
+  font-family: "Source Sans 3", "Noto Sans", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #555;
+  margin-left: 0.5em;
+  font-style: normal;
+}
+
+.work-desc {
+  font-family: "Source Sans 3", "Noto Sans", sans-serif;
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #333;
+  margin-top: 0.2rem;
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+  .axes {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .statement {
+    font-size: 1.45rem;
+  }
+}
 </style>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_singer_composer_writer">Singer Composer Writer</h3>
-<div class="paragraph">
-<p>My interest in voice draws me toward the space between music and language.
-An area where the grain of words merges with the fluidity of sound.<br>
-This oscillation has guided my work since the eighties, when I began singing the music of <a href="/recording/index.html#scelsi">Giacinto Scelsi</a> and <a href="/recording/index.html#feldman">Morton Feldman</a>.
-I have pursued it through various forms and collaborations:
-<a href="/recording/index.html#selbdritt">improvisation</a>, interpretation,
-                                                         reweighing the traditional ingredients of <a href="/recording/index.html#nosongs">song</a>, developing
-                                                         projects with and <a href="/works/index.html#summe">for voices</a>, <a href="/mentor/index.html#summe">teaching</a> and writing.
-In recent years, I have turned more specifically to the borderlands where music passes into <a href="/now/index.html#buch">poetry</a>.
-In this vein,  <a href="/csl/index.html">colline sur livre</a>  has been an ongoing work since 2022.</p>
-</div>
-<table class="tableblock frame-none grid-none stretch axis-row">
-<colgroup>
-<col style="width: 33.3333%;">
-<col style="width: 33.3333%;">
-<col style="width: 33.3334%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><span class="axis"><a href="/bridge/index.html">Bridging</a></span><br>
-words and music</p>
-</div></div></td>
-<td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><span class="axis"><a href="/extend/index.html">Extending</a></span><br>
-the idea of concert</p>
-</div></div></td>
-<td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
-<p><span class="axis"><a href="/mentor/index.html">Sharing</a></span><br>
-experiences in mentoring</p>
-</div></div></td>
-</tr>
-</tbody>
-</table>
-<table class="tableblock frame-none grid-none stretch">
-<colgroup>
-<col style="width: 75%;">
-<col style="width: 25%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock"><a href="/now/index.html">Now &amp; Then</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock"><a href="/path/index.html">Path</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock"><a href="/recording/index.html">Recordings</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">march 2026: CD <a href="https://www.elsewheremusic.net/store/p152/Two_Paths.html"><em>Two Paths</em></a> elsewhere 038</p></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock"><a href="/int_essay/index.html">Conversations</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Éliane Radigue, Deborah Walker, Marianne Schuppe</p></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock"><a href="/works/index.html">Works</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock"><a href="/review/index.html">Reviews</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-right valign-top"><p class="tableblock"><a href="/contact/index.html">Contact</a></p></td>
-</tr>
-</tbody>
-</table>
-<div class="paragraph">
-<p>&#160;<br>
-&#160;<br>
-&#160;<br></p>
-</div>
-</div>
-</div>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- Block 1: Statement -->
+  <p class="site-name">Marianne Schuppe</p>
+  <p class="statement">I approach singing from speech,<br>not from the piano.</p>
+  <p class="tagline">Singer &middot; Composer &middot; Writer</p>
+
+  <!-- Block 2: Audio -->
+  <div class="audio-block">
+    <p class="audio-label">colline sur livre &mdash; 1.3.2026</p>
+    <audio controls preload="none">
+      <source src="/csl/images/1-3-26.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+
+  <!-- Block 3: Axes -->
+  <div class="axes">
+    <div class="axis-item">
+      <a href="/bridge/index.html">
+        <span class="axis-label">Bridging</span>
+        <span class="axis-sub">words and music</span>
+      </a>
+    </div>
+    <div class="axis-item">
+      <a href="/extend/index.html">
+        <span class="axis-label">Extending</span>
+        <span class="axis-sub">the idea of concert</span>
+      </a>
+    </div>
+    <div class="axis-item">
+      <a href="/mentor/index.html">
+        <span class="axis-label">Mentoring</span>
+      </a>
+    </div>
+  </div>
+
+  <!-- Block 4: Works -->
+  <div class="works">
+    <p class="works-heading">Recent works</p>
+
+    <div class="work">
+      <div class="work-title">
+        <a href="https://www.elsewheremusic.net/store/p152/Two_Paths.html" target="_blank" rel="noopener">Two Paths</a>
+        <span class="work-year">2026</span>
+      </div>
+      <div class="work-desc">&#201;liane Radigue &middot; Deborah Walker &middot; Marianne Schuppe &mdash; CD, elsewhere 038</div>
+    </div>
+
+    <div class="work">
+      <div class="work-title">
+        <a href="/csl/index.html">colline sur livre</a>
+        <span class="work-year">2022&ndash;</span>
+      </div>
+      <div class="work-desc">voice, lute, e-bows &mdash; ongoing daily practice</div>
+    </div>
+
+    <div class="work">
+      <div class="work-title">
+        <a href="/bridge/index.html">little luggage</a>
+        <span class="work-year">2025</span>
+      </div>
+      <div class="work-desc">poem scores &middot; text publication &middot; Verlag Klingental</div>
+    </div>
+  </div>
+
+</div><!-- .page -->
+
+<!-- Block 5: Footer nav -->
 <nav class="site-nav" role="navigation" aria-label="Site navigation">
   <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Toggle navigation">
   <label for="nav-toggle" class="nav-hamburger">&#9776;</label>
@@ -139,5 +260,6 @@ experiences in mentoring</p>
     <a href="/contact/index.html">Contact</a>
   </div>
 </nav>
+
 </body>
 </html>
