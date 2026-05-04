@@ -260,6 +260,7 @@ _ins inländisch Ausländische hinein_
 _ins ausländisch Inländische hinaus_
 
 .Winterreise (1994)
+
 [%hardbreaks]
 a performative approach to Franz Schubert’s Winterreise with Dorothea Schürch, Walter Stefan Riedweg and Christoph Schiller, Roxy Birsfelden
 Mediathek FHNW
@@ -271,4 +272,12 @@ chamberopera with Dorothea Schürch (voice), Thomas Eiffler (video), Christoph S
 Werkraum Schlotterbeck
 Mediathek FHNW
 
-link:/../index.html[icon:home[]] 
+== Bridging
+
+include::../../bridge/doc/index.adoc[lines=18..44;46..681]
+
+== Extending
+
+include::../../extend/doc/index.adoc[lines=18..422,leveloffset=+1]
+
+link:/../index.html[icon:home[]]
