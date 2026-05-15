@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__claude-in-chrome__computer",
+      "mcp__claude-in-chrome__navigate",
+      "mcp__claude-in-chrome__javascript_tool",
+      "mcp__claude-in-chrome__tabs_context_mcp",
+      "mcp__claude-in-chrome__read_page",
+      "mcp__claude-in-chrome__tabs_create_mcp",
+      "mcp__claude-in-chrome__switch_browser",
+      "Bash(fuser *)",
+      "Bash(./build.sh*)",
+      "Bash(./build-top.sh*)",
+      "Bash(./propagate-style.sh*)",
+      "Bash(./switch-theme.sh*)"
+    ]
+  }
+}
