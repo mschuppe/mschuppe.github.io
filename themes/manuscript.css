@@ -60,8 +60,8 @@ img, object, svg { display: inline-block; vertical-align: middle; }
 :not(pre).pre-wrap { white-space: pre-wrap; }
 
 /* === Typography === */
-a { color: #1a7070; text-decoration: none; line-height: inherit; }
-a:hover, a:focus { color: #135858; }
+a { color: #0f5f5f; text-decoration: none; line-height: inherit; }
+a:hover, a:focus { color: #0d4545; }
 a:visited { text-decoration: none; }
 a img { border: 0; }
 
@@ -419,8 +419,8 @@ strong strong { font-weight: 400; }
 
 /* === Axis links (home page) === */
 .axis { font-size: 2em; font-weight: 300; letter-spacing: .01em; text-transform: none; font-variant: normal; }
-.axis a { color: #2a6464; }
-.axis a:hover { color: #135858; }
+.axis a { color: #1a5252; }
+.axis a:hover { color: #0d4545; }
 
 /* === Site navigation footer === */
 body { padding-bottom: 3.5em; }
@@ -434,8 +434,8 @@ body { padding-bottom: 3.5em; }
   font-family: "Source Sans 3", "Open Sans", sans-serif;
   font-size: .85rem; letter-spacing: .02em; line-height: 2;
 }
-.site-nav a { color: #2a6464; text-decoration: none; white-space: nowrap; }
-.site-nav a:hover { color: #135858; }
+.site-nav a { color: #1a5252; text-decoration: none; white-space: nowrap; }
+.site-nav a:hover { color: #0d4545; }
 .nav-toggle { position: absolute; left: -9999px; width: 0; height: 0; opacity: 0; pointer-events: none; }
 .nav-hamburger { display: none; }
 body.toc2 .site-nav { left: 0; }
@@ -449,7 +449,7 @@ body.toc2 .site-nav { left: 0; }
   .nav-hamburger {
     display: block; position: fixed; bottom: .5em; right: .75em;
     z-index: 1001; font-size: 1.5rem; cursor: pointer;
-    color: #2a6464; background: none; border: none; line-height: 1;
+    color: #1a5252; background: none; border: none; line-height: 1;
   }
   .site-nav { padding: .4em .5em; }
   .site-nav-inner { display: none; }

@@ -48,6 +48,7 @@ dienen Worte als Medium, um Ideen zu vermittelen, die sich anders nicht beschrei
 [%hardbreaks]
 _poem scores_
 text-publication with Verlag Klingental, Basel, an editor, that features works in the intersection between words and music.
+It can be read as a poem as well as a score. Individual translations / interpretations by various musicians are being developed over the next few years.
 
 [verse,Klappentext]
 ____

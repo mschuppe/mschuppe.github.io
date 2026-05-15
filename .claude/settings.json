@@ -1,6 +1,9 @@
 {
   "permissions": {
     "allow": [
+      "Edit(*)",
+      "Write(*)",
+      "Read(*)",
       "mcp__claude-in-chrome__computer",
       "mcp__claude-in-chrome__navigate",
       "mcp__claude-in-chrome__javascript_tool",
