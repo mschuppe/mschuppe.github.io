@@ -14,8 +14,26 @@
 :stylesheet: theme.css
 :stylesdir: /current-theme
 
-link:/../index.html[icon:home[]] 
+link:/../index.html[icon:home[]]
 
+
+[%hardbreaks]
+.music from words
+rencontre de la création musicale GMEA
+June 30–July 2
+Abbaye de Sylvanès, France
+
+[%hardbreaks]
+.translating übersetzen
+Symposion Le Puid
+June 25–28
+88210 Le Puid, France
+
+[%hardbreaks]
+.petit baggage
+{sp}31. Mai, 18.30
+in der Ausstellung RESTE von Anne-Do Hubert
+Kraftstr 11, 4058 Basel
 
 [%hardbreaks]
 .only
