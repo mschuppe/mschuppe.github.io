@@ -15,7 +15,9 @@
       "Bash(./build.sh*)",
       "Bash(./build-top.sh*)",
       "Bash(./propagate-style.sh*)",
-      "Bash(./switch-theme.sh*)"
+      "Bash(./switch-theme.sh*)",
+      "Bash(python3 -m http.server *)",
+      "Bash(git *)"
     ]
   }
 }
