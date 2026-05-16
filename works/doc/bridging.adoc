@@ -1,0 +1,19 @@
+= bridging words & music
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums!:
+:figure-caption!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]
+
+include::../../bridge/doc/index.adoc[lines=18..44;46..681]
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]

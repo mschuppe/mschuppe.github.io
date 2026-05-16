@@ -1,0 +1,19 @@
+= extending the idea of concert
+:imagesdir: ./images
+:icons: font
+:toc: left
+:toc-title:
+:nofooter:
+:sectnums!:
+:figure-caption!:
+:docinfo: shared
+:linkcss:
+:copycss!:
+:stylesheet: theme.css
+:stylesdir: /current-theme
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]
+
+include::../../extend/doc/index.adoc[lines=18..422,leveloffset=+1]
+
+link:/../index.html[icon:home[]] | link:/works/index.html[works]
