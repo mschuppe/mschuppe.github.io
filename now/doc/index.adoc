@@ -16,6 +16,20 @@
 
 link:/../index.html[icon:home[]]
 
+[%hardbreaks]
+.little luggage
+august 18-22
+Klangraum Düsseldorf
+Himmelgeisterstr. 107g
+40225 Düsseldorf
+
+[%hardbreaks]
+.little luggage residency
+august 24/25
+Elisabeth Smalt, viola
+Reinier van Houdt, keyboard instruments
+Marianne Schuppe, voice, composition
+NL - Orgelpark Amsterdam
 
 [%hardbreaks]
 .music from words
@@ -32,7 +46,7 @@ June 25–28
 [%hardbreaks]
 .petit baggage
 {sp}31. Mai, 18.30
-in der Ausstellung RESTE von Anne-Do Hubert
+in der Ausstellung _derive_ von Anne-Do Hubert
 Kraftstr 11, 4058 Basel
 
 [%hardbreaks]
