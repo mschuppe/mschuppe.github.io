@@ -1,4 +1,4 @@
-= bridging words & music
+= music from words
 :imagesdir: ./images
 :icons: font
 :toc: left

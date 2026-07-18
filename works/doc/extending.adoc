@@ -1,4 +1,4 @@
-= extending the idea of concert
+= ways of gathering
 :imagesdir: ./images
 :icons: font
 :toc: left
