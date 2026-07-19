@@ -1,4 +1,4 @@
-= through words
+= passing through words
 :imagesdir: ./images
 :icons: font
 :toc: left

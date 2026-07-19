@@ -30,7 +30,7 @@ listening changes what a voice becomes.
 link:/works/composer-performer.html[composer-performer] +
 link:/works/composing-for-voices.html[composing for voices] +
 link:/works/collective-and-interdisciplinary-work.html[collective and interdisciplinary works] +
-link:/works/bridging.html[through words] +
+link:/works/passing-through-words.html[passing through words] +
 link:/works/extending.html[ways of gathering]
 
 link:/../index.html[icon:home[]]
